@@ -1,5 +1,5 @@
 # aiDomainFinder
-This repository finds the domains of the companies with the highest market caps and checks the '.ai' availability using the GoDaddy API. This project is designed to automate the process of finding available domains related to Artificial Intelligence (AI) and top companies. It uses Python scripts to scrape data, check domain availability, and store the results.
+This repository finds the domains of the companies with the highest market caps and checks the '.ai' availability using the GoDaddy API. It uses Python scripts to scrape data, check domain availability, and store the results.
 
 ## Table of Contents
 
@@ -40,7 +40,7 @@ cd aiDomainFinder
 
 Install required Python packages
 
-    pip install -r requirements.txt
+pip install -r requirements.txt
 
 ## Usage
 
