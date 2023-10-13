@@ -4062,15 +4062,6387 @@ domains = [
     "domain": "Take.ai",
     "available": false,
     "purchaseLink": "https://oneword.domains/d/Take.ai"
+  },
+  {
+    "domain": "Insightful.ai",
+    "available": false,
+    "purchaseLink": "https://oneword.domains/d/Insightful.ai"
+  },
+  {
+    "domain": "Brilliant.ai",
+    "available": false,
+    "purchaseLink": "https://oneword.domains/d/Brilliant.ai"
+  },
+  {
+    "domain": "Wise.ai",
+    "available": false,
+    "purchaseLink": "https://oneword.domains/d/Wise.ai"
+  },
+  {
+    "domain": "Genius.ai",
+    "available": false,
+    "purchaseLink": "https://oneword.domains/d/Genius.ai"
+  },
+  {
+    "domain": "Intelligent.ai",
+    "available": false,
+    "purchaseLink": "https://oneword.domains/d/Intelligent.ai"
+  },
+  {
+    "domain": "Smart.ai",
+    "available": false,
+    "purchaseLink": "https://oneword.domains/d/Smart.ai"
+  },
+  {
+    "domain": "Invent.ai",
+    "available": false,
+    "purchaseLink": "https://oneword.domains/d/Invent.ai"
+  },
+  {
+    "domain": "Creative.ai",
+    "available": false,
+    "purchaseLink": "https://oneword.domains/d/Creative.ai"
+  },
+  {
+    "domain": "Imagine.ai",
+    "available": false,
+    "purchaseLink": "https://oneword.domains/d/Imagine.ai"
+  },
+  {
+    "domain": "Innovate.ai",
+    "available": false,
+    "purchaseLink": "https://oneword.domains/d/Innovate.ai"
+  },
+  {
+    "domain": "Original.ai",
+    "available": false,
+    "purchaseLink": "https://oneword.domains/d/Original.ai"
+  },
+  {
+    "domain": "Novel.ai",
+    "available": false,
+    "purchaseLink": "https://oneword.domains/d/Novel.ai"
+  },
+  {
+    "domain": "Pioneer.ai",
+    "available": false,
+    "purchaseLink": "https://oneword.domains/d/Pioneer.ai"
+  },
+  {
+    "domain": "Revolution.ai",
+    "available": false,
+    "purchaseLink": "https://oneword.domains/d/Revolution.ai"
+  },
+  {
+    "domain": "Visionary.ai",
+    "available": false,
+    "purchaseLink": "https://oneword.domains/d/Visionary.ai"
+  },
+  {
+    "domain": "Futuristic.ai",
+    "available": false,
+    "purchaseLink": "https://oneword.domains/d/Futuristic.ai"
+  },
+  {
+    "domain": "Forward.ai",
+    "available": false,
+    "purchaseLink": "https://oneword.domains/d/Forward.ai"
+  },
+  {
+    "domain": "Lead.ai",
+    "available": false,
+    "purchaseLink": "https://oneword.domains/d/Lead.ai"
+  },
+  {
+    "domain": "CuttingEdge.ai",
+    "available": false,
+    "purchaseLink": "https://oneword.domains/d/CuttingEdge.ai"
+  },
+  {
+    "domain": "AvantGarde.ai",
+    "available": false,
+    "purchaseLink": "https://oneword.domains/d/AvantGarde.ai"
+  },
+  {
+    "domain": "Advanced.ai",
+    "available": false,
+    "purchaseLink": "https://oneword.domains/d/Advanced.ai"
+  },
+  {
+    "domain": "StateOfTheArt.ai",
+    "available": false,
+    "purchaseLink": "https://oneword.domains/d/StateOfTheArt.ai"
+  },
+  {
+    "domain": "Modern.ai",
+    "available": false,
+    "purchaseLink": "https://oneword.domains/d/Modern.ai"
+  },
+  {
+    "domain": "Contemporary.ai",
+    "available": false,
+    "purchaseLink": "https://oneword.domains/d/Contemporary.ai"
+  },
+  {
+    "domain": "Current.ai",
+    "available": false,
+    "purchaseLink": "https://oneword.domains/d/Current.ai"
+  },
+  {
+    "domain": "Latest.ai",
+    "available": false,
+    "purchaseLink": "https://oneword.domains/d/Latest.ai"
+  },
+  {
+    "domain": "Recent.ai",
+    "available": false,
+    "purchaseLink": "https://oneword.domains/d/Recent.ai"
+  },
+  {
+    "domain": "Fresh.ai",
+    "available": false,
+    "purchaseLink": "https://oneword.domains/d/Fresh.ai"
+  },
+  {
+    "domain": "New.ai",
+    "available": false,
+    "purchaseLink": "https://oneword.domains/d/New.ai"
+  },
+  {
+    "domain": "Unique.ai",
+    "available": false,
+    "purchaseLink": "https://oneword.domains/d/Unique.ai"
+  },
+  {
+    "domain": "OneOfAKind.ai",
+    "available": false,
+    "purchaseLink": "https://oneword.domains/d/OneOfAKind.ai"
+  },
+  {
+    "domain": "Different.ai",
+    "available": false,
+    "purchaseLink": "https://oneword.domains/d/Different.ai"
+  },
+  {
+    "domain": "Distinct.ai",
+    "available": false,
+    "purchaseLink": "https://oneword.domains/d/Distinct.ai"
+  },
+  {
+    "domain": "Uncommon.ai",
+    "available": false,
+    "purchaseLink": "https://oneword.domains/d/Uncommon.ai"
+  },
+  {
+    "domain": "Rare.ai",
+    "available": false,
+    "purchaseLink": "https://oneword.domains/d/Rare.ai"
+  },
+  {
+    "domain": "Exclusive.ai",
+    "available": false,
+    "purchaseLink": "https://oneword.domains/d/Exclusive.ai"
+  },
+  {
+    "domain": "Exceptional.ai",
+    "available": false,
+    "purchaseLink": "https://oneword.domains/d/Exceptional.ai"
+  },
+  {
+    "domain": "Extraordinary.ai",
+    "available": false,
+    "purchaseLink": "https://oneword.domains/d/Extraordinary.ai"
+  },
+  {
+    "domain": "Outstanding.ai",
+    "available": false,
+    "purchaseLink": "https://oneword.domains/d/Outstanding.ai"
+  },
+  {
+    "domain": "Superb.ai",
+    "available": false,
+    "purchaseLink": "https://oneword.domains/d/Superb.ai"
+  },
+  {
+    "domain": "Stellar.ai",
+    "available": false,
+    "purchaseLink": "https://oneword.domains/d/Stellar.ai"
+  },
+  {
+    "domain": "Skillful.ai",
+    "available": false,
+    "purchaseLink": "https://oneword.domains/d/Skillful.ai"
+  },
+  {
+    "domain": "Masterful.ai",
+    "available": false,
+    "purchaseLink": "https://oneword.domains/d/Masterful.ai"
+  },
+  {
+    "domain": "Expert.ai",
+    "available": false,
+    "purchaseLink": "https://oneword.domains/d/Expert.ai"
+  },
+  {
+    "domain": "Specialist.ai",
+    "available": false,
+    "purchaseLink": "https://oneword.domains/d/Specialist.ai"
+  },
+  {
+    "domain": "Professional.ai",
+    "available": false,
+    "purchaseLink": "https://oneword.domains/d/Professional.ai"
+  },
+  {
+    "domain": "WorldClass.ai",
+    "available": false,
+    "purchaseLink": "https://oneword.domains/d/WorldClass.ai"
+  },
+  {
+    "domain": "Renown.ai",
+    "available": false,
+    "purchaseLink": "https://oneword.domains/d/Renown.ai"
+  },
+  {
+    "domain": "Celebrate.ai",
+    "available": false,
+    "purchaseLink": "https://oneword.domains/d/Celebrate.ai"
+  },
+  {
+    "domain": "Fame.ai",
+    "available": false,
+    "purchaseLink": "https://oneword.domains/d/Fame.ai"
+  },
+  {
+    "domain": "Esteem.ai",
+    "available": false,
+    "purchaseLink": "https://oneword.domains/d/Esteem.ai"
+  },
+  {
+    "domain": "Reputable.ai",
+    "available": false,
+    "purchaseLink": "https://oneword.domains/d/Reputable.ai"
+  },
+  {
+    "domain": "Prominent.ai",
+    "available": false,
+    "purchaseLink": "https://oneword.domains/d/Prominent.ai"
+  },
+  {
+    "domain": "Eminent.ai",
+    "available": false,
+    "purchaseLink": "https://oneword.domains/d/Eminent.ai"
+  },
+  {
+    "domain": "Distinguish.ai",
+    "available": false,
+    "purchaseLink": "https://oneword.domains/d/Distinguish.ai"
+  },
+  {
+    "domain": "Prestigious.ai",
+    "available": false,
+    "purchaseLink": "https://oneword.domains/d/Prestigious.ai"
+  },
+  {
+    "domain": "Elite.ai",
+    "available": false,
+    "purchaseLink": "https://oneword.domains/d/Elite.ai"
+  },
+  {
+    "domain": "Refine.ai",
+    "available": false,
+    "purchaseLink": "https://oneword.domains/d/Refine.ai"
+  },
+  {
+    "domain": "Culture.ai",
+    "available": false,
+    "purchaseLink": "https://oneword.domains/d/Culture.ai"
+  },
+  {
+    "domain": "Sophisticate.ai",
+    "available": false,
+    "purchaseLink": "https://oneword.domains/d/Sophisticate.ai"
+  },
+  {
+    "domain": "Discern.ai",
+    "available": false,
+    "purchaseLink": "https://oneword.domains/d/Discern.ai"
+  },
+  {
+    "domain": "Select.ai",
+    "available": false,
+    "purchaseLink": "https://oneword.domains/d/Select.ai"
+  },
+  {
+    "domain": "Eclectic.ai",
+    "available": false,
+    "purchaseLink": "https://oneword.domains/d/Eclectic.ai"
+  },
+  {
+    "domain": "Cosmopolitan.ai",
+    "available": false,
+    "purchaseLink": "https://oneword.domains/d/Cosmopolitan.ai"
+  },
+  {
+    "domain": "Progressive.ai",
+    "available": false,
+    "purchaseLink": "https://oneword.domains/d/Progressive.ai"
+  },
+  {
+    "domain": "Evolve.ai",
+    "available": false,
+    "purchaseLink": "https://oneword.domains/d/Evolve.ai"
+  },
+  {
+    "domain": "Develop.ai",
+    "available": false,
+    "purchaseLink": "https://oneword.domains/d/Develop.ai"
+  },
+  {
+    "domain": "Emerge.ai",
+    "available": false,
+    "purchaseLink": "https://oneword.domains/d/Emerge.ai"
+  },
+  {
+    "domain": "Mature.ai",
+    "available": false,
+    "purchaseLink": "https://oneword.domains/d/Mature.ai"
+  },
+  {
+    "domain": "Promise.ai",
+    "available": false,
+    "purchaseLink": "https://oneword.domains/d/Promise.ai"
+  },
+  {
+    "domain": "Bud.ai",
+    "available": false,
+    "purchaseLink": "https://oneword.domains/d/Bud.ai"
+  },
+  {
+    "domain": "Thrive.ai",
+    "available": false,
+    "purchaseLink": "https://oneword.domains/d/Thrive.ai"
+  },
+  {
+    "domain": "Flourish.ai",
+    "available": false,
+    "purchaseLink": "https://oneword.domains/d/Flourish.ai"
+  },
+  {
+    "domain": "Prosper.ai",
+    "available": false,
+    "purchaseLink": "https://oneword.domains/d/Prosper.ai"
+  },
+  {
+    "domain": "Grow.ai",
+    "available": false,
+    "purchaseLink": "https://oneword.domains/d/Grow.ai"
+  },
+  {
+    "domain": "Expand.ai",
+    "available": false,
+    "purchaseLink": "https://oneword.domains/d/Expand.ai"
+  },
+  {
+    "domain": "Advance.ai",
+    "available": false,
+    "purchaseLink": "https://oneword.domains/d/Advance.ai"
+  },
+  {
+    "domain": "Improve.ai",
+    "available": false,
+    "purchaseLink": "https://oneword.domains/d/Improve.ai"
+  },
+  {
+    "domain": "Optimize.ai",
+    "available": false,
+    "purchaseLink": "https://oneword.domains/d/Optimize.ai"
+  },
+  {
+    "domain": "Enhance.ai",
+    "available": false,
+    "purchaseLink": "https://oneword.domains/d/Enhance.ai"
+  },
+  {
+    "domain": "Upgrade.ai",
+    "available": false,
+    "purchaseLink": "https://oneword.domains/d/Upgrade.ai"
+  },
+  {
+    "domain": "Transform.ai",
+    "available": false,
+    "purchaseLink": "https://oneword.domains/d/Transform.ai"
+  },
+  {
+    "domain": "Modernize.ai",
+    "available": false,
+    "purchaseLink": "https://oneword.domains/d/Modernize.ai"
+  },
+  {
+    "domain": "Innovate.ai",
+    "available": false,
+    "purchaseLink": "https://oneword.domains/d/Innovate.ai"
+  },
+  {
+    "domain": "Create.ai",
+    "available": false,
+    "purchaseLink": "https://oneword.domains/d/Create.ai"
+  },
+  {
+    "domain": "Design.ai",
+    "available": false,
+    "purchaseLink": "https://oneword.domains/d/Design.ai"
+  },
+  {
+    "domain": "Engineer.ai",
+    "available": false,
+    "purchaseLink": "https://oneword.domains/d/Engineer.ai"
+  },
+  {
+    "domain": "Construct.ai",
+    "available": false,
+    "purchaseLink": "https://oneword.domains/d/Construct.ai"
+  },
+  {
+    "domain": "Build.ai",
+    "available": false,
+    "purchaseLink": "https://oneword.domains/d/Build.ai"
+  },
+  {
+    "domain": "Produce.ai",
+    "available": false,
+    "purchaseLink": "https://oneword.domains/d/Produce.ai"
+  },
+  {
+    "domain": "Generate.ai",
+    "available": false,
+    "purchaseLink": "https://oneword.domains/d/Generate.ai"
+  },
+  {
+    "domain": "Formulate.ai",
+    "available": false,
+    "purchaseLink": "https://oneword.domains/d/Formulate.ai"
+  },
+  {
+    "domain": "Fabricate.ai",
+    "available": false,
+    "purchaseLink": "https://oneword.domains/d/Fabricate.ai"
+  },
+  {
+    "domain": "Manufacture.ai",
+    "available": false,
+    "purchaseLink": "https://oneword.domains/d/Manufacture.ai"
+  },
+  {
+    "domain": "Craft.ai",
+    "available": false,
+    "purchaseLink": "https://oneword.domains/d/Craft.ai"
+  },
+  {
+    "domain": "Tailor.ai",
+    "available": false,
+    "purchaseLink": "https://oneword.domains/d/Tailor.ai"
+  },
+  {
+    "domain": "Customize.ai",
+    "available": false,
+    "purchaseLink": "https://oneword.domains/d/Customize.ai"
+  },
+  {
+    "domain": "Personalize.ai",
+    "available": false,
+    "purchaseLink": "https://oneword.domains/d/Personalize.ai"
+  },
+  {
+    "domain": "Specialize.ai",
+    "available": false,
+    "purchaseLink": "https://oneword.domains/d/Specialize.ai"
+  },
+  {
+    "domain": "Focus.ai",
+    "available": false,
+    "purchaseLink": "https://oneword.domains/d/Focus.ai"
+  },
+  {
+    "domain": "Concentrate.ai",
+    "available": false,
+    "purchaseLink": "https://oneword.domains/d/Concentrate.ai"
+  },
+  {
+    "domain": "Centralize.ai",
+    "available": false,
+    "purchaseLink": "https://oneword.domains/d/Centralize.ai"
+  },
+  {
+    "domain": "Streamline.ai",
+    "available": false,
+    "purchaseLink": "https://oneword.domains/d/Streamline.ai"
+  },
+  {
+    "domain": "Simplify.ai",
+    "available": false,
+    "purchaseLink": "https://oneword.domains/d/Simplify.ai"
+  },
+  {
+    "domain": "Refine.ai",
+    "available": false,
+    "purchaseLink": "https://oneword.domains/d/Refine.ai"
+  },
+  {
+    "domain": "Perfect.ai",
+    "available": false,
+    "purchaseLink": "https://oneword.domains/d/Perfect.ai"
+  },
+  {
+    "domain": "Polish.ai",
+    "available": false,
+    "purchaseLink": "https://oneword.domains/d/Polish.ai"
+  },
+  {
+    "domain": "Enrich.ai",
+    "available": false,
+    "purchaseLink": "https://oneword.domains/d/Enrich.ai"
+  },
+  {
+    "domain": "Augment.ai",
+    "available": false,
+    "purchaseLink": "https://oneword.domains/d/Augment.ai"
+  },
+  {
+    "domain": "Boost.ai",
+    "available": false,
+    "purchaseLink": "https://oneword.domains/d/Boost.ai"
+  },
+  {
+    "domain": "Elevate.ai",
+    "available": false,
+    "purchaseLink": "https://oneword.domains/d/Elevate.ai"
+  },
+  {
+    "domain": "Enhance.ai",
+    "available": false,
+    "purchaseLink": "https://oneword.domains/d/Enhance.ai"
+  },
+  {
+    "domain": "Magnify.ai",
+    "available": false,
+    "purchaseLink": "https://oneword.domains/d/Magnify.ai"
+  },
+  {
+    "domain": "Maximize.ai",
+    "available": false,
+    "purchaseLink": "https://oneword.domains/d/Maximize.ai"
+  },
+  {
+    "domain": "Optimize.ai",
+    "available": false,
+    "purchaseLink": "https://oneword.domains/d/Optimize.ai"
+  },
+  {
+    "domain": "Heighten.ai",
+    "available": false,
+    "purchaseLink": "https://oneword.domains/d/Heighten.ai"
+  },
+  {
+    "domain": "Intensify.ai",
+    "available": false,
+    "purchaseLink": "https://oneword.domains/d/Intensify.ai"
+  },
+  {
+    "domain": "Deepen.ai",
+    "available": false,
+    "purchaseLink": "https://oneword.domains/d/Deepen.ai"
+  },
+  {
+    "domain": "Strengthen.ai",
+    "available": false,
+    "purchaseLink": "https://oneword.domains/d/Strengthen.ai"
+  },
+  {
+    "domain": "Fortify.ai",
+    "available": false,
+    "purchaseLink": "https://oneword.domains/d/Fortify.ai"
+  },
+  {
+    "domain": "Bolster.ai",
+    "available": false,
+    "purchaseLink": "https://oneword.domains/d/Bolster.ai"
+  },
+  {
+    "domain": "Reinforce.ai",
+    "available": false,
+    "purchaseLink": "https://oneword.domains/d/Reinforce.ai"
+  },
+  {
+    "domain": "Invigorate.ai",
+    "available": false,
+    "purchaseLink": "https://oneword.domains/d/Invigorate.ai"
+  },
+  {
+    "domain": "Energize.ai",
+    "available": false,
+    "purchaseLink": "https://oneword.domains/d/Energize.ai"
+  },
+  {
+    "domain": "Animate.ai",
+    "available": false,
+    "purchaseLink": "https://oneword.domains/d/Animate.ai"
+  },
+  {
+    "domain": "Stimulate.ai",
+    "available": false,
+    "purchaseLink": "https://oneword.domains/d/Stimulate.ai"
+  },
+  {
+    "domain": "Galvanize.ai",
+    "available": false,
+    "purchaseLink": "https://oneword.domains/d/Galvanize.ai"
+  },
+  {
+    "domain": "Activate.ai",
+    "available": false,
+    "purchaseLink": "https://oneword.domains/d/Activate.ai"
+  },
+  {
+    "domain": "Accelerate.ai",
+    "available": false,
+    "purchaseLink": "https://oneword.domains/d/Accelerate.ai"
+  },
+  {
+    "domain": "Advance.ai",
+    "available": false,
+    "purchaseLink": "https://oneword.domains/d/Advance.ai"
+  },
+  {
+    "domain": "Promote.ai",
+    "available": false,
+    "purchaseLink": "https://oneword.domains/d/Promote.ai"
+  },
+  {
+    "domain": "Propel.ai",
+    "available": false,
+    "purchaseLink": "https://oneword.domains/d/Propel.ai"
+  },
+  {
+    "domain": "Drive.ai",
+    "available": false,
+    "purchaseLink": "https://oneword.domains/d/Drive.ai"
+  },
+  {
+    "domain": "Motivate.ai",
+    "available": false,
+    "purchaseLink": "https://oneword.domains/d/Motivate.ai"
+  },
+  {
+    "domain": "Inspire.ai",
+    "available": false,
+    "purchaseLink": "https://oneword.domains/d/Inspire.ai"
+  },
+  {
+    "domain": "Excite.ai",
+    "available": false,
+    "purchaseLink": "https://oneword.domains/d/Excite.ai"
+  },
+  {
+    "domain": "Captivate.ai",
+    "available": false,
+    "purchaseLink": "https://oneword.domains/d/Captivate.ai"
+  },
+  {
+    "domain": "Engage.ai",
+    "available": false,
+    "purchaseLink": "https://oneword.domains/d/Engage.ai"
+  },
+  {
+    "domain": "Enthrall.ai",
+    "available": false,
+    "purchaseLink": "https://oneword.domains/d/Enthrall.ai"
+  },
+  {
+    "domain": "Grip.ai",
+    "available": false,
+    "purchaseLink": "https://oneword.domains/d/Grip.ai"
+  },
+  {
+    "domain": "Rivet.ai",
+    "available": false,
+    "purchaseLink": "https://oneword.domains/d/Rivet.ai"
+  },
+  {
+    "domain": "Mesmerize.ai",
+    "available": false,
+    "purchaseLink": "https://oneword.domains/d/Mesmerize.ai"
+  },
+  {
+    "domain": "Hypnotize.ai",
+    "available": false,
+    "purchaseLink": "https://oneword.domains/d/Hypnotize.ai"
+  },
+  {
+    "domain": "Spellbind.ai",
+    "available": false,
+    "purchaseLink": "https://oneword.domains/d/Spellbind.ai"
+  },
+  {
+    "domain": "Entrance.ai",
+    "available": false,
+    "purchaseLink": "https://oneword.domains/d/Entrance.ai"
+  },
+  {
+    "domain": "Enchant.ai",
+    "available": false,
+    "purchaseLink": "https://oneword.domains/d/Enchant.ai"
+  },
+  {
+    "domain": "Bewitch.ai",
+    "available": false,
+    "purchaseLink": "https://oneword.domains/d/Bewitch.ai"
+  },
+  {
+    "domain": "Allure.ai",
+    "available": false,
+    "purchaseLink": "https://oneword.domains/d/Allure.ai"
+  },
+  {
+    "domain": "Appeal.ai",
+    "available": false,
+    "purchaseLink": "https://oneword.domains/d/Appeal.ai"
+  },
+  {
+    "domain": "Fetch.ai",
+    "available": false,
+    "purchaseLink": "https://oneword.domains/d/Fetch.ai"
+  },
+  {
+    "domain": "Charm.ai",
+    "available": false,
+    "purchaseLink": "https://oneword.domains/d/Charm.ai"
+  },
+  {
+    "domain": "Magnetize.ai",
+    "available": false,
+    "purchaseLink": "https://oneword.domains/d/Magnetize.ai"
+  },
+  {
+    "domain": "Attract.ai",
+    "available": false,
+    "purchaseLink": "https://oneword.domains/d/Attract.ai"
+  },
+  {
+    "domain": "Dazzle.ai",
+    "available": false,
+    "purchaseLink": "https://oneword.domains/d/Dazzle.ai"
+  },
+  {
+    "domain": "Stun.ai",
+    "available": false,
+    "purchaseLink": "https://oneword.domains/d/Stun.ai"
+  },
+  {
+    "domain": "Strike.ai",
+    "available": false,
+    "purchaseLink": "https://oneword.domains/d/Strike.ai"
+  },
+  {
+    "domain": "Splendid.ai",
+    "available": false,
+    "purchaseLink": "https://oneword.domains/d/Splendid.ai"
+  },
+  {
+    "domain": "Magnificent.ai",
+    "available": false,
+    "purchaseLink": "https://oneword.domains/d/Magnificent.ai"
+  },
+  {
+    "domain": "Majestic.ai",
+    "available": false,
+    "purchaseLink": "https://oneword.domains/d/Majestic.ai"
+  },
+  {
+    "domain": "Grand.ai",
+    "available": false,
+    "purchaseLink": "https://oneword.domains/d/Grand.ai"
+  },
+  {
+    "domain": "Impose.ai",
+    "available": true,
+    "purchaseLink": "https://oneword.domains/d/Impose.ai"
+  },
+  {
+    "domain": "Impress.ai",
+    "available": false,
+    "purchaseLink": "https://oneword.domains/d/Impress.ai"
+  },
+  {
+    "domain": "Breathtake.ai",
+    "available": true,
+    "purchaseLink": "https://oneword.domains/d/Breathtake.ai"
+  },
+  {
+    "domain": "AweInspire.ai",
+    "available": true,
+    "purchaseLink": "https://oneword.domains/d/AweInspire.ai"
+  },
+  {
+    "domain": "Wonder.ai",
+    "available": false,
+    "purchaseLink": "https://oneword.domains/d/Wonder.ai"
+  },
+  {
+    "domain": "Marvel.ai",
+    "available": false,
+    "purchaseLink": "https://oneword.domains/d/Marvel.ai"
+  },
+  {
+    "domain": "Amaze.ai",
+    "available": false,
+    "purchaseLink": "https://oneword.domains/d/Amaze.ai"
+  },
+  {
+    "domain": "Astonish.ai",
+    "available": false,
+    "purchaseLink": "https://oneword.domains/d/Astonish.ai"
+  },
+  {
+    "domain": "Astound.ai",
+    "available": false,
+    "purchaseLink": "https://oneword.domains/d/Astound.ai"
+  },
+  {
+    "domain": "Stupendous.ai",
+    "available": false,
+    "purchaseLink": "https://oneword.domains/d/Stupendous.ai"
+  },
+  {
+    "domain": "Spectacular.ai",
+    "available": false,
+    "purchaseLink": "https://oneword.domains/d/Spectacular.ai"
+  },
+  {
+    "domain": "Sensational.ai",
+    "available": false,
+    "purchaseLink": "https://oneword.domains/d/Sensational.ai"
+  },
+  {
+    "domain": "Miraculous.ai",
+    "available": false,
+    "purchaseLink": "https://oneword.domains/d/Miraculous.ai"
+  },
+  {
+    "domain": "Extraordinary.ai",
+    "available": false,
+    "purchaseLink": "https://oneword.domains/d/Extraordinary.ai"
+  },
+  {
+    "domain": "Unbelieve.ai",
+    "available": true,
+    "purchaseLink": "https://oneword.domains/d/Unbelieve.ai"
+  },
+  {
+    "domain": "Inconceive.ai",
+    "available": true,
+    "purchaseLink": "https://oneword.domains/d/Inconceive.ai"
+  },
+  {
+    "domain": "Unimagine.ai",
+    "available": true,
+    "purchaseLink": "https://oneword.domains/d/Unimagine.ai"
+  },
+  {
+    "domain": "MindBlow.ai",
+    "available": false,
+    "purchaseLink": "https://oneword.domains/d/MindBlow.ai"
+  },
+  {
+    "domain": "JawDrop.ai",
+    "available": false,
+    "purchaseLink": "https://oneword.domains/d/JawDrop.ai"
+  },
+  {
+    "domain": "EyePop.ai",
+    "available": false,
+    "purchaseLink": "https://oneword.domains/d/EyePop.ai"
+  },
+  {
+    "domain": "Showstop.ai",
+    "available": true,
+    "purchaseLink": "https://oneword.domains/d/Showstop.ai"
+  },
+  {
+    "domain": "Mesmerize.ai",
+    "available": false,
+    "purchaseLink": "https://oneword.domains/d/Mesmerize.ai"
+  },
+  {
+    "domain": "Ravish.ai",
+    "available": true,
+    "purchaseLink": "https://oneword.domains/d/Ravish.ai"
+  },
+  {
+    "domain": "Captivate.ai",
+    "available": false,
+    "purchaseLink": "https://oneword.domains/d/Captivate.ai"
+  },
+  {
+    "domain": "Enthrall.ai",
+    "available": false,
+    "purchaseLink": "https://oneword.domains/d/Enthrall.ai"
+  },
+  {
+    "domain": "Enchant.ai",
+    "available": false,
+    "purchaseLink": "https://oneword.domains/d/Enchant.ai"
+  },
+  {
+    "domain": "Enrapture.ai",
+    "available": false,
+    "purchaseLink": "https://oneword.domains/d/Enrapture.ai"
+  },
+  {
+    "domain": "Grip.ai",
+    "available": false,
+    "purchaseLink": "https://oneword.domains/d/Grip.ai"
+  },
+  {
+    "domain": "Rivet.ai",
+    "available": false,
+    "purchaseLink": "https://oneword.domains/d/Rivet.ai"
+  },
+  {
+    "domain": "Thrill.ai",
+    "available": false,
+    "purchaseLink": "https://oneword.domains/d/Thrill.ai"
+  },
+  {
+    "domain": "Exhilarate.ai",
+    "available": false,
+    "purchaseLink": "https://oneword.domains/d/Exhilarate.ai"
+  },
+  {
+    "domain": "Electrify.ai",
+    "available": false,
+    "purchaseLink": "https://oneword.domains/d/Electrify.ai"
+  },
+  {
+    "domain": "Rouse.ai",
+    "available": false,
+    "purchaseLink": "https://oneword.domains/d/Rouse.ai"
+  },
+  {
+    "domain": "Animate.ai",
+    "available": false,
+    "purchaseLink": "https://oneword.domains/d/Animate.ai"
+  },
+  {
+    "domain": "Inspire.ai",
+    "available": false,
+    "purchaseLink": "https://oneword.domains/d/Inspire.ai"
+  },
+  {
+    "domain": "Uplift.ai",
+    "available": false,
+    "purchaseLink": "https://oneword.domains/d/Uplift.ai"
+  },
+  {
+    "domain": "Revitalize.ai",
+    "available": false,
+    "purchaseLink": "https://oneword.domains/d/Revitalize.ai"
+  },
+  {
+    "domain": "Rejuvenate.ai",
+    "available": false,
+    "purchaseLink": "https://oneword.domains/d/Rejuvenate.ai"
+  },
+  {
+    "domain": "Refresh.ai",
+    "available": false,
+    "purchaseLink": "https://oneword.domains/d/Refresh.ai"
+  },
+  {
+    "domain": "Invigorate.ai",
+    "available": false,
+    "purchaseLink": "https://oneword.domains/d/Invigorate.ai"
+  },
+  {
+    "domain": "Stimulate.ai",
+    "available": false,
+    "purchaseLink": "https://oneword.domains/d/Stimulate.ai"
+  },
+  {
+    "domain": "Energize.ai",
+    "available": false,
+    "purchaseLink": "https://oneword.domains/d/Energize.ai"
+  },
+  {
+    "domain": "Vitalize.ai",
+    "available": false,
+    "purchaseLink": "https://oneword.domains/d/Vitalize.ai"
+  },
+  {
+    "domain": "Exhilarate.ai",
+    "available": false,
+    "purchaseLink": "https://oneword.domains/d/Exhilarate.ai"
+  },
+  {
+    "domain": "Elate.ai",
+    "available": false,
+    "purchaseLink": "https://oneword.domains/d/Elate.ai"
+  },
+  {
+    "domain": "apple.ai",
+    "available": false,
+    "purchaseLink": "https://oneword.domains/d/apple.ai"
+  },
+  {
+    "domain": "saudiaramco.ai",
+    "available": false,
+    "purchaseLink": "https://oneword.domains/d/saudiaramco.ai"
+  },
+  {
+    "domain": "microsoft.ai",
+    "available": false,
+    "purchaseLink": "https://oneword.domains/d/microsoft.ai"
+  },
+  {
+    "domain": "abc.ai",
+    "available": false,
+    "purchaseLink": "https://oneword.domains/d/abc.ai"
+  },
+  {
+    "domain": "amazon.ai",
+    "available": false,
+    "purchaseLink": "https://oneword.domains/d/amazon.ai"
+  },
+  {
+    "domain": "berkshirehathaway.ai",
+    "available": false,
+    "purchaseLink": "https://oneword.domains/d/berkshirehathaway.ai"
+  },
+  {
+    "domain": "unitedhealthgroup.ai",
+    "available": false,
+    "purchaseLink": "https://oneword.domains/d/unitedhealthgroup.ai"
+  },
+  {
+    "domain": "jnj.ai",
+    "available": false,
+    "purchaseLink": "https://oneword.domains/d/jnj.ai"
+  },
+  {
+    "domain": "corporate.ai",
+    "available": false,
+    "purchaseLink": "https://oneword.domains/d/corporate.ai"
+  },
+  {
+    "domain": "visa.ai",
+    "available": false,
+    "purchaseLink": "https://oneword.domains/d/visa.ai"
+  },
+  {
+    "domain": "tencent.ai",
+    "available": false,
+    "purchaseLink": "https://oneword.domains/d/tencent.ai"
+  },
+  {
+    "domain": "tesla.ai",
+    "available": false,
+    "purchaseLink": "https://oneword.domains/d/tesla.ai"
+  },
+  {
+    "domain": "tsmc.ai",
+    "available": false,
+    "purchaseLink": "https://oneword.domains/d/tsmc.ai"
+  },
+  {
+    "domain": "walmart.ai",
+    "available": false,
+    "purchaseLink": "https://oneword.domains/d/walmart.ai"
+  },
+  {
+    "domain": "jpmorganchase.ai",
+    "available": false,
+    "purchaseLink": "https://oneword.domains/d/jpmorganchase.ai"
+  },
+  {
+    "domain": "nvidia.ai",
+    "available": false,
+    "purchaseLink": "https://oneword.domains/d/nvidia.ai"
+  },
+  {
+    "domain": "lvmh.ai",
+    "available": false,
+    "purchaseLink": "https://oneword.domains/d/lvmh.ai"
+  },
+  {
+    "domain": "pg.ai",
+    "available": false,
+    "purchaseLink": "https://oneword.domains/d/pg.ai"
+  },
+  {
+    "domain": "lilly.ai",
+    "available": false,
+    "purchaseLink": "https://oneword.domains/d/lilly.ai"
+  },
+  {
+    "domain": "chevron.ai",
+    "available": false,
+    "purchaseLink": "https://oneword.domains/d/chevron.ai"
+  },
+  {
+    "domain": "mastercard.ai",
+    "available": false,
+    "purchaseLink": "https://oneword.domains/d/mastercard.ai"
+  },
+  {
+    "domain": "homedepot.ai",
+    "available": false,
+    "purchaseLink": "https://oneword.domains/d/homedepot.ai"
+  },
+  {
+    "domain": "nestle.ai",
+    "available": false,
+    "purchaseLink": "https://oneword.domains/d/nestle.ai"
+  },
+  {
+    "domain": "facebook.ai",
+    "available": false,
+    "purchaseLink": "https://oneword.domains/d/facebook.ai"
+  },
+  {
+    "domain": "samsung.ai",
+    "available": false,
+    "purchaseLink": "https://oneword.domains/d/samsung.ai"
+  },
+  {
+    "domain": "novonordisk.ai",
+    "available": false,
+    "purchaseLink": "https://oneword.domains/d/novonordisk.ai"
+  },
+  {
+    "domain": "pfizer.ai",
+    "available": false,
+    "purchaseLink": "https://oneword.domains/d/pfizer.ai"
+  },
+  {
+    "domain": "abbvie.ai",
+    "available": false,
+    "purchaseLink": "https://oneword.domains/d/abbvie.ai"
+  },
+  {
+    "domain": "merck.ai",
+    "available": false,
+    "purchaseLink": "https://oneword.domains/d/merck.ai"
+  },
+  {
+    "domain": "tata.ai",
+    "available": false,
+    "purchaseLink": "https://oneword.domains/d/tata.ai"
+  },
+  {
+    "domain": "coca-colacompany.ai",
+    "available": false,
+    "purchaseLink": "https://oneword.domains/d/coca-colacompany.ai"
+  },
+  {
+    "domain": "roche.ai",
+    "available": false,
+    "purchaseLink": "https://oneword.domains/d/roche.ai"
+  },
+  {
+    "domain": "bankofamerica.ai",
+    "available": false,
+    "purchaseLink": "https://oneword.domains/d/bankofamerica.ai"
+  },
+  {
+    "domain": "pepsico.ai",
+    "available": false,
+    "purchaseLink": "https://oneword.domains/d/pepsico.ai"
+  },
+  {
+    "domain": "broadcom.ai",
+    "available": false,
+    "purchaseLink": "https://oneword.domains/d/broadcom.ai"
+  },
+  {
+    "domain": "alibaba.ai",
+    "available": false,
+    "purchaseLink": "https://oneword.domains/d/alibaba.ai"
+  },
+  {
+    "domain": "asml.ai",
+    "available": false,
+    "purchaseLink": "https://oneword.domains/d/asml.ai"
+  },
+  {
+    "domain": "oracle.ai",
+    "available": false,
+    "purchaseLink": "https://oneword.domains/d/oracle.ai"
+  },
+  {
+    "domain": "thermofisher.ai",
+    "available": false,
+    "purchaseLink": "https://oneword.domains/d/thermofisher.ai"
+  },
+  {
+    "domain": "astrazeneca.ai",
+    "available": false,
+    "purchaseLink": "https://oneword.domains/d/astrazeneca.ai"
+  },
+  {
+    "domain": "icbc.ai",
+    "available": false,
+    "purchaseLink": "https://oneword.domains/d/icbc.ai"
+  },
+  {
+    "domain": "ril.ai",
+    "available": false,
+    "purchaseLink": "https://oneword.domains/d/ril.ai"
+  },
+  {
+    "domain": "prosus.ai",
+    "available": false,
+    "purchaseLink": "https://oneword.domains/d/prosus.ai"
+  },
+  {
+    "domain": "costco.ai",
+    "available": false,
+    "purchaseLink": "https://oneword.domains/d/costco.ai"
+  },
+  {
+    "domain": "shell.ai",
+    "available": false,
+    "purchaseLink": "https://oneword.domains/d/shell.ai"
+  },
+  {
+    "domain": "mcdonalds.ai",
+    "available": false,
+    "purchaseLink": "https://oneword.domains/d/mcdonalds.ai"
+  },
+  {
+    "domain": "novartis.ai",
+    "available": false,
+    "purchaseLink": "https://oneword.domains/d/novartis.ai"
+  },
+  {
+    "domain": "cisco.ai",
+    "available": false,
+    "purchaseLink": "https://oneword.domains/d/cisco.ai"
+  },
+  {
+    "domain": "loreal.ai",
+    "available": false,
+    "purchaseLink": "https://oneword.domains/d/loreal.ai"
+  },
+  {
+    "domain": "danaher.ai",
+    "available": false,
+    "purchaseLink": "https://oneword.domains/d/danaher.ai"
+  },
+  {
+    "domain": "abbott.ai",
+    "available": false,
+    "purchaseLink": "https://oneword.domains/d/abbott.ai"
+  },
+  {
+    "domain": "toyota-global.ai",
+    "available": true,
+    "purchaseLink": "https://oneword.domains/d/toyota-global.ai"
+  },
+  {
+    "domain": "nike.ai",
+    "available": false,
+    "purchaseLink": "https://oneword.domains/d/nike.ai"
+  },
+  {
+    "domain": "t-mobile.ai",
+    "available": false,
+    "purchaseLink": "https://oneword.domains/d/t-mobile.ai"
+  },
+  {
+    "domain": "accenture.ai",
+    "available": false,
+    "purchaseLink": "https://oneword.domains/d/accenture.ai"
+  },
+  {
+    "domain": "nexteraenergy.ai",
+    "available": false,
+    "purchaseLink": "https://oneword.domains/d/nexteraenergy.ai"
+  },
+  {
+    "domain": "hermes.ai",
+    "available": false,
+    "purchaseLink": "https://oneword.domains/d/hermes.ai"
+  },
+  {
+    "domain": "the-linde-group.ai",
+    "available": true,
+    "purchaseLink": "https://oneword.domains/d/the-linde-group.ai"
+  },
+  {
+    "domain": "verizon.ai",
+    "available": false,
+    "purchaseLink": "https://oneword.domains/d/verizon.ai"
+  },
+  {
+    "domain": "thewaltdisneycompany.ai",
+    "available": false,
+    "purchaseLink": "https://oneword.domains/d/thewaltdisneycompany.ai"
+  },
+  {
+    "domain": "pmi.ai",
+    "available": false,
+    "purchaseLink": "https://oneword.domains/d/pmi.ai"
+  },
+  {
+    "domain": "adobe.ai",
+    "available": false,
+    "purchaseLink": "https://oneword.domains/d/adobe.ai"
+  },
+  {
+    "domain": "totalenergies.ai",
+    "available": false,
+    "purchaseLink": "https://oneword.domains/d/totalenergies.ai"
+  },
+  {
+    "domain": "bhp.ai",
+    "available": false,
+    "purchaseLink": "https://oneword.domains/d/bhp.ai"
+  },
+  {
+    "domain": "wellsfargo.ai",
+    "available": false,
+    "purchaseLink": "https://oneword.domains/d/wellsfargo.ai"
+  },
+  {
+    "domain": "bms.ai",
+    "available": false,
+    "purchaseLink": "https://oneword.domains/d/bms.ai"
+  },
+  {
+    "domain": "ups.ai",
+    "available": false,
+    "purchaseLink": "https://oneword.domains/d/ups.ai"
+  },
+  {
+    "domain": "schwab.ai",
+    "available": false,
+    "purchaseLink": "https://oneword.domains/d/schwab.ai"
+  },
+  {
+    "domain": "corporate.ai",
+    "available": false,
+    "purchaseLink": "https://oneword.domains/d/corporate.ai"
+  },
+  {
+    "domain": "en.ai",
+    "available": false,
+    "purchaseLink": "https://oneword.domains/d/en.ai"
+  },
+  {
+    "domain": "ti.ai",
+    "available": false,
+    "purchaseLink": "https://oneword.domains/d/ti.ai"
+  },
+  {
+    "domain": "utc.ai",
+    "available": false,
+    "purchaseLink": "https://oneword.domains/d/utc.ai"
+  },
+  {
+    "domain": "conocophillips.ai",
+    "available": false,
+    "purchaseLink": "https://oneword.domains/d/conocophillips.ai"
+  },
+  {
+    "domain": "morganstanley.ai",
+    "available": false,
+    "purchaseLink": "https://oneword.domains/d/morganstanley.ai"
+  },
+  {
+    "domain": "meituan.ai",
+    "available": false,
+    "purchaseLink": "https://oneword.domains/d/meituan.ai"
+  },
+  {
+    "domain": "chinamobileltd.ai",
+    "available": true,
+    "purchaseLink": "https://oneword.domains/d/chinamobileltd.ai"
+  },
+  {
+    "domain": "tcs.ai",
+    "available": false,
+    "purchaseLink": "https://oneword.domains/d/tcs.ai"
+  },
+  {
+    "domain": "honeywell.ai",
+    "available": false,
+    "purchaseLink": "https://oneword.domains/d/honeywell.ai"
+  },
+  {
+    "domain": "abchina.ai",
+    "available": false,
+    "purchaseLink": "https://oneword.domains/d/abchina.ai"
+  },
+  {
+    "domain": "amgen.ai",
+    "available": false,
+    "purchaseLink": "https://oneword.domains/d/amgen.ai"
+  },
+  {
+    "domain": "atlbattery.ai",
+    "available": true,
+    "purchaseLink": "https://oneword.domains/d/atlbattery.ai"
+  },
+  {
+    "domain": "cmbchina.ai",
+    "available": false,
+    "purchaseLink": "https://oneword.domains/d/cmbchina.ai"
+  },
+  {
+    "domain": "netflix.ai",
+    "available": false,
+    "purchaseLink": "https://oneword.domains/d/netflix.ai"
+  },
+  {
+    "domain": "dior.ai",
+    "available": false,
+    "purchaseLink": "https://oneword.domains/d/dior.ai"
+  },
+  {
+    "domain": "rbcroyalbank.ai",
+    "available": false,
+    "purchaseLink": "https://oneword.domains/d/rbcroyalbank.ai"
+  },
+  {
+    "domain": "att.ai",
+    "available": false,
+    "purchaseLink": "https://oneword.domains/d/att.ai"
+  },
+  {
+    "domain": "aia.ai",
+    "available": false,
+    "purchaseLink": "https://oneword.domains/d/aia.ai"
+  },
+  {
+    "domain": "deere.ai",
+    "available": false,
+    "purchaseLink": "https://oneword.domains/d/deere.ai"
+  },
+  {
+    "domain": "salesforce.ai",
+    "available": false,
+    "purchaseLink": "https://oneword.domains/d/salesforce.ai"
+  },
+  {
+    "domain": "unilever.ai",
+    "available": false,
+    "purchaseLink": "https://oneword.domains/d/unilever.ai"
+  },
+  {
+    "domain": "up.ai",
+    "available": false,
+    "purchaseLink": "https://oneword.domains/d/up.ai"
+  },
+  {
+    "domain": "ibm.ai",
+    "available": false,
+    "purchaseLink": "https://oneword.domains/d/ibm.ai"
+  },
+  {
+    "domain": "lockheedmartin.ai",
+    "available": false,
+    "purchaseLink": "https://oneword.domains/d/lockheedmartin.ai"
+  },
+  {
+    "domain": "caterpillar.ai",
+    "available": false,
+    "purchaseLink": "https://oneword.domains/d/caterpillar.ai"
+  },
+  {
+    "domain": "qualcomm.ai",
+    "available": false,
+    "purchaseLink": "https://oneword.domains/d/qualcomm.ai"
+  },
+  {
+    "domain": "boc.ai",
+    "available": false,
+    "purchaseLink": "https://oneword.domains/d/boc.ai"
+  },
+  {
+    "domain": "hsbc.ai",
+    "available": false,
+    "purchaseLink": "https://oneword.domains/d/hsbc.ai"
+  },
+  {
+    "domain": "cvshealth.ai",
+    "available": false,
+    "purchaseLink": "https://oneword.domains/d/cvshealth.ai"
+  },
+  {
+    "domain": "elevancehealth.ai",
+    "available": false,
+    "purchaseLink": "https://oneword.domains/d/elevancehealth.ai"
+  },
+  {
+    "domain": "lowes.ai",
+    "available": false,
+    "purchaseLink": "https://oneword.domains/d/lowes.ai"
+  },
+  {
+    "domain": "sanofi.ai",
+    "available": false,
+    "purchaseLink": "https://oneword.domains/d/sanofi.ai"
+  },
+  {
+    "domain": "sap.ai",
+    "available": false,
+    "purchaseLink": "https://oneword.domains/d/sap.ai"
+  },
+  {
+    "domain": "chinalife.ai",
+    "available": false,
+    "purchaseLink": "https://oneword.domains/d/chinalife.ai"
+  },
+  {
+    "domain": "ab-inbev.ai",
+    "available": true,
+    "purchaseLink": "https://oneword.domains/d/ab-inbev.ai"
+  },
+  {
+    "domain": "pingan.ai",
+    "available": false,
+    "purchaseLink": "https://oneword.domains/d/pingan.ai"
+  },
+  {
+    "domain": "commbank.ai",
+    "available": false,
+    "purchaseLink": "https://oneword.domains/d/commbank.ai"
+  },
+  {
+    "domain": "td.ai",
+    "available": false,
+    "purchaseLink": "https://oneword.domains/d/td.ai"
+  },
+  {
+    "domain": "goldmansachs.ai",
+    "available": false,
+    "purchaseLink": "https://oneword.domains/d/goldmansachs.ai"
+  },
+  {
+    "domain": "equinor.ai",
+    "available": false,
+    "purchaseLink": "https://oneword.domains/d/equinor.ai"
+  },
+  {
+    "domain": "riotinto.ai",
+    "available": true,
+    "purchaseLink": "https://oneword.domains/d/riotinto.ai"
+  },
+  {
+    "domain": "starbucks.ai",
+    "available": false,
+    "purchaseLink": "https://oneword.domains/d/starbucks.ai"
+  },
+  {
+    "domain": "boeing.ai",
+    "available": false,
+    "purchaseLink": "https://oneword.domains/d/boeing.ai"
+  },
+  {
+    "domain": "youtube.ai",
+    "available": false,
+    "purchaseLink": "https://oneword.domains/d/youtube.ai"
+  },
+  {
+    "domain": "americanexpress.ai",
+    "available": false,
+    "purchaseLink": "https://oneword.domains/d/americanexpress.ai"
+  },
+  {
+    "domain": "hdfcbank.ai",
+    "available": false,
+    "purchaseLink": "https://oneword.domains/d/hdfcbank.ai"
+  },
+  {
+    "domain": "spglobal.ai",
+    "available": false,
+    "purchaseLink": "https://oneword.domains/d/spglobal.ai"
+  },
+  {
+    "domain": "siemens.ai",
+    "available": false,
+    "purchaseLink": "https://oneword.domains/d/siemens.ai"
+  },
+  {
+    "domain": "intuit.ai",
+    "available": false,
+    "purchaseLink": "https://oneword.domains/d/intuit.ai"
+  },
+  {
+    "domain": "intel.ai",
+    "available": false,
+    "purchaseLink": "https://oneword.domains/d/intel.ai"
+  },
+  {
+    "domain": "gilead.ai",
+    "available": false,
+    "purchaseLink": "https://oneword.domains/d/gilead.ai"
+  },
+  {
+    "domain": "m.ai",
+    "available": false,
+    "purchaseLink": "https://oneword.domains/d/m.ai"
+  },
+  {
+    "domain": "lindt-spruengli.ai",
+    "available": true,
+    "purchaseLink": "https://oneword.domains/d/lindt-spruengli.ai"
+  },
+  {
+    "domain": "blackrock.ai",
+    "available": false,
+    "purchaseLink": "https://oneword.domains/d/blackrock.ai"
+  },
+  {
+    "domain": "bp.ai",
+    "available": false,
+    "purchaseLink": "https://oneword.domains/d/bp.ai"
+  },
+  {
+    "domain": "amd.ai",
+    "available": false,
+    "purchaseLink": "https://oneword.domains/d/amd.ai"
+  },
+  {
+    "domain": "prologis.ai",
+    "available": false,
+    "purchaseLink": "https://oneword.domains/d/prologis.ai"
+  },
+  {
+    "domain": "medtronic.ai",
+    "available": false,
+    "purchaseLink": "https://oneword.domains/d/medtronic.ai"
+  },
+  {
+    "domain": "diageo.ai",
+    "available": false,
+    "purchaseLink": "https://oneword.domains/d/diageo.ai"
+  },
+  {
+    "domain": "cigna.ai",
+    "available": false,
+    "purchaseLink": "https://oneword.domains/d/cigna.ai"
+  },
+  {
+    "domain": "wuliangye.ai",
+    "available": false,
+    "purchaseLink": "https://oneword.domains/d/wuliangye.ai"
+  },
+  {
+    "domain": "telekom.ai",
+    "available": false,
+    "purchaseLink": "https://oneword.domains/d/telekom.ai"
+  },
+  {
+    "domain": "statefarm.ai",
+    "available": false,
+    "purchaseLink": "https://oneword.domains/d/statefarm.ai"
+  },
+  {
+    "domain": "adp.ai",
+    "available": false,
+    "purchaseLink": "https://oneword.domains/d/adp.ai"
+  },
+  {
+    "domain": "edison.ai",
+    "available": false,
+    "purchaseLink": "https://oneword.domains/d/edison.ai"
+  },
+  {
+    "domain": "nttdocomo.ai",
+    "available": true,
+    "purchaseLink": "https://oneword.domains/d/nttdocomo.ai"
+  },
+  {
+    "domain": "americantower.ai",
+    "available": true,
+    "purchaseLink": "https://oneword.domains/d/americantower.ai"
+  },
+  {
+    "domain": "global.ai",
+    "available": false,
+    "purchaseLink": "https://oneword.domains/d/global.ai"
+  },
+  {
+    "domain": "sony.ai",
+    "available": false,
+    "purchaseLink": "https://oneword.domains/d/sony.ai"
+  },
+  {
+    "domain": "keyence.ai",
+    "available": false,
+    "purchaseLink": "https://oneword.domains/d/keyence.ai"
+  },
+  {
+    "domain": "airbus.ai",
+    "available": false,
+    "purchaseLink": "https://oneword.domains/d/airbus.ai"
+  },
+  {
+    "domain": "investor.ai",
+    "available": false,
+    "purchaseLink": "https://oneword.domains/d/investor.ai"
+  },
+  {
+    "domain": "csl.ai",
+    "available": false,
+    "purchaseLink": "https://oneword.domains/d/csl.ai"
+  },
+  {
+    "domain": "intuitive.ai",
+    "available": false,
+    "purchaseLink": "https://oneword.domains/d/intuitive.ai"
+  },
+  {
+    "domain": "byd.ai",
+    "available": false,
+    "purchaseLink": "https://oneword.domains/d/byd.ai"
+  },
+  {
+    "domain": "stryker.ai",
+    "available": false,
+    "purchaseLink": "https://oneword.domains/d/stryker.ai"
+  },
+  {
+    "domain": "tjx.ai",
+    "available": false,
+    "purchaseLink": "https://oneword.domains/d/tjx.ai"
+  },
+  {
+    "domain": "mondelezinternational.ai",
+    "available": false,
+    "purchaseLink": "https://oneword.domains/d/mondelezinternational.ai"
+  },
+  {
+    "domain": "kochind.ai",
+    "available": false,
+    "purchaseLink": "https://oneword.domains/d/kochind.ai"
+  },
+  {
+    "domain": "bytedance.ai",
+    "available": false,
+    "purchaseLink": "https://oneword.domains/d/bytedance.ai"
+  },
+  {
+    "domain": "chubb.ai",
+    "available": false,
+    "purchaseLink": "https://oneword.domains/d/chubb.ai"
+  },
+  {
+    "domain": "bat.ai",
+    "available": false,
+    "purchaseLink": "https://oneword.domains/d/bat.ai"
+  },
+  {
+    "domain": "ge.ai",
+    "available": false,
+    "purchaseLink": "https://oneword.domains/d/ge.ai"
+  },
+  {
+    "domain": "jd.ai",
+    "available": false,
+    "purchaseLink": "https://oneword.domains/d/jd.ai"
+  },
+  {
+    "domain": "mufg.ai",
+    "available": false,
+    "purchaseLink": "https://oneword.domains/d/mufg.ai"
+  },
+  {
+    "domain": "allianz.ai",
+    "available": false,
+    "purchaseLink": "https://oneword.domains/d/allianz.ai"
+  },
+  {
+    "domain": "glencore.ai",
+    "available": false,
+    "purchaseLink": "https://oneword.domains/d/glencore.ai"
+  },
+  {
+    "domain": "elcompanies.ai",
+    "available": true,
+    "purchaseLink": "https://oneword.domains/d/elcompanies.ai"
+  },
+  {
+    "domain": "citigroup.ai",
+    "available": false,
+    "purchaseLink": "https://oneword.domains/d/citigroup.ai"
+  },
+  {
+    "domain": "analog.ai",
+    "available": false,
+    "purchaseLink": "https://oneword.domains/d/analog.ai"
+  },
+  {
+    "domain": "merckgroup.ai",
+    "available": false,
+    "purchaseLink": "https://oneword.domains/d/merckgroup.ai"
+  },
+  {
+    "domain": "altria.ai",
+    "available": false,
+    "purchaseLink": "https://oneword.domains/d/altria.ai"
+  },
+  {
+    "domain": "northropgrumman.ai",
+    "available": false,
+    "purchaseLink": "https://oneword.domains/d/northropgrumman.ai"
+  },
+  {
+    "domain": "inditex.ai",
+    "available": false,
+    "purchaseLink": "https://oneword.domains/d/inditex.ai"
+  },
+  {
+    "domain": "mmc.ai",
+    "available": false,
+    "purchaseLink": "https://oneword.domains/d/mmc.ai"
+  },
+  {
+    "domain": "appliedmaterials.ai",
+    "available": false,
+    "purchaseLink": "https://oneword.domains/d/appliedmaterials.ai"
+  },
+  {
+    "domain": "cn.ai",
+    "available": false,
+    "purchaseLink": "https://oneword.domains/d/cn.ai"
+  },
+  {
+    "domain": "luxottica.ai",
+    "available": false,
+    "purchaseLink": "https://oneword.domains/d/luxottica.ai"
+  },
+  {
+    "domain": "bosch.ai",
+    "available": false,
+    "purchaseLink": "https://oneword.domains/d/bosch.ai"
+  },
+  {
+    "domain": "enbridge.ai",
+    "available": false,
+    "purchaseLink": "https://oneword.domains/d/enbridge.ai"
+  },
+  {
+    "domain": "duke-energy.ai",
+    "available": false,
+    "purchaseLink": "https://oneword.domains/d/duke-energy.ai"
+  },
+  {
+    "domain": "regeneron.ai",
+    "available": false,
+    "purchaseLink": "https://oneword.domains/d/regeneron.ai"
+  },
+  {
+    "domain": "alrajhibank.ai",
+    "available": false,
+    "purchaseLink": "https://oneword.domains/d/alrajhibank.ai"
+  },
+  {
+    "domain": "paypal.ai",
+    "available": false,
+    "purchaseLink": "https://oneword.domains/d/paypal.ai"
+  },
+  {
+    "domain": "southerncompany.ai",
+    "available": false,
+    "purchaseLink": "https://oneword.domains/d/southerncompany.ai"
+  },
+  {
+    "domain": "schneider-electric.ai",
+    "available": false,
+    "purchaseLink": "https://oneword.domains/d/schneider-electric.ai"
+  },
+  {
+    "domain": "vale.ai",
+    "available": false,
+    "purchaseLink": "https://oneword.domains/d/vale.ai"
+  },
+  {
+    "domain": "audi.ai",
+    "available": false,
+    "purchaseLink": "https://oneword.domains/d/audi.ai"
+  },
+  {
+    "domain": "deloitte.ai",
+    "available": false,
+    "purchaseLink": "https://oneword.domains/d/deloitte.ai"
+  },
+  {
+    "domain": "servicenow.ai",
+    "available": false,
+    "purchaseLink": "https://oneword.domains/d/servicenow.ai"
+  },
+  {
+    "domain": "eogresources.ai",
+    "available": true,
+    "purchaseLink": "https://oneword.domains/d/eogresources.ai"
+  },
+  {
+    "domain": "modernatx.ai",
+    "available": false,
+    "purchaseLink": "https://oneword.domains/d/modernatx.ai"
+  },
+  {
+    "domain": "cargill.ai",
+    "available": false,
+    "purchaseLink": "https://oneword.domains/d/cargill.ai"
+  },
+  {
+    "domain": "bookingholdings.ai",
+    "available": false,
+    "purchaseLink": "https://oneword.domains/d/bookingholdings.ai"
+  },
+  {
+    "domain": "progressive.ai",
+    "available": false,
+    "purchaseLink": "https://oneword.domains/d/progressive.ai"
+  },
+  {
+    "domain": "icicibank.ai",
+    "available": false,
+    "purchaseLink": "https://oneword.domains/d/icicibank.ai"
+  },
+  {
+    "domain": "infosys.ai",
+    "available": false,
+    "purchaseLink": "https://oneword.domains/d/infosys.ai"
+  },
+  {
+    "domain": "slb.ai",
+    "available": false,
+    "purchaseLink": "https://oneword.domains/d/slb.ai"
+  },
+  {
+    "domain": "csec.ai",
+    "available": false,
+    "purchaseLink": "https://oneword.domains/d/csec.ai"
+  },
+  {
+    "domain": "whatsapp.ai",
+    "available": false,
+    "purchaseLink": "https://oneword.domains/d/whatsapp.ai"
+  },
+  {
+    "domain": "airliquide.ai",
+    "available": false,
+    "purchaseLink": "https://oneword.domains/d/airliquide.ai"
+  },
+  {
+    "domain": "vrtx.ai",
+    "available": false,
+    "purchaseLink": "https://oneword.domains/d/vrtx.ai"
+  },
+  {
+    "domain": "hul.ai",
+    "available": false,
+    "purchaseLink": "https://oneword.domains/d/hul.ai"
+  },
+  {
+    "domain": "bd.ai",
+    "available": false,
+    "purchaseLink": "https://oneword.domains/d/bd.ai"
+  },
+  {
+    "domain": "gsk.ai",
+    "available": false,
+    "purchaseLink": "https://oneword.domains/d/gsk.ai"
+  },
+  {
+    "domain": "volkswagenag.ai",
+    "available": true,
+    "purchaseLink": "https://oneword.domains/d/volkswagenag.ai"
+  },
+  {
+    "domain": "swatchgroup.ai",
+    "available": true,
+    "purchaseLink": "https://oneword.domains/d/swatchgroup.ai"
+  },
+  {
+    "domain": "richemont.ai",
+    "available": false,
+    "purchaseLink": "https://oneword.domains/d/richemont.ai"
+  },
+  {
+    "domain": "zurich.ai",
+    "available": false,
+    "purchaseLink": "https://oneword.domains/d/zurich.ai"
+  },
+  {
+    "domain": "iberdrola.ai",
+    "available": false,
+    "purchaseLink": "https://oneword.domains/d/iberdrola.ai"
+  },
+  {
+    "domain": "sinopecgroup.ai",
+    "available": true,
+    "purchaseLink": "https://oneword.domains/d/sinopecgroup.ai"
+  },
+  {
+    "domain": "group.ai",
+    "available": false,
+    "purchaseLink": "https://oneword.domains/d/group.ai"
+  },
+  {
+    "domain": "cpr.ai",
+    "available": false,
+    "purchaseLink": "https://oneword.domains/d/cpr.ai"
+  },
+  {
+    "domain": "pwc.ai",
+    "available": false,
+    "purchaseLink": "https://oneword.domains/d/pwc.ai"
+  },
+  {
+    "domain": "daimler.ai",
+    "available": false,
+    "purchaseLink": "https://oneword.domains/d/daimler.ai"
+  },
+  {
+    "domain": "airproducts.ai",
+    "available": true,
+    "purchaseLink": "https://oneword.domains/d/airproducts.ai"
+  },
+  {
+    "domain": "spectrum.ai",
+    "available": false,
+    "purchaseLink": "https://oneword.domains/d/spectrum.ai"
+  },
+  {
+    "domain": "petrobras.ai",
+    "available": false,
+    "purchaseLink": "https://oneword.domains/d/petrobras.ai"
+  },
+  {
+    "domain": "sberbank.ai",
+    "available": false,
+    "purchaseLink": "https://oneword.domains/d/sberbank.ai"
+  },
+  {
+    "domain": "sabic.ai",
+    "available": false,
+    "purchaseLink": "https://oneword.domains/d/sabic.ai"
+  },
+  {
+    "domain": "itw.ai",
+    "available": false,
+    "purchaseLink": "https://oneword.domains/d/itw.ai"
+  },
+  {
+    "domain": "allergan.ai",
+    "available": false,
+    "purchaseLink": "https://oneword.domains/d/allergan.ai"
+  },
+  {
+    "domain": "gd.ai",
+    "available": false,
+    "purchaseLink": "https://oneword.domains/d/gd.ai"
+  },
+  {
+    "domain": "publix.ai",
+    "available": false,
+    "purchaseLink": "https://oneword.domains/d/publix.ai"
+  },
+  {
+    "domain": "hcahealthcare.ai",
+    "available": false,
+    "purchaseLink": "https://oneword.domains/d/hcahealthcare.ai"
+  },
+  {
+    "domain": "zoetis.ai",
+    "available": false,
+    "purchaseLink": "https://oneword.domains/d/zoetis.ai"
+  },
+  {
+    "domain": "bca.ai",
+    "available": false,
+    "purchaseLink": "https://oneword.domains/d/bca.ai"
+  },
+  {
+    "domain": "kddi.ai",
+    "available": false,
+    "purchaseLink": "https://oneword.domains/d/kddi.ai"
+  },
+  {
+    "domain": "3m.ai",
+    "available": false,
+    "purchaseLink": "https://oneword.domains/d/3m.ai"
+  },
+  {
+    "domain": "axa.ai",
+    "available": false,
+    "purchaseLink": "https://oneword.domains/d/axa.ai"
+  },
+  {
+    "domain": "colgatepalmolive.ai",
+    "available": true,
+    "purchaseLink": "https://oneword.domains/d/colgatepalmolive.ai"
+  },
+  {
+    "domain": "usbank.ai",
+    "available": false,
+    "purchaseLink": "https://oneword.domains/d/usbank.ai"
+  },
+  {
+    "domain": "bostonscientific.ai",
+    "available": false,
+    "purchaseLink": "https://oneword.domains/d/bostonscientific.ai"
+  },
+  {
+    "domain": "target.ai",
+    "available": false,
+    "purchaseLink": "https://oneword.domains/d/target.ai"
+  },
+  {
+    "domain": "jio.ai",
+    "available": false,
+    "purchaseLink": "https://oneword.domains/d/jio.ai"
+  },
+  {
+    "domain": "cits.ai",
+    "available": true,
+    "purchaseLink": "https://oneword.domains/d/cits.ai"
+  },
+  {
+    "domain": "csx.ai",
+    "available": false,
+    "purchaseLink": "https://oneword.domains/d/csx.ai"
+  },
+  {
+    "domain": "wm.ai",
+    "available": false,
+    "purchaseLink": "https://oneword.domains/d/wm.ai"
+  },
+  {
+    "domain": "humana.ai",
+    "available": false,
+    "purchaseLink": "https://oneword.domains/d/humana.ai"
+  },
+  {
+    "domain": "dbs.ai",
+    "available": false,
+    "purchaseLink": "https://oneword.domains/d/dbs.ai"
+  },
+  {
+    "domain": "walmex.ai",
+    "available": true,
+    "purchaseLink": "https://oneword.domains/d/walmex.ai"
+  },
+  {
+    "domain": "onlinesbi.ai",
+    "available": true,
+    "purchaseLink": "https://oneword.domains/d/onlinesbi.ai"
+  },
+  {
+    "domain": "nab.ai",
+    "available": false,
+    "purchaseLink": "https://oneword.domains/d/nab.ai"
+  },
+  {
+    "domain": "fiserv.ai",
+    "available": false,
+    "purchaseLink": "https://oneword.domains/d/fiserv.ai"
+  },
+  {
+    "domain": "nongfuspring.ai",
+    "available": false,
+    "purchaseLink": "https://oneword.domains/d/nongfuspring.ai"
+  },
+  {
+    "domain": "rosneft.ai",
+    "available": true,
+    "purchaseLink": "https://oneword.domains/d/rosneft.ai"
+  },
+  {
+    "domain": "bmo.ai",
+    "available": false,
+    "purchaseLink": "https://oneword.domains/d/bmo.ai"
+  },
+  {
+    "domain": "softbank.ai",
+    "available": false,
+    "purchaseLink": "https://oneword.domains/d/softbank.ai"
+  },
+  {
+    "domain": "sherwin-williams.ai",
+    "available": true,
+    "purchaseLink": "https://oneword.domains/d/sherwin-williams.ai"
+  },
+  {
+    "domain": "pnc.ai",
+    "available": false,
+    "purchaseLink": "https://oneword.domains/d/pnc.ai"
+  },
+  {
+    "domain": "cnoocltd.ai",
+    "available": true,
+    "purchaseLink": "https://oneword.domains/d/cnoocltd.ai"
+  },
+  {
+    "domain": "eaton.ai",
+    "available": false,
+    "purchaseLink": "https://oneword.domains/d/eaton.ai"
+  },
+  {
+    "domain": "cmegroup.ai",
+    "available": true,
+    "purchaseLink": "https://oneword.domains/d/cmegroup.ai"
+  },
+  {
+    "domain": "aon.ai",
+    "available": false,
+    "purchaseLink": "https://oneword.domains/d/aon.ai"
+  },
+  {
+    "domain": "daiichisankyo.ai",
+    "available": false,
+    "purchaseLink": "https://oneword.domains/d/daiichisankyo.ai"
+  },
+  {
+    "domain": "cnrl.ai",
+    "available": true,
+    "purchaseLink": "https://oneword.domains/d/cnrl.ai"
+  },
+  {
+    "domain": "kering.ai",
+    "available": false,
+    "purchaseLink": "https://oneword.domains/d/kering.ai"
+  },
+  {
+    "domain": "fastretailing.ai",
+    "available": true,
+    "purchaseLink": "https://oneword.domains/d/fastretailing.ai"
+  },
+  {
+    "domain": "equinix.ai",
+    "available": false,
+    "purchaseLink": "https://oneword.domains/d/equinix.ai"
+  },
+  {
+    "domain": "activisionblizzard.ai",
+    "available": false,
+    "purchaseLink": "https://oneword.domains/d/activisionblizzard.ai"
+  },
+  {
+    "domain": "crowncastle.ai",
+    "available": false,
+    "purchaseLink": "https://oneword.domains/d/crowncastle.ai"
+  },
+  {
+    "domain": "verbund.ai",
+    "available": false,
+    "purchaseLink": "https://oneword.domains/d/verbund.ai"
+  },
+  {
+    "domain": "ubs.ai",
+    "available": false,
+    "purchaseLink": "https://oneword.domains/d/ubs.ai"
+  },
+  {
+    "domain": "americamovil.ai",
+    "available": false,
+    "purchaseLink": "https://oneword.domains/d/americamovil.ai"
+  },
+  {
+    "domain": "hdfc.ai",
+    "available": false,
+    "purchaseLink": "https://oneword.domains/d/hdfc.ai"
+  },
+  {
+    "domain": "bmwgroup.ai",
+    "available": true,
+    "purchaseLink": "https://oneword.domains/d/bmwgroup.ai"
+  },
+  {
+    "domain": "scotiabank.ai",
+    "available": false,
+    "purchaseLink": "https://oneword.domains/d/scotiabank.ai"
+  },
+  {
+    "domain": "oxy.ai",
+    "available": false,
+    "purchaseLink": "https://oneword.domains/d/oxy.ai"
+  },
+  {
+    "domain": "psbc.ai",
+    "available": false,
+    "purchaseLink": "https://oneword.domains/d/psbc.ai"
+  },
+  {
+    "domain": "ey.ai",
+    "available": false,
+    "purchaseLink": "https://oneword.domains/d/ey.ai"
+  },
+  {
+    "domain": "intercontinentalexchange.ai",
+    "available": true,
+    "purchaseLink": "https://oneword.domains/d/intercontinentalexchange.ai"
+  },
+  {
+    "domain": "nscorp.ai",
+    "available": true,
+    "purchaseLink": "https://oneword.domains/d/nscorp.ai"
+  },
+  {
+    "domain": "alahli.ai",
+    "available": false,
+    "purchaseLink": "https://oneword.domains/d/alahli.ai"
+  },
+  {
+    "domain": "metlife.ai",
+    "available": false,
+    "purchaseLink": "https://oneword.domains/d/metlife.ai"
+  },
+  {
+    "domain": "novatek.ai",
+    "available": true,
+    "purchaseLink": "https://oneword.domains/d/novatek.ai"
+  },
+  {
+    "domain": "new.ai",
+    "available": false,
+    "purchaseLink": "https://oneword.domains/d/new.ai"
+  },
+  {
+    "domain": "bbt.ai",
+    "available": false,
+    "purchaseLink": "https://oneword.domains/d/bbt.ai"
+  },
+  {
+    "domain": "vinci.ai",
+    "available": false,
+    "purchaseLink": "https://oneword.domains/d/vinci.ai"
+  },
+  {
+    "domain": "lamresearch.ai",
+    "available": false,
+    "purchaseLink": "https://oneword.domains/d/lamresearch.ai"
+  },
+  {
+    "domain": "emerson.ai",
+    "available": false,
+    "purchaseLink": "https://oneword.domains/d/emerson.ai"
+  },
+  {
+    "domain": "atlascopco.ai",
+    "available": false,
+    "purchaseLink": "https://oneword.domains/d/atlascopco.ai"
+  },
+  {
+    "domain": "enel.ai",
+    "available": false,
+    "purchaseLink": "https://oneword.domains/d/enel.ai"
+  },
+  {
+    "domain": "aldi.ai",
+    "available": false,
+    "purchaseLink": "https://oneword.domains/d/aldi.ai"
+  },
+  {
+    "domain": "investorab.ai",
+    "available": true,
+    "purchaseLink": "https://oneword.domains/d/investorab.ai"
+  },
+  {
+    "domain": "dollargeneral.ai",
+    "available": false,
+    "purchaseLink": "https://oneword.domains/d/dollargeneral.ai"
+  },
+  {
+    "domain": "corporate.ai",
+    "available": false,
+    "purchaseLink": "https://oneword.domains/d/corporate.ai"
+  },
+  {
+    "domain": "hkex.ai",
+    "available": true,
+    "purchaseLink": "https://oneword.domains/d/hkex.ai"
+  },
+  {
+    "domain": "smfg.ai",
+    "available": true,
+    "purchaseLink": "https://oneword.domains/d/smfg.ai"
+  },
+  {
+    "domain": "westpac.ai",
+    "available": false,
+    "purchaseLink": "https://oneword.domains/d/westpac.ai"
+  },
+  {
+    "domain": "blackstone.ai",
+    "available": false,
+    "purchaseLink": "https://oneword.domains/d/blackstone.ai"
+  },
+  {
+    "domain": "mindray.ai",
+    "available": false,
+    "purchaseLink": "https://oneword.domains/d/mindray.ai"
+  },
+  {
+    "domain": "micron.ai",
+    "available": false,
+    "purchaseLink": "https://oneword.domains/d/micron.ai"
+  },
+  {
+    "domain": "haitian-food.ai",
+    "available": true,
+    "purchaseLink": "https://oneword.domains/d/haitian-food.ai"
+  },
+  {
+    "domain": "airtel.ai",
+    "available": false,
+    "purchaseLink": "https://oneword.domains/d/airtel.ai"
+  },
+  {
+    "domain": "fcx.ai",
+    "available": false,
+    "purchaseLink": "https://oneword.domains/d/fcx.ai"
+  },
+  {
+    "domain": "pxd.ai",
+    "available": false,
+    "purchaseLink": "https://oneword.domains/d/pxd.ai"
+  },
+  {
+    "domain": "aig.ai",
+    "available": false,
+    "purchaseLink": "https://oneword.domains/d/aig.ai"
+  },
+  {
+    "domain": "mckesson.ai",
+    "available": false,
+    "purchaseLink": "https://oneword.domains/d/mckesson.ai"
+  },
+  {
+    "domain": "thomsonreuters.ai",
+    "available": false,
+    "purchaseLink": "https://oneword.domains/d/thomsonreuters.ai"
+  },
+  {
+    "domain": "marathonpetroleum.ai",
+    "available": false,
+    "purchaseLink": "https://oneword.domains/d/marathonpetroleum.ai"
+  },
+  {
+    "domain": "kla-tencor.ai",
+    "available": true,
+    "purchaseLink": "https://oneword.domains/d/kla-tencor.ai"
+  },
+  {
+    "domain": "relx.ai",
+    "available": false,
+    "purchaseLink": "https://oneword.domains/d/relx.ai"
+  },
+  {
+    "domain": "safran-group.ai",
+    "available": true,
+    "purchaseLink": "https://oneword.domains/d/safran-group.ai"
+  },
+  {
+    "domain": "softbank.ai",
+    "available": false,
+    "purchaseLink": "https://oneword.domains/d/softbank.ai"
+  },
+  {
+    "domain": "monsterbevcorp.ai",
+    "available": true,
+    "purchaseLink": "https://oneword.domains/d/monsterbevcorp.ai"
+  },
+  {
+    "domain": "chinatelecom-h.ai",
+    "available": true,
+    "purchaseLink": "https://oneword.domains/d/chinatelecom-h.ai"
+  },
+  {
+    "domain": "licindia.ai",
+    "available": false,
+    "purchaseLink": "https://oneword.domains/d/licindia.ai"
+  },
+  {
+    "domain": "midea.ai",
+    "available": false,
+    "purchaseLink": "https://oneword.domains/d/midea.ai"
+  },
+  {
+    "domain": "chanel.ai",
+    "available": false,
+    "purchaseLink": "https://oneword.domains/d/chanel.ai"
+  },
+  {
+    "domain": "angloamerican.ai",
+    "available": true,
+    "purchaseLink": "https://oneword.domains/d/angloamerican.ai"
+  },
+  {
+    "domain": "oreillyauto.ai",
+    "available": true,
+    "purchaseLink": "https://oneword.domains/d/oreillyauto.ai"
+  },
+  {
+    "domain": "enterpriseproducts.ai",
+    "available": false,
+    "purchaseLink": "https://oneword.domains/d/enterpriseproducts.ai"
+  },
+  {
+    "domain": "adm.ai",
+    "available": false,
+    "purchaseLink": "https://oneword.domains/d/adm.ai"
+  },
+  {
+    "domain": "brookfield.ai",
+    "available": false,
+    "purchaseLink": "https://oneword.domains/d/brookfield.ai"
+  },
+  {
+    "domain": "vmware.ai",
+    "available": false,
+    "purchaseLink": "https://oneword.domains/d/vmware.ai"
+  },
+  {
+    "domain": "keurigdrpepper.ai",
+    "available": true,
+    "purchaseLink": "https://oneword.domains/d/keurigdrpepper.ai"
+  },
+  {
+    "domain": "cib.ai",
+    "available": false,
+    "purchaseLink": "https://oneword.domains/d/cib.ai"
+  },
+  {
+    "domain": "adanienterprises.ai",
+    "available": true,
+    "purchaseLink": "https://oneword.domains/d/adanienterprises.ai"
+  },
+  {
+    "domain": "moodys.ai",
+    "available": false,
+    "purchaseLink": "https://oneword.domains/d/moodys.ai"
+  },
+  {
+    "domain": "eni.ai",
+    "available": false,
+    "purchaseLink": "https://oneword.domains/d/eni.ai"
+  },
+  {
+    "domain": "airbnb.ai",
+    "available": false,
+    "purchaseLink": "https://oneword.domains/d/airbnb.ai"
+  },
+  {
+    "domain": "shinetsu.ai",
+    "available": true,
+    "purchaseLink": "https://oneword.domains/d/shinetsu.ai"
+  },
+  {
+    "domain": "bayer.ai",
+    "available": false,
+    "purchaseLink": "https://oneword.domains/d/bayer.ai"
+  },
+  {
+    "domain": "dominionenergy.ai",
+    "available": true,
+    "purchaseLink": "https://oneword.domains/d/dominionenergy.ai"
+  },
+  {
+    "domain": "pernod-ricard.ai",
+    "available": true,
+    "purchaseLink": "https://oneword.domains/d/pernod-ricard.ai"
+  },
+  {
+    "domain": "recruit-holdings.ai",
+    "available": true,
+    "purchaseLink": "https://oneword.domains/d/recruit-holdings.ai"
+  },
+  {
+    "domain": "generalmills.ai",
+    "available": false,
+    "purchaseLink": "https://oneword.domains/d/generalmills.ai"
+  },
+  {
+    "domain": "rb.ai",
+    "available": false,
+    "purchaseLink": "https://oneword.domains/d/rb.ai"
+  },
+  {
+    "domain": "itcportal.ai",
+    "available": true,
+    "purchaseLink": "https://oneword.domains/d/itcportal.ai"
+  },
+  {
+    "domain": "nintendo.ai",
+    "available": false,
+    "purchaseLink": "https://oneword.domains/d/nintendo.ai"
+  },
+  {
+    "domain": "publicstorage.ai",
+    "available": false,
+    "purchaseLink": "https://oneword.domains/d/publicstorage.ai"
+  },
+  {
+    "domain": "kraftheinzcompany.ai",
+    "available": false,
+    "purchaseLink": "https://oneword.domains/d/kraftheinzcompany.ai"
+  },
+  {
+    "domain": "lukoil.ai",
+    "available": false,
+    "purchaseLink": "https://oneword.domains/d/lukoil.ai"
+  },
+  {
+    "domain": "sx-xhcfj.ai",
+    "available": true,
+    "purchaseLink": "https://oneword.domains/d/sx-xhcfj.ai"
+  },
+  {
+    "domain": "edfenergy.ai",
+    "available": true,
+    "purchaseLink": "https://oneword.domains/d/edfenergy.ai"
+  },
+  {
+    "domain": "sempra.ai",
+    "available": true,
+    "purchaseLink": "https://oneword.domains/d/sempra.ai"
+  },
+  {
+    "domain": "santander.ai",
+    "available": false,
+    "purchaseLink": "https://oneword.domains/d/santander.ai"
+  },
+  {
+    "domain": "aep.ai",
+    "available": false,
+    "purchaseLink": "https://oneword.domains/d/aep.ai"
+  },
+  {
+    "domain": "uber.ai",
+    "available": false,
+    "purchaseLink": "https://oneword.domains/d/uber.ai"
+  },
+  {
+    "domain": "phillips66.ai",
+    "available": false,
+    "purchaseLink": "https://oneword.domains/d/phillips66.ai"
+  },
+  {
+    "domain": "synopsys.ai",
+    "available": false,
+    "purchaseLink": "https://oneword.domains/d/synopsys.ai"
+  },
+  {
+    "domain": "thehersheycompany.ai",
+    "available": true,
+    "purchaseLink": "https://oneword.domains/d/thehersheycompany.ai"
+  },
+  {
+    "domain": "hitachi.ai",
+    "available": false,
+    "purchaseLink": "https://oneword.domains/d/hitachi.ai"
+  },
+  {
+    "domain": "gm.ai",
+    "available": false,
+    "purchaseLink": "https://oneword.domains/d/gm.ai"
+  },
+  {
+    "domain": "takeda.ai",
+    "available": false,
+    "purchaseLink": "https://oneword.domains/d/takeda.ai"
+  },
+  {
+    "domain": "valero.ai",
+    "available": false,
+    "purchaseLink": "https://oneword.domains/d/valero.ai"
+  },
+  {
+    "domain": "lseg.ai",
+    "available": false,
+    "purchaseLink": "https://oneword.domains/d/lseg.ai"
+  },
+  {
+    "domain": "pacificorp.ai",
+    "available": true,
+    "purchaseLink": "https://oneword.domains/d/pacificorp.ai"
+  },
+  {
+    "domain": "anz.ai",
+    "available": false,
+    "purchaseLink": "https://oneword.domains/d/anz.ai"
+  },
+  {
+    "domain": "stc.ai",
+    "available": false,
+    "purchaseLink": "https://oneword.domains/d/stc.ai"
+  },
+  {
+    "domain": "mitsubishicorp.ai",
+    "available": true,
+    "purchaseLink": "https://oneword.domains/d/mitsubishicorp.ai"
+  },
+  {
+    "domain": "ir-bri.ai",
+    "available": true,
+    "purchaseLink": "https://oneword.domains/d/ir-bri.ai"
+  },
+  {
+    "domain": "southerncoppercorp.ai",
+    "available": true,
+    "purchaseLink": "https://oneword.domains/d/southerncoppercorp.ai"
+  },
+  {
+    "domain": "itau.ai",
+    "available": false,
+    "purchaseLink": "https://oneword.domains/d/itau.ai"
+  },
+  {
+    "domain": "marriott.ai",
+    "available": false,
+    "purchaseLink": "https://oneword.domains/d/marriott.ai"
+  },
+  {
+    "domain": "home.ai",
+    "available": false,
+    "purchaseLink": "https://oneword.domains/d/home.ai"
+  },
+  {
+    "domain": "bajajfinserv.ai",
+    "available": true,
+    "purchaseLink": "https://oneword.domains/d/bajajfinserv.ai"
+  },
+  {
+    "domain": "hikvision.ai",
+    "available": false,
+    "purchaseLink": "https://oneword.domains/d/hikvision.ai"
+  },
+  {
+    "domain": "ir.ai",
+    "available": false,
+    "purchaseLink": "https://oneword.domains/d/ir.ai"
+  },
+  {
+    "domain": "lzlj.ai",
+    "available": true,
+    "purchaseLink": "https://oneword.domains/d/lzlj.ai"
+  },
+  {
+    "domain": "cintas.ai",
+    "available": false,
+    "purchaseLink": "https://oneword.domains/d/cintas.ai"
+  },
+  {
+    "domain": "3ds.ai",
+    "available": false,
+    "purchaseLink": "https://oneword.domains/d/3ds.ai"
+  },
+  {
+    "domain": "itochu.ai",
+    "available": true,
+    "purchaseLink": "https://oneword.domains/d/itochu.ai"
+  },
+  {
+    "domain": "kimberly-clark.ai",
+    "available": false,
+    "purchaseLink": "https://oneword.domains/d/kimberly-clark.ai"
+  },
+  {
+    "domain": "centene.ai",
+    "available": false,
+    "purchaseLink": "https://oneword.domains/d/centene.ai"
+  },
+  {
+    "domain": "stellantis.ai",
+    "available": false,
+    "purchaseLink": "https://oneword.domains/d/stellantis.ai"
+  },
+  {
+    "domain": "bankfab.ai",
+    "available": false,
+    "purchaseLink": "https://oneword.domains/d/bankfab.ai"
+  },
+  {
+    "domain": "tel.ai",
+    "available": false,
+    "purchaseLink": "https://oneword.domains/d/tel.ai"
+  },
+  {
+    "domain": "mitsui.ai",
+    "available": true,
+    "purchaseLink": "https://oneword.domains/d/mitsui.ai"
+  },
+  {
+    "domain": "edwards.ai",
+    "available": false,
+    "purchaseLink": "https://oneword.domains/d/edwards.ai"
+  },
+  {
+    "domain": "qnb.ai",
+    "available": false,
+    "purchaseLink": "https://oneword.domains/d/qnb.ai"
+  },
+  {
+    "domain": "bankcomm.ai",
+    "available": false,
+    "purchaseLink": "https://oneword.domains/d/bankcomm.ai"
+  },
+  {
+    "domain": "daikin.ai",
+    "available": false,
+    "purchaseLink": "https://oneword.domains/d/daikin.ai"
+  },
+  {
+    "domain": "ford.ai",
+    "available": false,
+    "purchaseLink": "https://oneword.domains/d/ford.ai"
+  },
+  {
+    "domain": "woodside.ai",
+    "available": true,
+    "purchaseLink": "https://oneword.domains/d/woodside.ai"
+  },
+  {
+    "domain": "ropertech.ai",
+    "available": false,
+    "purchaseLink": "https://oneword.domains/d/ropertech.ai"
+  },
+  {
+    "domain": "autozone.ai",
+    "available": false,
+    "purchaseLink": "https://oneword.domains/d/autozone.ai"
+  },
+  {
+    "domain": "foxconn.ai",
+    "available": false,
+    "purchaseLink": "https://oneword.domains/d/foxconn.ai"
+  },
+  {
+    "domain": "olc.ai",
+    "available": true,
+    "purchaseLink": "https://oneword.domains/d/olc.ai"
+  },
+  {
+    "domain": "dpdhl.ai",
+    "available": false,
+    "purchaseLink": "https://oneword.domains/d/dpdhl.ai"
+  },
+  {
+    "domain": "basf.ai",
+    "available": false,
+    "purchaseLink": "https://oneword.domains/d/basf.ai"
+  },
+  {
+    "domain": "amphenol.ai",
+    "available": false,
+    "purchaseLink": "https://oneword.domains/d/amphenol.ai"
+  },
+  {
+    "domain": "munichre.ai",
+    "available": false,
+    "purchaseLink": "https://oneword.domains/d/munichre.ai"
+  },
+  {
+    "domain": "ing.ai",
+    "available": false,
+    "purchaseLink": "https://oneword.domains/d/ing.ai"
+  },
+  {
+    "domain": "samsungbiologics.ai",
+    "available": false,
+    "purchaseLink": "https://oneword.domains/d/samsungbiologics.ai"
+  },
+  {
+    "domain": "aflac.ai",
+    "available": false,
+    "purchaseLink": "https://oneword.domains/d/aflac.ai"
+  },
+  {
+    "domain": "nationalgrid.ai",
+    "available": false,
+    "purchaseLink": "https://oneword.domains/d/nationalgrid.ai"
+  },
+  {
+    "domain": "snowflake.ai",
+    "available": false,
+    "purchaseLink": "https://oneword.domains/d/snowflake.ai"
+  },
+  {
+    "domain": "fedex.ai",
+    "available": false,
+    "purchaseLink": "https://oneword.domains/d/fedex.ai"
+  },
+  {
+    "domain": "ikea.ai",
+    "available": false,
+    "purchaseLink": "https://oneword.domains/d/ikea.ai"
+  },
+  {
+    "domain": "travelers.ai",
+    "available": false,
+    "purchaseLink": "https://oneword.domains/d/travelers.ai"
+  },
+  {
+    "domain": "dsv.ai",
+    "available": false,
+    "purchaseLink": "https://oneword.domains/d/dsv.ai"
+  },
+  {
+    "domain": "cadence.ai",
+    "available": false,
+    "purchaseLink": "https://oneword.domains/d/cadence.ai"
+  },
+  {
+    "domain": "ambev.ai",
+    "available": false,
+    "purchaseLink": "https://oneword.domains/d/ambev.ai"
+  },
+  {
+    "domain": "agilent.ai",
+    "available": false,
+    "purchaseLink": "https://oneword.domains/d/agilent.ai"
+  },
+  {
+    "domain": "investor.ai",
+    "available": false,
+    "purchaseLink": "https://oneword.domains/d/investor.ai"
+  },
+  {
+    "domain": "johnsoncontrols.ai",
+    "available": false,
+    "purchaseLink": "https://oneword.domains/d/johnsoncontrols.ai"
+  },
+  {
+    "domain": "adyen.ai",
+    "available": false,
+    "purchaseLink": "https://oneword.domains/d/adyen.ai"
+  },
+  {
+    "domain": "en.ai",
+    "available": false,
+    "purchaseLink": "https://oneword.domains/d/en.ai"
+  },
+  {
+    "domain": "hess.ai",
+    "available": false,
+    "purchaseLink": "https://oneword.domains/d/hess.ai"
+  },
+  {
+    "domain": "universalmusic.ai",
+    "available": false,
+    "purchaseLink": "https://oneword.domains/d/universalmusic.ai"
+  },
+  {
+    "domain": "macquarie.ai",
+    "available": true,
+    "purchaseLink": "https://oneword.domains/d/macquarie.ai"
+  },
+  {
+    "domain": "kotak.ai",
+    "available": false,
+    "purchaseLink": "https://oneword.domains/d/kotak.ai"
+  },
+  {
+    "domain": "tokiomarinehd.ai",
+    "available": true,
+    "purchaseLink": "https://oneword.domains/d/tokiomarinehd.ai"
+  },
+  {
+    "domain": "dexcom.ai",
+    "available": false,
+    "purchaseLink": "https://oneword.domains/d/dexcom.ai"
+  },
+  {
+    "domain": "adanigas.ai",
+    "available": true,
+    "purchaseLink": "https://oneword.domains/d/adanigas.ai"
+  },
+  {
+    "domain": "motorolasolutions.ai",
+    "available": true,
+    "purchaseLink": "https://oneword.domains/d/motorolasolutions.ai"
+  },
+  {
+    "domain": "shopify.ai",
+    "available": false,
+    "purchaseLink": "https://oneword.domains/d/shopify.ai"
+  },
+  {
+    "domain": "cbrands.ai",
+    "available": true,
+    "purchaseLink": "https://oneword.domains/d/cbrands.ai"
+  },
+  {
+    "domain": "exeloncorp.ai",
+    "available": false,
+    "purchaseLink": "https://oneword.domains/d/exeloncorp.ai"
+  },
+  {
+    "domain": "paloaltonetworks.ai",
+    "available": false,
+    "purchaseLink": "https://oneword.domains/d/paloaltonetworks.ai"
+  },
+  {
+    "domain": "biontech.ai",
+    "available": false,
+    "purchaseLink": "https://oneword.domains/d/biontech.ai"
+  },
+  {
+    "domain": "biotech.ai",
+    "available": false,
+    "purchaseLink": "https://oneword.domains/d/biotech.ai"
+  },
+  {
+    "domain": "chugai-pharm.ai",
+    "available": true,
+    "purchaseLink": "https://oneword.domains/d/chugai-pharm.ai"
+  },
+  {
+    "domain": "suncor.ai",
+    "available": false,
+    "purchaseLink": "https://oneword.domains/d/suncor.ai"
+  },
+  {
+    "domain": "fmgl.ai",
+    "available": true,
+    "purchaseLink": "https://oneword.domains/d/fmgl.ai"
+  },
+  {
+    "domain": "corteva.ai",
+    "available": false,
+    "purchaseLink": "https://oneword.domains/d/corteva.ai"
+  },
+  {
+    "domain": "intesasanpaolo.ai",
+    "available": false,
+    "purchaseLink": "https://oneword.domains/d/intesasanpaolo.ai"
+  },
+  {
+    "domain": "ihsmarkit.ai",
+    "available": true,
+    "purchaseLink": "https://oneword.domains/d/ihsmarkit.ai"
+  },
+  {
+    "domain": "workday.ai",
+    "available": false,
+    "purchaseLink": "https://oneword.domains/d/workday.ai"
+  },
+  {
+    "domain": "budweiserapac.ai",
+    "available": true,
+    "purchaseLink": "https://oneword.domains/d/budweiserapac.ai"
+  },
+  {
+    "domain": "paychex.ai",
+    "available": false,
+    "purchaseLink": "https://oneword.domains/d/paychex.ai"
+  },
+  {
+    "domain": "maaden.ai",
+    "available": false,
+    "purchaseLink": "https://oneword.domains/d/maaden.ai"
+  },
+  {
+    "domain": "skhynix.ai",
+    "available": false,
+    "purchaseLink": "https://oneword.domains/d/skhynix.ai"
+  },
+  {
+    "domain": "republicservices.ai",
+    "available": true,
+    "purchaseLink": "https://oneword.domains/d/republicservices.ai"
+  },
+  {
+    "domain": "ecolab.ai",
+    "available": false,
+    "purchaseLink": "https://oneword.domains/d/ecolab.ai"
+  },
+  {
+    "domain": "ocbc.ai",
+    "available": false,
+    "purchaseLink": "https://oneword.domains/d/ocbc.ai"
+  },
+  {
+    "domain": "devonenergy.ai",
+    "available": true,
+    "purchaseLink": "https://oneword.domains/d/devonenergy.ai"
+  },
+  {
+    "domain": "nxp.ai",
+    "available": false,
+    "purchaseLink": "https://oneword.domains/d/nxp.ai"
+  },
+  {
+    "domain": "compass-group.ai",
+    "available": true,
+    "purchaseLink": "https://oneword.domains/d/compass-group.ai"
+  },
+  {
+    "domain": "kindermorgan.ai",
+    "available": false,
+    "purchaseLink": "https://oneword.domains/d/kindermorgan.ai"
+  },
+  {
+    "domain": "tcenergy.ai",
+    "available": true,
+    "purchaseLink": "https://oneword.domains/d/tcenergy.ai"
+  },
+  {
+    "domain": "autodesk.ai",
+    "available": false,
+    "purchaseLink": "https://oneword.domains/d/autodesk.ai"
+  },
+  {
+    "domain": "co.ai",
+    "available": false,
+    "purchaseLink": "https://oneword.domains/d/co.ai"
+  },
+  {
+    "domain": "realtyincome.ai",
+    "available": false,
+    "purchaseLink": "https://oneword.domains/d/realtyincome.ai"
+  },
+  {
+    "domain": "kkr.ai",
+    "available": false,
+    "purchaseLink": "https://oneword.domains/d/kkr.ai"
+  },
+  {
+    "domain": "xilinx.ai",
+    "available": false,
+    "purchaseLink": "https://oneword.domains/d/xilinx.ai"
+  },
+  {
+    "domain": "sf-express.ai",
+    "available": false,
+    "purchaseLink": "https://oneword.domains/d/sf-express.ai"
+  },
+  {
+    "domain": "bce.ai",
+    "available": false,
+    "purchaseLink": "https://oneword.domains/d/bce.ai"
+  },
+  {
+    "domain": "biogen.ai",
+    "available": false,
+    "purchaseLink": "https://oneword.domains/d/biogen.ai"
+  },
+  {
+    "domain": "edeka.ai",
+    "available": true,
+    "purchaseLink": "https://oneword.domains/d/edeka.ai"
+  },
+  {
+    "domain": "enphase.ai",
+    "available": true,
+    "purchaseLink": "https://oneword.domains/d/enphase.ai"
+  },
+  {
+    "domain": "en.ai",
+    "available": false,
+    "purchaseLink": "https://oneword.domains/d/en.ai"
+  },
+  {
+    "domain": "bayan.ai",
+    "available": false,
+    "purchaseLink": "https://oneword.domains/d/bayan.ai"
+  },
+  {
+    "domain": "citics.ai",
+    "available": false,
+    "purchaseLink": "https://oneword.domains/d/citics.ai"
+  },
+  {
+    "domain": "rossstores.ai",
+    "available": false,
+    "purchaseLink": "https://oneword.domains/d/rossstores.ai"
+  },
+  {
+    "domain": "nornickel.ai",
+    "available": true,
+    "purchaseLink": "https://oneword.domains/d/nornickel.ai"
+  },
+  {
+    "domain": "lululemon.ai",
+    "available": false,
+    "purchaseLink": "https://oneword.domains/d/lululemon.ai"
+  },
+  {
+    "domain": "ajg.ai",
+    "available": true,
+    "purchaseLink": "https://oneword.domains/d/ajg.ai"
+  },
+  {
+    "domain": "fisglobal.ai",
+    "available": false,
+    "purchaseLink": "https://oneword.domains/d/fisglobal.ai"
+  },
+  {
+    "domain": "infineon.ai",
+    "available": false,
+    "purchaseLink": "https://oneword.domains/d/infineon.ai"
+  },
+  {
+    "domain": "sysco.ai",
+    "available": false,
+    "purchaseLink": "https://oneword.domains/d/sysco.ai"
+  },
+  {
+    "domain": "shkp.ai",
+    "available": true,
+    "purchaseLink": "https://oneword.domains/d/shkp.ai"
+  },
+  {
+    "domain": "harris.ai",
+    "available": false,
+    "purchaseLink": "https://oneword.domains/d/harris.ai"
+  },
+  {
+    "domain": "chipotle.ai",
+    "available": false,
+    "purchaseLink": "https://oneword.domains/d/chipotle.ai"
+  },
+    {
+    "domain": "edeka.ai",
+    "available": true,
+    "purchaseLink": "https://oneword.domains/d/edeka.ai"
+  },
+  {
+    "domain": "enphase.ai",
+    "available": true,
+    "purchaseLink": "https://oneword.domains/d/enphase.ai"
+  },
+  {
+    "domain": "en.ai",
+    "available": false,
+    "purchaseLink": "https://oneword.domains/d/en.ai"
+  },
+  {
+    "domain": "bayan.ai",
+    "available": false,
+    "purchaseLink": "https://oneword.domains/d/bayan.ai"
+  },
+  {
+    "domain": "citics.ai",
+    "available": false,
+    "purchaseLink": "https://oneword.domains/d/citics.ai"
+  },
+  {
+    "domain": "rossstores.ai",
+    "available": false,
+    "purchaseLink": "https://oneword.domains/d/rossstores.ai"
+  },
+  {
+    "domain": "nornickel.ai",
+    "available": true,
+    "purchaseLink": "https://oneword.domains/d/nornickel.ai"
+  },
+  {
+    "domain": "lululemon.ai",
+    "available": false,
+    "purchaseLink": "https://oneword.domains/d/lululemon.ai"
+  },
+  {
+    "domain": "ajg.ai",
+    "available": true,
+    "purchaseLink": "https://oneword.domains/d/ajg.ai"
+  },
+  {
+    "domain": "fisglobal.ai",
+    "available": false,
+    "purchaseLink": "https://oneword.domains/d/fisglobal.ai"
+  },
+  {
+    "domain": "infineon.ai",
+    "available": false,
+    "purchaseLink": "https://oneword.domains/d/infineon.ai"
+  },
+  {
+    "domain": "sysco.ai",
+    "available": false,
+    "purchaseLink": "https://oneword.domains/d/sysco.ai"
+  },
+  {
+    "domain": "shkp.ai",
+    "available": true,
+    "purchaseLink": "https://oneword.domains/d/shkp.ai"
+  },
+  {
+    "domain": "harris.ai",
+    "available": false,
+    "purchaseLink": "https://oneword.domains/d/harris.ai"
+  },
+  {
+    "domain": "chipotle.ai",
+    "available": false,
+    "purchaseLink": "https://oneword.domains/d/chipotle.ai"
+  },
+  {
+    "domain": "tranetechnologies.ai",
+    "available": true,
+    "purchaseLink": "https://oneword.domains/d/tranetechnologies.ai"
+  },
+  {
+    "domain": "larsentoubro.ai",
+    "available": false,
+    "purchaseLink": "https://oneword.domains/d/larsentoubro.ai"
+  },
+  {
+    "domain": "sands.ai",
+    "available": false,
+    "purchaseLink": "https://oneword.domains/d/sands.ai"
+  },
+  {
+    "domain": "halliburton.ai",
+    "available": false,
+    "purchaseLink": "https://oneword.domains/d/halliburton.ai"
+  },
+  {
+    "domain": "asianpaints.ai",
+    "available": true,
+    "purchaseLink": "https://oneword.domains/d/asianpaints.ai"
+  },
+  {
+    "domain": "mizuho-fg.ai",
+    "available": true,
+    "purchaseLink": "https://oneword.domains/d/mizuho-fg.ai"
+  },
+  {
+    "domain": "lgchem.ai",
+    "available": false,
+    "purchaseLink": "https://oneword.domains/d/lgchem.ai"
+  },
+  {
+    "domain": "kfh.ai",
+    "available": false,
+    "purchaseLink": "https://oneword.domains/d/kfh.ai"
+  },
+  {
+    "domain": "chinayanghe.ai",
+    "available": true,
+    "purchaseLink": "https://oneword.domains/d/chinayanghe.ai"
+  },
+  {
+    "domain": "wesfarmers.ai",
+    "available": false,
+    "purchaseLink": "https://oneword.domains/d/wesfarmers.ai"
+  },
+  {
+    "domain": "Metaverse.ai",
+    "available": false,
+    "purchaseLink": "https://oneword.domains/d/Metaverse.ai"
+  },
+  {
+    "domain": "NFT.ai",
+    "available": false,
+    "purchaseLink": "https://oneword.domains/d/NFT.ai"
+  },
+  {
+    "domain": "crypto.ai",
+    "available": false,
+    "purchaseLink": "https://oneword.domains/d/crypto.ai"
+  },
+  {
+    "domain": "blockchain.ai",
+    "available": false,
+    "purchaseLink": "https://oneword.domains/d/blockchain.ai"
+  },
+  {
+    "domain": "AI.ai",
+    "available": false,
+    "purchaseLink": "https://oneword.domains/d/AI.ai"
+  },
+  {
+    "domain": "machine.ai",
+    "available": false,
+    "purchaseLink": "https://oneword.domains/d/machine.ai"
+  },
+  {
+    "domain": "learning.ai",
+    "available": false,
+    "purchaseLink": "https://oneword.domains/d/learning.ai"
+  },
+  {
+    "domain": "quantum.ai",
+    "available": false,
+    "purchaseLink": "https://oneword.domains/d/quantum.ai"
+  },
+  {
+    "domain": "computing.ai",
+    "available": false,
+    "purchaseLink": "https://oneword.domains/d/computing.ai"
+  },
+  {
+    "domain": "AR.ai",
+    "available": false,
+    "purchaseLink": "https://oneword.domains/d/AR.ai"
+  },
+  {
+    "domain": "VR.ai",
+    "available": false,
+    "purchaseLink": "https://oneword.domains/d/VR.ai"
+  },
+  {
+    "domain": "XR.ai",
+    "available": false,
+    "purchaseLink": "https://oneword.domains/d/XR.ai"
+  },
+  {
+    "domain": "neuralink.ai",
+    "available": false,
+    "purchaseLink": "https://oneword.domains/d/neuralink.ai"
+  },
+  {
+    "domain": "biohacking.ai",
+    "available": false,
+    "purchaseLink": "https://oneword.domains/d/biohacking.ai"
+  },
+  {
+    "domain": "transhumanism.ai",
+    "available": false,
+    "purchaseLink": "https://oneword.domains/d/transhumanism.ai"
+  },
+  {
+    "domain": "singularity.ai",
+    "available": false,
+    "purchaseLink": "https://oneword.domains/d/singularity.ai"
+  },
+  {
+    "domain": "digitization.ai",
+    "available": false,
+    "purchaseLink": "https://oneword.domains/d/digitization.ai"
+  },
+  {
+    "domain": "automation.ai",
+    "available": false,
+    "purchaseLink": "https://oneword.domains/d/automation.ai"
+  },
+  {
+    "domain": "robotics.ai",
+    "available": false,
+    "purchaseLink": "https://oneword.domains/d/robotics.ai"
+  },
+  {
+    "domain": "drones.ai",
+    "available": false,
+    "purchaseLink": "https://oneword.domains/d/drones.ai"
+  },
+  {
+    "domain": "self-driving.ai",
+    "available": false,
+    "purchaseLink": "https://oneword.domains/d/self-driving.ai"
+  },
+  {
+    "domain": "IoT.ai",
+    "available": false,
+    "purchaseLink": "https://oneword.domains/d/IoT.ai"
+  },
+  {
+    "domain": "smart.ai",
+    "available": false,
+    "purchaseLink": "https://oneword.domains/d/smart.ai"
+  },
+  {
+    "domain": "big.ai",
+    "available": false,
+    "purchaseLink": "https://oneword.domains/d/big.ai"
+  },
+  {
+    "domain": "data.ai",
+    "available": false,
+    "purchaseLink": "https://oneword.domains/d/data.ai"
+  },
+  {
+    "domain": "science.ai",
+    "available": false,
+    "purchaseLink": "https://oneword.domains/d/science.ai"
+  },
+  {
+    "domain": "fintech.ai",
+    "available": false,
+    "purchaseLink": "https://oneword.domains/d/fintech.ai"
+  },
+  {
+    "domain": "insurtech.ai",
+    "available": false,
+    "purchaseLink": "https://oneword.domains/d/insurtech.ai"
+  },
+  {
+    "domain": "proptech.ai",
+    "available": false,
+    "purchaseLink": "https://oneword.domains/d/proptech.ai"
+  },
+  {
+    "domain": "healthtech.ai",
+    "available": false,
+    "purchaseLink": "https://oneword.domains/d/healthtech.ai"
+  },
+  {
+    "domain": "edtech.ai",
+    "available": false,
+    "purchaseLink": "https://oneword.domains/d/edtech.ai"
+  },
+  {
+    "domain": "govtech.ai",
+    "available": false,
+    "purchaseLink": "https://oneword.domains/d/govtech.ai"
+  },
+  {
+    "domain": "legaltech.ai",
+    "available": false,
+    "purchaseLink": "https://oneword.domains/d/legaltech.ai"
+  },
+  {
+    "domain": "martech.ai",
+    "available": false,
+    "purchaseLink": "https://oneword.domains/d/martech.ai"
+  },
+  {
+    "domain": "adtech.ai",
+    "available": false,
+    "purchaseLink": "https://oneword.domains/d/adtech.ai"
+  },
+  {
+    "domain": "greentech.ai",
+    "available": false,
+    "purchaseLink": "https://oneword.domains/d/greentech.ai"
+  },
+  {
+    "domain": "cleantech.ai",
+    "available": false,
+    "purchaseLink": "https://oneword.domains/d/cleantech.ai"
+  },
+  {
+    "domain": "nanotech.ai",
+    "available": false,
+    "purchaseLink": "https://oneword.domains/d/nanotech.ai"
+  },
+  {
+    "domain": "biotech.ai",
+    "available": false,
+    "purchaseLink": "https://oneword.domains/d/biotech.ai"
+  },
+  {
+    "domain": "synthethic.ai",
+    "available": false,
+    "purchaseLink": "https://oneword.domains/d/synthethic.ai"
+  },
+  {
+    "domain": "biology.ai",
+    "available": false,
+    "purchaseLink": "https://oneword.domains/d/biology.ai"
+  },
+  {
+    "domain": "CRISPR.ai",
+    "available": false,
+    "purchaseLink": "https://oneword.domains/d/CRISPR.ai"
+  },
+  {
+    "domain": "cloud.ai",
+    "available": false,
+    "purchaseLink": "https://oneword.domains/d/cloud.ai"
+  },
+  {
+    "domain": "computing.ai",
+    "available": false,
+    "purchaseLink": "https://oneword.domains/d/computing.ai"
+  },
+  {
+    "domain": "SaaS.ai",
+    "available": false,
+    "purchaseLink": "https://oneword.domains/d/SaaS.ai"
+  },
+  {
+    "domain": "PaaS.ai",
+    "available": false,
+    "purchaseLink": "https://oneword.domains/d/PaaS.ai"
+  },
+  {
+    "domain": "IaaS.ai",
+    "available": false,
+    "purchaseLink": "https://oneword.domains/d/IaaS.ai"
+  },
+  {
+    "domain": "WiFi.ai",
+    "available": false,
+    "purchaseLink": "https://oneword.domains/d/WiFi.ai"
+  },
+  {
+    "domain": "streaming.ai",
+    "available": false,
+    "purchaseLink": "https://oneword.domains/d/streaming.ai"
+  },
+  {
+    "domain": "influencer.ai",
+    "available": false,
+    "purchaseLink": "https://oneword.domains/d/influencer.ai"
+  },
+  {
+    "domain": "social.ai",
+    "available": false,
+    "purchaseLink": "https://oneword.domains/d/social.ai"
+  },
+  {
+    "domain": "media.ai",
+    "available": false,
+    "purchaseLink": "https://oneword.domains/d/media.ai"
+  },
+  {
+    "domain": "podcasts.ai",
+    "available": false,
+    "purchaseLink": "https://oneword.domains/d/podcasts.ai"
+  },
+  {
+    "domain": "vlogging.ai",
+    "available": true,
+    "purchaseLink": "https://oneword.domains/d/vlogging.ai"
+  },
+  {
+    "domain": "hyperlocal.ai",
+    "available": false,
+    "purchaseLink": "https://oneword.domains/d/hyperlocal.ai"
+  },
+  {
+    "domain": "gig.ai",
+    "available": false,
+    "purchaseLink": "https://oneword.domains/d/gig.ai"
+  },
+  {
+    "domain": "economy.ai",
+    "available": false,
+    "purchaseLink": "https://oneword.domains/d/economy.ai"
+  },
+  {
+    "domain": "crowdsourcing.ai",
+    "available": false,
+    "purchaseLink": "https://oneword.domains/d/crowdsourcing.ai"
+  },
+  {
+    "domain": "sharing.ai",
+    "available": false,
+    "purchaseLink": "https://oneword.domains/d/sharing.ai"
+  },
+  {
+    "domain": "economy.ai",
+    "available": false,
+    "purchaseLink": "https://oneword.domains/d/economy.ai"
+  },
+  {
+    "domain": "subscription.ai",
+    "available": false,
+    "purchaseLink": "https://oneword.domains/d/subscription.ai"
+  },
+  {
+    "domain": "model.ai",
+    "available": false,
+    "purchaseLink": "https://oneword.domains/d/model.ai"
+  },
+  {
+    "domain": "B2B.ai",
+    "available": false,
+    "purchaseLink": "https://oneword.domains/d/B2B.ai"
+  },
+  {
+    "domain": "B2C.ai",
+    "available": false,
+    "purchaseLink": "https://oneword.domains/d/B2C.ai"
+  },
+  {
+    "domain": "C2C.ai",
+    "available": false,
+    "purchaseLink": "https://oneword.domains/d/C2C.ai"
+  },
+  {
+    "domain": "on-demand.ai",
+    "available": false,
+    "purchaseLink": "https://oneword.domains/d/on-demand.ai"
+  },
+  {
+    "domain": "ecommerce.ai",
+    "available": false,
+    "purchaseLink": "https://oneword.domains/d/ecommerce.ai"
+  },
+  {
+    "domain": "mcommerce.ai",
+    "available": false,
+    "purchaseLink": "https://oneword.domains/d/mcommerce.ai"
+  },
+  {
+    "domain": "omnichannel.ai",
+    "available": false,
+    "purchaseLink": "https://oneword.domains/d/omnichannel.ai"
+  },
+  {
+    "domain": "UX.ai",
+    "available": false,
+    "purchaseLink": "https://oneword.domains/d/UX.ai"
+  },
+  {
+    "domain": "CX.ai",
+    "available": false,
+    "purchaseLink": "https://oneword.domains/d/CX.ai"
+  },
+  {
+    "domain": "DX.ai",
+    "available": false,
+    "purchaseLink": "https://oneword.domains/d/DX.ai"
+  },
+  {
+    "domain": "blockchain.ai",
+    "available": false,
+    "purchaseLink": "https://oneword.domains/d/blockchain.ai"
+  },
+  {
+    "domain": "tokenization.ai",
+    "available": false,
+    "purchaseLink": "https://oneword.domains/d/tokenization.ai"
+  },
+  {
+    "domain": "decentralization.ai",
+    "available": false,
+    "purchaseLink": "https://oneword.domains/d/decentralization.ai"
+  },
+  {
+    "domain": "DeFi.ai",
+    "available": false,
+    "purchaseLink": "https://oneword.domains/d/DeFi.ai"
+  },
+  {
+    "domain": "crypto.ai",
+    "available": false,
+    "purchaseLink": "https://oneword.domains/d/crypto.ai"
+  },
+  {
+    "domain": "wallet.ai",
+    "available": false,
+    "purchaseLink": "https://oneword.domains/d/wallet.ai"
+  },
+  {
+    "domain": "stablecoin.ai",
+    "available": false,
+    "purchaseLink": "https://oneword.domains/d/stablecoin.ai"
+  },
+  {
+    "domain": "bitcoin.ai",
+    "available": false,
+    "purchaseLink": "https://oneword.domains/d/bitcoin.ai"
+  },
+  {
+    "domain": "ethereum.ai",
+    "available": false,
+    "purchaseLink": "https://oneword.domains/d/ethereum.ai"
+  },
+  {
+    "domain": "smart.ai",
+    "available": false,
+    "purchaseLink": "https://oneword.domains/d/smart.ai"
+  },
+  {
+    "domain": "contract.ai",
+    "available": false,
+    "purchaseLink": "https://oneword.domains/d/contract.ai"
+  },
+  {
+    "domain": "NFT.ai",
+    "available": false,
+    "purchaseLink": "https://oneword.domains/d/NFT.ai"
+  },
+  {
+    "domain": "metaverse.ai",
+    "available": false,
+    "purchaseLink": "https://oneword.domains/d/metaverse.ai"
+  },
+  {
+    "domain": "multiverse.ai",
+    "available": false,
+    "purchaseLink": "https://oneword.domains/d/multiverse.ai"
+  },
+  {
+    "domain": "digital.ai",
+    "available": false,
+    "purchaseLink": "https://oneword.domains/d/digital.ai"
+  },
+  {
+    "domain": "twin.ai",
+    "available": false,
+    "purchaseLink": "https://oneword.domains/d/twin.ai"
+  },
+  {
+    "domain": "extended.ai",
+    "available": false,
+    "purchaseLink": "https://oneword.domains/d/extended.ai"
+  },
+  {
+    "domain": "reality.ai",
+    "available": false,
+    "purchaseLink": "https://oneword.domains/d/reality.ai"
+  },
+  {
+    "domain": "virtual.ai",
+    "available": false,
+    "purchaseLink": "https://oneword.domains/d/virtual.ai"
+  },
+  {
+    "domain": "reality.ai",
+    "available": false,
+    "purchaseLink": "https://oneword.domains/d/reality.ai"
+  },
+  {
+    "domain": "augmented.ai",
+    "available": false,
+    "purchaseLink": "https://oneword.domains/d/augmented.ai"
+  },
+  {
+    "domain": "reality.ai",
+    "available": false,
+    "purchaseLink": "https://oneword.domains/d/reality.ai"
+  },
+  {
+    "domain": "mixed.ai",
+    "available": false,
+    "purchaseLink": "https://oneword.domains/d/mixed.ai"
+  },
+  {
+    "domain": "reality.ai",
+    "available": false,
+    "purchaseLink": "https://oneword.domains/d/reality.ai"
+  },
+  {
+    "domain": "digital.ai",
+    "available": false,
+    "purchaseLink": "https://oneword.domains/d/digital.ai"
+  },
+  {
+    "domain": "identity.ai",
+    "available": false,
+    "purchaseLink": "https://oneword.domains/d/identity.ai"
+  },
+  {
+    "domain": "e-residency.ai",
+    "available": true,
+    "purchaseLink": "https://oneword.domains/d/e-residency.ai"
+  },
+  {
+    "domain": "digital.ai",
+    "available": false,
+    "purchaseLink": "https://oneword.domains/d/digital.ai"
+  },
+  {
+    "domain": "nomad.ai",
+    "available": false,
+    "purchaseLink": "https://oneword.domains/d/nomad.ai"
+  },
+  {
+    "domain": "remote.ai",
+    "available": false,
+    "purchaseLink": "https://oneword.domains/d/remote.ai"
+  },
+  {
+    "domain": "work.ai",
+    "available": false,
+    "purchaseLink": "https://oneword.domains/d/work.ai"
+  },
+  {
+    "domain": "workation.ai",
+    "available": false,
+    "purchaseLink": "https://oneword.domains/d/workation.ai"
+  },
+  {
+    "domain": "bleisure.ai",
+    "available": true,
+    "purchaseLink": "https://oneword.domains/d/bleisure.ai"
+  },
+  {
+    "domain": "staycation.ai",
+    "available": false,
+    "purchaseLink": "https://oneword.domains/d/staycation.ai"
+  },
+  {
+    "domain": "athleisure.ai",
+    "available": false,
+    "purchaseLink": "https://oneword.domains/d/athleisure.ai"
+  },
+  {
+    "domain": "normcore.ai",
+    "available": true,
+    "purchaseLink": "https://oneword.domains/d/normcore.ai"
+  },
+  {
+    "domain": "hypebeast.ai",
+    "available": false,
+    "purchaseLink": "https://oneword.domains/d/hypebeast.ai"
+  },
+  {
+    "domain": "sneakerhead.ai",
+    "available": false,
+    "purchaseLink": "https://oneword.domains/d/sneakerhead.ai"
+  },
+  {
+    "domain": "livestream.ai",
+    "available": false,
+    "purchaseLink": "https://oneword.domains/d/livestream.ai"
+  },
+  {
+    "domain": "dropshipping.ai",
+    "available": false,
+    "purchaseLink": "https://oneword.domains/d/dropshipping.ai"
+  },
+  {
+    "domain": "viral.ai",
+    "available": false,
+    "purchaseLink": "https://oneword.domains/d/viral.ai"
+  },
+  {
+    "domain": "meme.ai",
+    "available": false,
+    "purchaseLink": "https://oneword.domains/d/meme.ai"
+  },
+  {
+    "domain": "cancel.ai",
+    "available": false,
+    "purchaseLink": "https://oneword.domains/d/cancel.ai"
+  },
+  {
+    "domain": "culture.ai",
+    "available": false,
+    "purchaseLink": "https://oneword.domains/d/culture.ai"
+  },
+  {
+    "domain": "performative.ai",
+    "available": true,
+    "purchaseLink": "https://oneword.domains/d/performative.ai"
+  },
+  {
+    "domain": "activism.ai",
+    "available": false,
+    "purchaseLink": "https://oneword.domains/d/activism.ai"
+  },
+  {
+    "domain": "virtue.ai",
+    "available": false,
+    "purchaseLink": "https://oneword.domains/d/virtue.ai"
+  },
+  {
+    "domain": "signaling.ai",
+    "available": true,
+    "purchaseLink": "https://oneword.domains/d/signaling.ai"
+  },
+  {
+    "domain": "microaggression.ai",
+    "available": true,
+    "purchaseLink": "https://oneword.domains/d/microaggression.ai"
+  },
+  {
+    "domain": "intersectionality.ai",
+    "available": false,
+    "purchaseLink": "https://oneword.domains/d/intersectionality.ai"
+  },
+  {
+    "domain": "representation.ai",
+    "available": false,
+    "purchaseLink": "https://oneword.domains/d/representation.ai"
+  },
+  {
+    "domain": "diversity.ai",
+    "available": false,
+    "purchaseLink": "https://oneword.domains/d/diversity.ai"
+  },
+  {
+    "domain": "inclusion.ai",
+    "available": false,
+    "purchaseLink": "https://oneword.domains/d/inclusion.ai"
+  },
+  {
+    "domain": "allyship.ai",
+    "available": true,
+    "purchaseLink": "https://oneword.domains/d/allyship.ai"
+  },
+  {
+    "domain": "sustainability.ai",
+    "available": false,
+    "purchaseLink": "https://oneword.domains/d/sustainability.ai"
+  },
+  {
+    "domain": "net.ai",
+    "available": false,
+    "purchaseLink": "https://oneword.domains/d/net.ai"
+  },
+  {
+    "domain": "zero.ai",
+    "available": false,
+    "purchaseLink": "https://oneword.domains/d/zero.ai"
+  },
+  {
+    "domain": "carbon.ai",
+    "available": false,
+    "purchaseLink": "https://oneword.domains/d/carbon.ai"
+  },
+  {
+    "domain": "footprint.ai",
+    "available": false,
+    "purchaseLink": "https://oneword.domains/d/footprint.ai"
+  },
+  {
+    "domain": "upcycling.ai",
+    "available": true,
+    "purchaseLink": "https://oneword.domains/d/upcycling.ai"
+  },
+  {
+    "domain": "tiny.ai",
+    "available": false,
+    "purchaseLink": "https://oneword.domains/d/tiny.ai"
+  },
+  {
+    "domain": "home.ai",
+    "available": false,
+    "purchaseLink": "https://oneword.domains/d/home.ai"
+  },
+  {
+    "domain": "van.ai",
+    "available": false,
+    "purchaseLink": "https://oneword.domains/d/van.ai"
+  },
+  {
+    "domain": "life.ai",
+    "available": false,
+    "purchaseLink": "https://oneword.domains/d/life.ai"
+  },
+  {
+    "domain": "digital.ai",
+    "available": false,
+    "purchaseLink": "https://oneword.domains/d/digital.ai"
+  },
+  {
+    "domain": "detox.ai",
+    "available": false,
+    "purchaseLink": "https://oneword.domains/d/detox.ai"
+  },
+  {
+    "domain": "forest.ai",
+    "available": false,
+    "purchaseLink": "https://oneword.domains/d/forest.ai"
+  },
+  {
+    "domain": "bathing.ai",
+    "available": true,
+    "purchaseLink": "https://oneword.domains/d/bathing.ai"
+  },
+  {
+    "domain": "self-care.ai",
+    "available": true,
+    "purchaseLink": "https://oneword.domains/d/self-care.ai"
+  },
+  {
+    "domain": "mental.ai",
+    "available": false,
+    "purchaseLink": "https://oneword.domains/d/mental.ai"
+  },
+  {
+    "domain": "health.ai",
+    "available": false,
+    "purchaseLink": "https://oneword.domains/d/health.ai"
+  },
+  {
+    "domain": "telemedicine.ai",
+    "available": false,
+    "purchaseLink": "https://oneword.domains/d/telemedicine.ai"
+  },
+  {
+    "domain": "telehealth.ai",
+    "available": false,
+    "purchaseLink": "https://oneword.domains/d/telehealth.ai"
+  },
+  {
+    "domain": "femtech.ai",
+    "available": false,
+    "purchaseLink": "https://oneword.domains/d/femtech.ai"
+  },
+  {
+    "domain": "medtech.ai",
+    "available": false,
+    "purchaseLink": "https://oneword.domains/d/medtech.ai"
+  },
+  {
+    "domain": "e-patient.ai",
+    "available": true,
+    "purchaseLink": "https://oneword.domains/d/e-patient.ai"
+  },
+  {
+    "domain": "personalized.ai",
+    "available": false,
+    "purchaseLink": "https://oneword.domains/d/personalized.ai"
+  },
+  {
+    "domain": "medicine.ai",
+    "available": false,
+    "purchaseLink": "https://oneword.domains/d/medicine.ai"
+  },
+  {
+    "domain": "precision.ai",
+    "available": false,
+    "purchaseLink": "https://oneword.domains/d/precision.ai"
+  },
+  {
+    "domain": "medicine.ai",
+    "available": false,
+    "purchaseLink": "https://oneword.domains/d/medicine.ai"
+  },
+  {
+    "domain": "microbiome.ai",
+    "available": false,
+    "purchaseLink": "https://oneword.domains/d/microbiome.ai"
+  },
+  {
+    "domain": "mhealth.ai",
+    "available": false,
+    "purchaseLink": "https://oneword.domains/d/mhealth.ai"
+  },
+  {
+    "domain": "wearables.ai",
+    "available": false,
+    "purchaseLink": "https://oneword.domains/d/wearables.ai"
+  },
+  {
+    "domain": "IoMT.ai",
+    "available": false,
+    "purchaseLink": "https://oneword.domains/d/IoMT.ai"
+  },
+  {
+    "domain": "digital.ai",
+    "available": false,
+    "purchaseLink": "https://oneword.domains/d/digital.ai"
+  },
+  {
+    "domain": "therapeutics.ai",
+    "available": false,
+    "purchaseLink": "https://oneword.domains/d/therapeutics.ai"
+  },
+  {
+    "domain": "biohacking.ai",
+    "available": false,
+    "purchaseLink": "https://oneword.domains/d/biohacking.ai"
+  },
+  {
+    "domain": "transhumanism.ai",
+    "available": false,
+    "purchaseLink": "https://oneword.domains/d/transhumanism.ai"
+  },
+  {
+    "domain": "longevity.ai",
+    "available": false,
+    "purchaseLink": "https://oneword.domains/d/longevity.ai"
+  },
+  {
+    "domain": "bioprinting.ai",
+    "available": true,
+    "purchaseLink": "https://oneword.domains/d/bioprinting.ai"
+  },
+  {
+    "domain": "cultured.ai",
+    "available": false,
+    "purchaseLink": "https://oneword.domains/d/cultured.ai"
+  },
+  {
+    "domain": "meat.ai",
+    "available": false,
+    "purchaseLink": "https://oneword.domains/d/meat.ai"
+  },
+  {
+    "domain": "alternative.ai",
+    "available": false,
+    "purchaseLink": "https://oneword.domains/d/alternative.ai"
+  },
+  {
+    "domain": "protein.ai",
+    "available": false,
+    "purchaseLink": "https://oneword.domains/d/protein.ai"
+  },
+  {
+    "domain": "cellular.ai",
+    "available": false,
+    "purchaseLink": "https://oneword.domains/d/cellular.ai"
+  },
+  {
+    "domain": "agriculture.ai",
+    "available": false,
+    "purchaseLink": "https://oneword.domains/d/agriculture.ai"
+  },
+  {
+    "domain": "vertical.ai",
+    "available": false,
+    "purchaseLink": "https://oneword.domains/d/vertical.ai"
+  },
+  {
+    "domain": "farming.ai",
+    "available": false,
+    "purchaseLink": "https://oneword.domains/d/farming.ai"
+  },
+  {
+    "domain": "hydroponics.ai",
+    "available": false,
+    "purchaseLink": "https://oneword.domains/d/hydroponics.ai"
+  },
+  {
+    "domain": "aquaponics.ai",
+    "available": false,
+    "purchaseLink": "https://oneword.domains/d/aquaponics.ai"
+  },
+  {
+    "domain": "aeroponics.ai",
+    "available": true,
+    "purchaseLink": "https://oneword.domains/d/aeroponics.ai"
+  },
+  {
+    "domain": "urban.ai",
+    "available": false,
+    "purchaseLink": "https://oneword.domains/d/urban.ai"
+  },
+  {
+    "domain": "farming.ai",
+    "available": false,
+    "purchaseLink": "https://oneword.domains/d/farming.ai"
+  },
+  {
+    "domain": "agtech.ai",
+    "available": false,
+    "purchaseLink": "https://oneword.domains/d/agtech.ai"
+  },
+  {
+    "domain": "foodtech.ai",
+    "available": false,
+    "purchaseLink": "https://oneword.domains/d/foodtech.ai"
+  },
+  {
+    "domain": "future.ai",
+    "available": false,
+    "purchaseLink": "https://oneword.domains/d/future.ai"
+  },
+  {
+    "domain": "food.ai",
+    "available": false,
+    "purchaseLink": "https://oneword.domains/d/food.ai"
+  },
+  {
+    "domain": "cellular.ai",
+    "available": false,
+    "purchaseLink": "https://oneword.domains/d/cellular.ai"
+  },
+  {
+    "domain": "agriculture.ai",
+    "available": false,
+    "purchaseLink": "https://oneword.domains/d/agriculture.ai"
+  },
+  {
+    "domain": "alt.ai",
+    "available": false,
+    "purchaseLink": "https://oneword.domains/d/alt.ai"
+  },
+  {
+    "domain": "protein.ai",
+    "available": false,
+    "purchaseLink": "https://oneword.domains/d/protein.ai"
+  },
+  {
+    "domain": "plant-based.ai",
+    "available": true,
+    "purchaseLink": "https://oneword.domains/d/plant-based.ai"
+  },
+  {
+    "domain": "clean.ai",
+    "available": false,
+    "purchaseLink": "https://oneword.domains/d/clean.ai"
+  },
+  {
+    "domain": "meat.ai",
+    "available": false,
+    "purchaseLink": "https://oneword.domains/d/meat.ai"
+  },
+  {
+    "domain": "indoor.ai",
+    "available": false,
+    "purchaseLink": "https://oneword.domains/d/indoor.ai"
+  },
+  {
+    "domain": "farming.ai",
+    "available": false,
+    "purchaseLink": "https://oneword.domains/d/farming.ai"
+  },
+  {
+    "domain": "robotics.ai",
+    "available": false,
+    "purchaseLink": "https://oneword.domains/d/robotics.ai"
+  },
+  {
+    "domain": "drones.ai",
+    "available": false,
+    "purchaseLink": "https://oneword.domains/d/drones.ai"
+  },
+  {
+    "domain": "autonomous.ai",
+    "available": false,
+    "purchaseLink": "https://oneword.domains/d/autonomous.ai"
+  },
+  {
+    "domain": "vehicles.ai",
+    "available": false,
+    "purchaseLink": "https://oneword.domains/d/vehicles.ai"
+  },
+  {
+    "domain": "machine.ai",
+    "available": false,
+    "purchaseLink": "https://oneword.domains/d/machine.ai"
+  },
+  {
+    "domain": "learning.ai",
+    "available": false,
+    "purchaseLink": "https://oneword.domains/d/learning.ai"
+  },
+  {
+    "domain": "deep.ai",
+    "available": false,
+    "purchaseLink": "https://oneword.domains/d/deep.ai"
+  },
+  {
+    "domain": "learning.ai",
+    "available": false,
+    "purchaseLink": "https://oneword.domains/d/learning.ai"
+  },
+  {
+    "domain": "neural.ai",
+    "available": false,
+    "purchaseLink": "https://oneword.domains/d/neural.ai"
+  },
+  {
+    "domain": "networks.ai",
+    "available": false,
+    "purchaseLink": "https://oneword.domains/d/networks.ai"
+  },
+  {
+    "domain": "natural.ai",
+    "available": false,
+    "purchaseLink": "https://oneword.domains/d/natural.ai"
+  },
+  {
+    "domain": "language.ai",
+    "available": false,
+    "purchaseLink": "https://oneword.domains/d/language.ai"
+  },
+  {
+    "domain": "processing.ai",
+    "available": false,
+    "purchaseLink": "https://oneword.domains/d/processing.ai"
+  },
+  {
+    "domain": "computer.ai",
+    "available": false,
+    "purchaseLink": "https://oneword.domains/d/computer.ai"
+  },
+  {
+    "domain": "vision.ai",
+    "available": false,
+    "purchaseLink": "https://oneword.domains/d/vision.ai"
+  },
+  {
+    "domain": "edge.ai",
+    "available": false,
+    "purchaseLink": "https://oneword.domains/d/edge.ai"
+  },
+  {
+    "domain": "computing.ai",
+    "available": false,
+    "purchaseLink": "https://oneword.domains/d/computing.ai"
+  },
+  {
+    "domain": "WiFi.ai",
+    "available": false,
+    "purchaseLink": "https://oneword.domains/d/WiFi.ai"
+  },
+  {
+    "domain": "orbital.ai",
+    "available": false,
+    "purchaseLink": "https://oneword.domains/d/orbital.ai"
+  },
+  {
+    "domain": "computing.ai",
+    "available": false,
+    "purchaseLink": "https://oneword.domains/d/computing.ai"
+  },
+  {
+    "domain": "space.ai",
+    "available": false,
+    "purchaseLink": "https://oneword.domains/d/space.ai"
+  },
+  {
+    "domain": "tech.ai",
+    "available": false,
+    "purchaseLink": "https://oneword.domains/d/tech.ai"
+  },
+  {
+    "domain": "spacetech.ai",
+    "available": false,
+    "purchaseLink": "https://oneword.domains/d/spacetech.ai"
+  },
+  {
+    "domain": "NewSpace.ai",
+    "available": false,
+    "purchaseLink": "https://oneword.domains/d/NewSpace.ai"
+  },
+  {
+    "domain": "space.ai",
+    "available": false,
+    "purchaseLink": "https://oneword.domains/d/space.ai"
+  },
+  {
+    "domain": "mining.ai",
+    "available": false,
+    "purchaseLink": "https://oneword.domains/d/mining.ai"
+  },
+  {
+    "domain": "off-world.ai",
+    "available": true,
+    "purchaseLink": "https://oneword.domains/d/off-world.ai"
+  },
+  {
+    "domain": "living.ai",
+    "available": false,
+    "purchaseLink": "https://oneword.domains/d/living.ai"
+  },
+  {
+    "domain": "microlaunchers.ai",
+    "available": true,
+    "purchaseLink": "https://oneword.domains/d/microlaunchers.ai"
+  },
+  {
+    "domain": "smallsats.ai",
+    "available": true,
+    "purchaseLink": "https://oneword.domains/d/smallsats.ai"
+  },
+  {
+    "domain": "cubesats.ai",
+    "available": true,
+    "purchaseLink": "https://oneword.domains/d/cubesats.ai"
+  },
+  {
+    "domain": "spinners.ai",
+    "available": true,
+    "purchaseLink": "https://oneword.domains/d/spinners.ai"
+  },
+  {
+    "domain": "hyperloops.ai",
+    "available": true,
+    "purchaseLink": "https://oneword.domains/d/hyperloops.ai"
+  },
+  {
+    "domain": "evacuated.ai",
+    "available": true,
+    "purchaseLink": "https://oneword.domains/d/evacuated.ai"
+  },
+  {
+    "domain": "tubes.ai",
+    "available": false,
+    "purchaseLink": "https://oneword.domains/d/tubes.ai"
+  },
+  {
+    "domain": "maglev.ai",
+    "available": false,
+    "purchaseLink": "https://oneword.domains/d/maglev.ai"
+  },
+  {
+    "domain": "trains.ai",
+    "available": false,
+    "purchaseLink": "https://oneword.domains/d/trains.ai"
+  },
+  {
+    "domain": "high-speed.ai",
+    "available": false,
+    "purchaseLink": "https://oneword.domains/d/high-speed.ai"
+  },
+  {
+    "domain": "rail.ai",
+    "available": false,
+    "purchaseLink": "https://oneword.domains/d/rail.ai"
+  },
+  {
+    "domain": "vacuum.ai",
+    "available": false,
+    "purchaseLink": "https://oneword.domains/d/vacuum.ai"
+  },
+  {
+    "domain": "trains.ai",
+    "available": false,
+    "purchaseLink": "https://oneword.domains/d/trains.ai"
+  },
+  {
+    "domain": "electric.ai",
+    "available": false,
+    "purchaseLink": "https://oneword.domains/d/electric.ai"
+  },
+  {
+    "domain": "aviation.ai",
+    "available": false,
+    "purchaseLink": "https://oneword.domains/d/aviation.ai"
+  },
+  {
+    "domain": "eVTOLs.ai",
+    "available": false,
+    "purchaseLink": "https://oneword.domains/d/eVTOLs.ai"
+  },
+  {
+    "domain": "AAM.ai",
+    "available": false,
+    "purchaseLink": "https://oneword.domains/d/AAM.ai"
+  },
+  {
+    "domain": "UAM.ai",
+    "available": false,
+    "purchaseLink": "https://oneword.domains/d/UAM.ai"
+  },
+  {
+    "domain": "flying.ai",
+    "available": false,
+    "purchaseLink": "https://oneword.domains/d/flying.ai"
+  },
+  {
+    "domain": "cars.ai",
+    "available": false,
+    "purchaseLink": "https://oneword.domains/d/cars.ai"
+  },
+  {
+    "domain": "lidar.ai",
+    "available": false,
+    "purchaseLink": "https://oneword.domains/d/lidar.ai"
+  },
+  {
+    "domain": "autonomous.ai",
+    "available": false,
+    "purchaseLink": "https://oneword.domains/d/autonomous.ai"
+  },
+  {
+    "domain": "ships.ai",
+    "available": false,
+    "purchaseLink": "https://oneword.domains/d/ships.ai"
+  },
+  {
+    "domain": "brainiac.ai",
+    "available": false,
+    "purchaseLink": "https://oneword.domains/d/brainiac.ai"
+  },
+  {
+    "domain": "cognitron.ai",
+    "available": false,
+    "purchaseLink": "https://oneword.domains/d/cognitron.ai"
+  },
+  {
+    "domain": "neuronet.ai",
+    "available": false,
+    "purchaseLink": "https://oneword.domains/d/neuronet.ai"
+  },
+  {
+    "domain": "synapster.ai",
+    "available": true,
+    "purchaseLink": "https://oneword.domains/d/synapster.ai"
+  },
+  {
+    "domain": "cortexly.ai",
+    "available": false,
+    "purchaseLink": "https://oneword.domains/d/cortexly.ai"
+  },
+  {
+    "domain": "mentee.ai",
+    "available": false,
+    "purchaseLink": "https://oneword.domains/d/mentee.ai"
+  },
+  {
+    "domain": "intellecto.ai",
+    "available": false,
+    "purchaseLink": "https://oneword.domains/d/intellecto.ai"
+  },
+  {
+    "domain": "sagemind.ai",
+    "available": false,
+    "purchaseLink": "https://oneword.domains/d/sagemind.ai"
+  },
+  {
+    "domain": "geniuso.ai",
+    "available": true,
+    "purchaseLink": "https://oneword.domains/d/geniuso.ai"
+  },
+  {
+    "domain": "brightspark.ai",
+    "available": false,
+    "purchaseLink": "https://oneword.domains/d/brightspark.ai"
+  },
+  {
+    "domain": "ideasprout.ai",
+    "available": true,
+    "purchaseLink": "https://oneword.domains/d/ideasprout.ai"
+  },
+  {
+    "domain": "envisioneer.ai",
+    "available": true,
+    "purchaseLink": "https://oneword.domains/d/envisioneer.ai"
+  },
+  {
+    "domain": "futurehub.ai",
+    "available": false,
+    "purchaseLink": "https://oneword.domains/d/futurehub.ai"
+  },
+  {
+    "domain": "rocketbrain.ai",
+    "available": true,
+    "purchaseLink": "https://oneword.domains/d/rocketbrain.ai"
+  },
+  {
+    "domain": "bigthink.ai",
+    "available": false,
+    "purchaseLink": "https://oneword.domains/d/bigthink.ai"
+  },
+  {
+    "domain": "cognext.ai",
+    "available": false,
+    "purchaseLink": "https://oneword.domains/d/cognext.ai"
+  },
+  {
+    "domain": "mindspring.ai",
+    "available": false,
+    "purchaseLink": "https://oneword.domains/d/mindspring.ai"
+  },
+  {
+    "domain": "brainstormer.ai",
+    "available": false,
+    "purchaseLink": "https://oneword.domains/d/brainstormer.ai"
+  },
+  {
+    "domain": "ideagenerator.ai",
+    "available": false,
+    "purchaseLink": "https://oneword.domains/d/ideagenerator.ai"
+  },
+  {
+    "domain": "thoughtex.ai",
+    "available": true,
+    "purchaseLink": "https://oneword.domains/d/thoughtex.ai"
+  },
+  {
+    "domain": "innovatorium.ai",
+    "available": true,
+    "purchaseLink": "https://oneword.domains/d/innovatorium.ai"
+  },
+  {
+    "domain": "creativitylab.ai",
+    "available": true,
+    "purchaseLink": "https://oneword.domains/d/creativitylab.ai"
+  },
+  {
+    "domain": "breakthrough.ai",
+    "available": false,
+    "purchaseLink": "https://oneword.domains/d/breakthrough.ai"
+  },
+  {
+    "domain": "eureka.ai",
+    "available": false,
+    "purchaseLink": "https://oneword.domains/d/eureka.ai"
+  },
+  {
+    "domain": "visionquest.ai",
+    "available": false,
+    "purchaseLink": "https://oneword.domains/d/visionquest.ai"
+  },
+  {
+    "domain": "enlighten.ai",
+    "available": false,
+    "purchaseLink": "https://oneword.domains/d/enlighten.ai"
+  },
+  {
+    "domain": "brainbox.ai",
+    "available": false,
+    "purchaseLink": "https://oneword.domains/d/brainbox.ai"
+  },
+  {
+    "domain": "mentalex.ai",
+    "available": true,
+    "purchaseLink": "https://oneword.domains/d/mentalex.ai"
+  },
+  {
+    "domain": "mastermind.ai",
+    "available": false,
+    "purchaseLink": "https://oneword.domains/d/mastermind.ai"
+  },
+  {
+    "domain": "cerebral.ai",
+    "available": false,
+    "purchaseLink": "https://oneword.domains/d/cerebral.ai"
+  },
+  {
+    "domain": "intellect.ai",
+    "available": false,
+    "purchaseLink": "https://oneword.domains/d/intellect.ai"
+  },
+  {
+    "domain": "cleverbot.ai",
+    "available": false,
+    "purchaseLink": "https://oneword.domains/d/cleverbot.ai"
+  },
+  {
+    "domain": "wiseowl.ai",
+    "available": false,
+    "purchaseLink": "https://oneword.domains/d/wiseowl.ai"
+  },
+  {
+    "domain": "smartcookie.ai",
+    "available": false,
+    "purchaseLink": "https://oneword.domains/d/smartcookie.ai"
+  },
+  {
+    "domain": "brainiac.ai",
+    "available": false,
+    "purchaseLink": "https://oneword.domains/d/brainiac.ai"
+  },
+  {
+    "domain": "brainstorm.ai",
+    "available": false,
+    "purchaseLink": "https://oneword.domains/d/brainstorm.ai"
+  },
+  {
+    "domain": "mentee.ai",
+    "available": false,
+    "purchaseLink": "https://oneword.domains/d/mentee.ai"
+  },
+  {
+    "domain": "thinktank.ai",
+    "available": false,
+    "purchaseLink": "https://oneword.domains/d/thinktank.ai"
+  },
+  {
+    "domain": "insights.ai",
+    "available": false,
+    "purchaseLink": "https://oneword.domains/d/insights.ai"
+  },
+  {
+    "domain": "ideaplus.ai",
+    "available": true,
+    "purchaseLink": "https://oneword.domains/d/ideaplus.ai"
+  },
+  {
+    "domain": "inspired.ai",
+    "available": false,
+    "purchaseLink": "https://oneword.domains/d/inspired.ai"
+  },
+  {
+    "domain": "creativemind.ai",
+    "available": false,
+    "purchaseLink": "https://oneword.domains/d/creativemind.ai"
+  },
+  {
+    "domain": "inventor.ai",
+    "available": false,
+    "purchaseLink": "https://oneword.domains/d/inventor.ai"
+  },
+  {
+    "domain": "innovate.ai",
+    "available": false,
+    "purchaseLink": "https://oneword.domains/d/innovate.ai"
+  },
+  {
+    "domain": "disrupt.ai",
+    "available": false,
+    "purchaseLink": "https://oneword.domains/d/disrupt.ai"
+  },
+  {
+    "domain": "transformer.ai",
+    "available": false,
+    "purchaseLink": "https://oneword.domains/d/transformer.ai"
+  },
+  {
+    "domain": "gamechange.ai",
+    "available": false,
+    "purchaseLink": "https://oneword.domains/d/gamechange.ai"
+  },
+  {
+    "domain": "revolutionize.ai",
+    "available": false,
+    "purchaseLink": "https://oneword.domains/d/revolutionize.ai"
+  },
+  {
+    "domain": "visualize.ai",
+    "available": false,
+    "purchaseLink": "https://oneword.domains/d/visualize.ai"
+  },
+  {
+    "domain": "optimind.ai",
+    "available": false,
+    "purchaseLink": "https://oneword.domains/d/optimind.ai"
+  },
+  {
+    "domain": "futurevise.ai",
+    "available": true,
+    "purchaseLink": "https://oneword.domains/d/futurevise.ai"
+  },
+  {
+    "domain": "foresight.ai",
+    "available": false,
+    "purchaseLink": "https://oneword.domains/d/foresight.ai"
+  },
+  {
+    "domain": "predict.ai",
+    "available": false,
+    "purchaseLink": "https://oneword.domains/d/predict.ai"
+  },
+  {
+    "domain": "unfold.ai",
+    "available": false,
+    "purchaseLink": "https://oneword.domains/d/unfold.ai"
+  },
+  {
+    "domain": "unfold.ai",
+    "available": false,
+    "purchaseLink": "https://oneword.domains/d/unfold.ai"
+  },
+  {
+    "domain": "ion.ai",
+    "available": false,
+    "purchaseLink": "https://oneword.domains/d/ion.ai"
+  },
+  {
+    "domain": "cognify.ai",
+    "available": false,
+    "purchaseLink": "https://oneword.domains/d/cognify.ai"
+  },
+  {
+    "domain": "apti.ai",
+    "available": false,
+    "purchaseLink": "https://oneword.domains/d/apti.ai"
+  },
+  {
+    "domain": "intelli.ai",
+    "available": false,
+    "purchaseLink": "https://oneword.domains/d/intelli.ai"
+  },
+  {
+    "domain": "cognitiva.ai",
+    "available": false,
+    "purchaseLink": "https://oneword.domains/d/cognitiva.ai"
+  },
+  {
+    "domain": "mentis.ai",
+    "available": false,
+    "purchaseLink": "https://oneword.domains/d/mentis.ai"
+  },
+  {
+    "domain": "cerebrum.ai",
+    "available": false,
+    "purchaseLink": "https://oneword.domains/d/cerebrum.ai"
+  },
+  {
+    "domain": "cortex.ai",
+    "available": false,
+    "purchaseLink": "https://oneword.domains/d/cortex.ai"
+  },
+  {
+    "domain": "cogniton.ai",
+    "available": false,
+    "purchaseLink": "https://oneword.domains/d/cogniton.ai"
+  },
+  {
+    "domain": "intelect.ai",
+    "available": false,
+    "purchaseLink": "https://oneword.domains/d/intelect.ai"
+  },
+  {
+    "domain": "mentem.ai",
+    "available": false,
+    "purchaseLink": "https://oneword.domains/d/mentem.ai"
+  },
+  {
+    "domain": "sapien.ai",
+    "available": false,
+    "purchaseLink": "https://oneword.domains/d/sapien.ai"
+  },
+  {
+    "domain": "sapient.ai",
+    "available": false,
+    "purchaseLink": "https://oneword.domains/d/sapient.ai"
+  },
+  {
+    "domain": "mentalis.ai",
+    "available": true,
+    "purchaseLink": "https://oneword.domains/d/mentalis.ai"
+  },
+  {
+    "domain": "pysch.ai",
+    "available": false,
+    "purchaseLink": "https://oneword.domains/d/pysch.ai"
+  },
+  {
+    "domain": "Novus.ai",
+    "available": false,
+    "purchaseLink": "https://oneword.domains/d/Novus.ai"
+  },
+  {
+    "domain": "momentum.ai",
+    "available": false,
+    "purchaseLink": "https://oneword.domains/d/momentum.ai"
+  },
+  {
+    "domain": "acumen.ai",
+    "available": false,
+    "purchaseLink": "https://oneword.domains/d/acumen.ai"
+  },
+  {
+    "domain": "cognosco.ai",
+    "available": true,
+    "purchaseLink": "https://oneword.domains/d/cognosco.ai"
+  },
+  {
+    "domain": "perspicax.ai",
+    "available": true,
+    "purchaseLink": "https://oneword.domains/d/perspicax.ai"
+  },
+  {
+    "domain": "mentem.ai",
+    "available": false,
+    "purchaseLink": "https://oneword.domains/d/mentem.ai"
+  },
+  {
+    "domain": "cognita.ai",
+    "available": false,
+    "purchaseLink": "https://oneword.domains/d/cognita.ai"
+  },
+  {
+    "domain": "comperio.ai",
+    "available": true,
+    "purchaseLink": "https://oneword.domains/d/comperio.ai"
+  },
+  {
+    "domain": "percipio.ai",
+    "available": false,
+    "purchaseLink": "https://oneword.domains/d/percipio.ai"
+  },
+  {
+    "domain": "scio.ai",
+    "available": false,
+    "purchaseLink": "https://oneword.domains/d/scio.ai"
+  },
+  {
+    "domain": "sapio.ai",
+    "available": false,
+    "purchaseLink": "https://oneword.domains/d/sapio.ai"
+  },
+  {
+    "domain": "capio.ai",
+    "available": false,
+    "purchaseLink": "https://oneword.domains/d/capio.ai"
+  },
+  {
+    "domain": "intellego.ai",
+    "available": false,
+    "purchaseLink": "https://oneword.domains/d/intellego.ai"
+  },
+  {
+    "domain": "animadverto.ai",
+    "available": true,
+    "purchaseLink": "https://oneword.domains/d/animadverto.ai"
+  },
+  {
+    "domain": "inspicio.ai",
+    "available": true,
+    "purchaseLink": "https://oneword.domains/d/inspicio.ai"
+  },
+  {
+    "domain": "Einstein.ai",
+    "available": false,
+    "purchaseLink": "https://oneword.domains/d/Einstein.ai"
+  },
+  {
+    "domain": "genius.ai",
+    "available": false,
+    "purchaseLink": "https://oneword.domains/d/genius.ai"
+  },
+  {
+    "domain": "mastermind.ai",
+    "available": false,
+    "purchaseLink": "https://oneword.domains/d/mastermind.ai"
+  },
+  {
+    "domain": "intellect.ai",
+    "available": false,
+    "purchaseLink": "https://oneword.domains/d/intellect.ai"
+  },
+  {
+    "domain": "expert.ai",
+    "available": false,
+    "purchaseLink": "https://oneword.domains/d/expert.ai"
+  },
+  {
+    "domain": "guru.ai",
+    "available": false,
+    "purchaseLink": "https://oneword.domains/d/guru.ai"
+  },
+  {
+    "domain": "prodigy.ai",
+    "available": false,
+    "purchaseLink": "https://oneword.domains/d/prodigy.ai"
+  },
+  {
+    "domain": "savant.ai",
+    "available": false,
+    "purchaseLink": "https://oneword.domains/d/savant.ai"
+  },
+  {
+    "domain": "brainiac.ai",
+    "available": false,
+    "purchaseLink": "https://oneword.domains/d/brainiac.ai"
+  },
+  {
+    "domain": "polymath.ai",
+    "available": false,
+    "purchaseLink": "https://oneword.domains/d/polymath.ai"
+  },
+  {
+    "domain": "innovator.ai",
+    "available": false,
+    "purchaseLink": "https://oneword.domains/d/innovator.ai"
+  },
+  {
+    "domain": "inventor.ai",
+    "available": false,
+    "purchaseLink": "https://oneword.domains/d/inventor.ai"
+  },
+  {
+    "domain": "pioneer.ai",
+    "available": false,
+    "purchaseLink": "https://oneword.domains/d/pioneer.ai"
+  },
+  {
+    "domain": "trailblazer.ai",
+    "available": false,
+    "purchaseLink": "https://oneword.domains/d/trailblazer.ai"
+  },
+  {
+    "domain": "visionary.ai",
+    "available": false,
+    "purchaseLink": "https://oneword.domains/d/visionary.ai"
+  },
+  {
+    "domain": "thoughtleader.ai",
+    "available": false,
+    "purchaseLink": "https://oneword.domains/d/thoughtleader.ai"
+  },
+  {
+    "domain": "scientist.ai",
+    "available": false,
+    "purchaseLink": "https://oneword.domains/d/scientist.ai"
+  },
+  {
+    "domain": "creative.ai",
+    "available": false,
+    "purchaseLink": "https://oneword.domains/d/creative.ai"
+  },
+  {
+    "domain": "brightspark.ai",
+    "available": false,
+    "purchaseLink": "https://oneword.domains/d/brightspark.ai"
+  },
+  {
+    "domain": "sharpcookie.ai",
+    "available": true,
+    "purchaseLink": "https://oneword.domains/d/sharpcookie.ai"
+  },
+  {
+    "domain": "rocketscientist.ai",
+    "available": true,
+    "purchaseLink": "https://oneword.domains/d/rocketscientist.ai"
+  },
+  {
+    "domain": "brainbox.ai",
+    "available": false,
+    "purchaseLink": "https://oneword.domains/d/brainbox.ai"
+  },
+  {
+    "domain": "egghead.ai",
+    "available": false,
+    "purchaseLink": "https://oneword.domains/d/egghead.ai"
+  },
+  {
+    "domain": "wiseowl.ai",
+    "available": false,
+    "purchaseLink": "https://oneword.domains/d/wiseowl.ai"
+  },
+  {
+    "domain": "breakthrough.ai",
+    "available": false,
+    "purchaseLink": "https://oneword.domains/d/breakthrough.ai"
+  },
+  {
+    "domain": "eureka.ai",
+    "available": false,
+    "purchaseLink": "https://oneword.domains/d/eureka.ai"
+  },
+  {
+    "domain": "aha.ai",
+    "available": false,
+    "purchaseLink": "https://oneword.domains/d/aha.ai"
+  },
+  {
+    "domain": "epiphany.ai",
+    "available": false,
+    "purchaseLink": "https://oneword.domains/d/epiphany.ai"
+  },
+  {
+    "domain": "solution.ai",
+    "available": false,
+    "purchaseLink": "https://oneword.domains/d/solution.ai"
+  },
+  {
+    "domain": "answer.ai",
+    "available": false,
+    "purchaseLink": "https://oneword.domains/d/answer.ai"
+  },
+  {
+    "domain": "resolve.ai",
+    "available": false,
+    "purchaseLink": "https://oneword.domains/d/resolve.ai"
+  },
+  {
+    "domain": "solve.ai",
+    "available": false,
+    "purchaseLink": "https://oneword.domains/d/solve.ai"
+  },
+  {
+    "domain": "unlock.ai",
+    "available": false,
+    "purchaseLink": "https://oneword.domains/d/unlock.ai"
+  },
+  {
+    "domain": "pioneer.ai",
+    "available": false,
+    "purchaseLink": "https://oneword.domains/d/pioneer.ai"
+  },
+  {
+    "domain": "transform.ai",
+    "available": false,
+    "purchaseLink": "https://oneword.domains/d/transform.ai"
+  },
+  {
+    "domain": "reinvent.ai",
+    "available": false,
+    "purchaseLink": "https://oneword.domains/d/reinvent.ai"
+  },
+  {
+    "domain": "change.ai",
+    "available": false,
+    "purchaseLink": "https://oneword.domains/d/change.ai"
+  },
+  {
+    "domain": "shift.ai",
+    "available": false,
+    "purchaseLink": "https://oneword.domains/d/shift.ai"
+  },
+  {
+    "domain": "switch.ai",
+    "available": false,
+    "purchaseLink": "https://oneword.domains/d/switch.ai"
+  },
+  {
+    "domain": "pivot.ai",
+    "available": false,
+    "purchaseLink": "https://oneword.domains/d/pivot.ai"
+  },
+  {
+    "domain": "alter.ai",
+    "available": false,
+    "purchaseLink": "https://oneword.domains/d/alter.ai"
+  },
+  {
+    "domain": "modify.ai",
+    "available": false,
+    "purchaseLink": "https://oneword.domains/d/modify.ai"
+  },
+  {
+    "domain": "evolve.ai",
+    "available": false,
+    "purchaseLink": "https://oneword.domains/d/evolve.ai"
+  },
+  {
+    "domain": "adapt.ai",
+    "available": false,
+    "purchaseLink": "https://oneword.domains/d/adapt.ai"
+  },
+  {
+    "domain": "convert.ai",
+    "available": false,
+    "purchaseLink": "https://oneword.domains/d/convert.ai"
+  },
+  {
+    "domain": "expand.ai",
+    "available": false,
+    "purchaseLink": "https://oneword.domains/d/expand.ai"
+  },
+  {
+    "domain": "transform.ai",
+    "available": false,
+    "purchaseLink": "https://oneword.domains/d/transform.ai"
+  },
+  {
+    "domain": "metamorphose.ai",
+    "available": false,
+    "purchaseLink": "https://oneword.domains/d/metamorphose.ai"
+  },
+  {
+    "domain": "revolutionize.ai",
+    "available": false,
+    "purchaseLink": "https://oneword.domains/d/revolutionize.ai"
+  },
+  {
+    "domain": "disrupt.ai",
+    "available": false,
+    "purchaseLink": "https://oneword.domains/d/disrupt.ai"
+  },
+  {
+    "domain": "innovate.ai",
+    "available": false,
+    "purchaseLink": "https://oneword.domains/d/innovate.ai"
+  },
+  {
+    "domain": "create.ai",
+    "available": false,
+    "purchaseLink": "https://oneword.domains/d/create.ai"
+  },
+  {
+    "domain": "reimagine.ai",
+    "available": false,
+    "purchaseLink": "https://oneword.domains/d/reimagine.ai"
+  },
+  {
+    "domain": "rethink.ai",
+    "available": false,
+    "purchaseLink": "https://oneword.domains/d/rethink.ai"
+  },
+  {
+    "domain": "redefine.ai",
+    "available": false,
+    "purchaseLink": "https://oneword.domains/d/redefine.ai"
+  },
+  {
+    "domain": "restructure.ai",
+    "available": false,
+    "purchaseLink": "https://oneword.domains/d/restructure.ai"
+  },
+  {
+    "domain": "reshape.ai",
+    "available": false,
+    "purchaseLink": "https://oneword.domains/d/reshape.ai"
+  },
+  {
+    "domain": "reformulate.ai",
+    "available": false,
+    "purchaseLink": "https://oneword.domains/d/reformulate.ai"
+  },
+  {
+    "domain": "reboot.ai",
+    "available": false,
+    "purchaseLink": "https://oneword.domains/d/reboot.ai"
+  },
+  {
+    "domain": "refresh.ai",
+    "available": false,
+    "purchaseLink": "https://oneword.domains/d/refresh.ai"
+  },
+  {
+    "domain": "recreate.ai",
+    "available": false,
+    "purchaseLink": "https://oneword.domains/d/recreate.ai"
+  },
+  {
+    "domain": "reengineer.ai",
+    "available": true,
+    "purchaseLink": "https://oneword.domains/d/reengineer.ai"
+  },
+  {
+    "domain": "rebuild.ai",
+    "available": false,
+    "purchaseLink": "https://oneword.domains/d/rebuild.ai"
+  },
+  {
+    "domain": "retool.ai",
+    "available": false,
+    "purchaseLink": "https://oneword.domains/d/retool.ai"
+  },
+  {
+    "domain": "reinvent.ai",
+    "available": false,
+    "purchaseLink": "https://oneword.domains/d/reinvent.ai"
+  },
+  {
+    "domain": "reinvigorate.ai",
+    "available": true,
+    "purchaseLink": "https://oneword.domains/d/reinvigorate.ai"
+  },
+  {
+    "domain": "reenergize.ai",
+    "available": true,
+    "purchaseLink": "https://oneword.domains/d/reenergize.ai"
+  },
+  {
+    "domain": "resuscitate.ai",
+    "available": true,
+    "purchaseLink": "https://oneword.domains/d/resuscitate.ai"
+  },
+  {
+    "domain": "revitalize.ai",
+    "available": false,
+    "purchaseLink": "https://oneword.domains/d/revitalize.ai"
+  },
+  {
+    "domain": "reawaken.ai",
+    "available": true,
+    "purchaseLink": "https://oneword.domains/d/reawaken.ai"
+  },
+  {
+    "domain": "stimulate.ai",
+    "available": false,
+    "purchaseLink": "https://oneword.domains/d/stimulate.ai"
+  },
+  {
+    "domain": "inspire.ai",
+    "available": false,
+    "purchaseLink": "https://oneword.domains/d/inspire.ai"
+  },
+  {
+    "domain": "energize.ai",
+    "available": false,
+    "purchaseLink": "https://oneword.domains/d/energize.ai"
+  },
+  {
+    "domain": "revamp.ai",
+    "available": false,
+    "purchaseLink": "https://oneword.domains/d/revamp.ai"
+  },
+  {
+    "domain": "rekindle.ai",
+    "available": false,
+    "purchaseLink": "https://oneword.domains/d/rekindle.ai"
+  },
+  {
+    "domain": "reignite.ai",
+    "available": false,
+    "purchaseLink": "https://oneword.domains/d/reignite.ai"
+  },
+  {
+    "domain": "recharge.ai",
+    "available": false,
+    "purchaseLink": "https://oneword.domains/d/recharge.ai"
+  },
+  {
+    "domain": "refuel.ai",
+    "available": false,
+    "purchaseLink": "https://oneword.domains/d/refuel.ai"
+  },
+  {
+    "domain": "replenish.ai",
+    "available": false,
+    "purchaseLink": "https://oneword.domains/d/replenish.ai"
+  },
+  {
+    "domain": "restore.ai",
+    "available": false,
+    "purchaseLink": "https://oneword.domains/d/restore.ai"
+  },
+  {
+    "domain": "resuscitate.ai",
+    "available": true,
+    "purchaseLink": "https://oneword.domains/d/resuscitate.ai"
+  },
+  {
+    "domain": "revive.ai",
+    "available": false,
+    "purchaseLink": "https://oneword.domains/d/revive.ai"
+  },
+  {
+    "domain": "renew.ai",
+    "available": false,
+    "purchaseLink": "https://oneword.domains/d/renew.ai"
+  },
+  {
+    "domain": "rejuvenate.ai",
+    "available": false,
+    "purchaseLink": "https://oneword.domains/d/rejuvenate.ai"
+  },
+  {
+    "domain": "regenerate.ai",
+    "available": false,
+    "purchaseLink": "https://oneword.domains/d/regenerate.ai"
+  },
+  {
+    "domain": "reinvigorate.ai",
+    "available": true,
+    "purchaseLink": "https://oneword.domains/d/reinvigorate.ai"
+  },
+  {
+    "domain": "revitalize.ai",
+    "available": false,
+    "purchaseLink": "https://oneword.domains/d/revitalize.ai"
+  },
+  {
+    "domain": "breathe new life into.ai",
+    "available": false,
+    "purchaseLink": "https://oneword.domains/d/breathe new life into.ai"
+  },
+  {
+    "domain": "refresh.ai",
+    "available": false,
+    "purchaseLink": "https://oneword.domains/d/refresh.ai"
+  },
+  {
+    "domain": "reenergize.ai",
+    "available": true,
+    "purchaseLink": "https://oneword.domains/d/reenergize.ai"
+  },
+  {
+    "domain": "galvanize.ai",
+    "available": false,
+    "purchaseLink": "https://oneword.domains/d/galvanize.ai"
+  },
+  {
+    "domain": "dynamize.ai",
+    "available": false,
+    "purchaseLink": "https://oneword.domains/d/dynamize.ai"
+  },
+  {
+    "domain": "develop.ai",
+    "available": false,
+    "purchaseLink": "https://oneword.domains/d/develop.ai"
+  },
+  {
+    "domain": "grow.ai",
+    "available": false,
+    "purchaseLink": "https://oneword.domains/d/grow.ai"
+  },
+  {
+    "domain": "build.ai",
+    "available": false,
+    "purchaseLink": "https://oneword.domains/d/build.ai"
+  },
+  {
+    "domain": "expand.ai",
+    "available": false,
+    "purchaseLink": "https://oneword.domains/d/expand.ai"
+  },
+  {
+    "domain": "extend.ai",
+    "available": false,
+    "purchaseLink": "https://oneword.domains/d/extend.ai"
+  },
+  {
+    "domain": "increase.ai",
+    "available": false,
+    "purchaseLink": "https://oneword.domains/d/increase.ai"
+  },
+  {
+    "domain": "evolve.ai",
+    "available": false,
+    "purchaseLink": "https://oneword.domains/d/evolve.ai"
+  },
+  {
+    "domain": "progress.ai",
+    "available": false,
+    "purchaseLink": "https://oneword.domains/d/progress.ai"
+  },
+  {
+    "domain": "advance.ai",
+    "available": false,
+    "purchaseLink": "https://oneword.domains/d/advance.ai"
+  },
+  {
+    "domain": "amend.ai",
+    "available": false,
+    "purchaseLink": "https://oneword.domains/d/amend.ai"
+  },
+  {
+    "domain": "augment.ai",
+    "available": false,
+    "purchaseLink": "https://oneword.domains/d/augment.ai"
+  },
+  {
+    "domain": "boost.ai",
+    "available": false,
+    "purchaseLink": "https://oneword.domains/d/boost.ai"
+  },
+  {
+    "domain": "elevate.ai",
+    "available": false,
+    "purchaseLink": "https://oneword.domains/d/elevate.ai"
+  },
+  {
+    "domain": "enhance.ai",
+    "available": false,
+    "purchaseLink": "https://oneword.domains/d/enhance.ai"
+  },
+  {
+    "domain": "magnify.ai",
+    "available": false,
+    "purchaseLink": "https://oneword.domains/d/magnify.ai"
+  },
+  {
+    "domain": "optimize.ai",
+    "available": false,
+    "purchaseLink": "https://oneword.domains/d/optimize.ai"
+  },
+  {
+    "domain": "update.ai",
+    "available": false,
+    "purchaseLink": "https://oneword.domains/d/update.ai"
+  },
+  {
+    "domain": "upgrade.ai",
+    "available": false,
+    "purchaseLink": "https://oneword.domains/d/upgrade.ai"
+  },
+  {
+    "domain": "amplify.ai",
+    "available": false,
+    "purchaseLink": "https://oneword.domains/d/amplify.ai"
+  },
+  {
+    "domain": "magnify.ai",
+    "available": false,
+    "purchaseLink": "https://oneword.domains/d/magnify.ai"
+  },
+  {
+    "domain": "maximize.ai",
+    "available": false,
+    "purchaseLink": "https://oneword.domains/d/maximize.ai"
+  },
+  {
+    "domain": "raise.ai",
+    "available": false,
+    "purchaseLink": "https://oneword.domains/d/raise.ai"
+  },
+  {
+    "domain": "heighten.ai",
+    "available": false,
+    "purchaseLink": "https://oneword.domains/d/heighten.ai"
+  },
+  {
+    "domain": "enrich.ai",
+    "available": false,
+    "purchaseLink": "https://oneword.domains/d/enrich.ai"
+  },
+  {
+    "domain": "improve.ai",
+    "available": false,
+    "purchaseLink": "https://oneword.domains/d/improve.ai"
+  },
+  {
+    "domain": "refine.ai",
+    "available": false,
+    "purchaseLink": "https://oneword.domains/d/refine.ai"
+  },
+  {
+    "domain": "cultivate.ai",
+    "available": false,
+    "purchaseLink": "https://oneword.domains/d/cultivate.ai"
+  },
+  {
+    "domain": "nurture.ai",
+    "available": false,
+    "purchaseLink": "https://oneword.domains/d/nurture.ai"
+  },
+  {
+    "domain": "bloom.ai",
+    "available": false,
+    "purchaseLink": "https://oneword.domains/d/bloom.ai"
+  },
+  {
+    "domain": "insightful.ai",
+    "available": false,
+    "purchaseLink": "https://oneword.domains/d/insightful.ai"
+  },
+  {
+    "domain": "intuitive.ai",
+    "available": false,
+    "purchaseLink": "https://oneword.domains/d/intuitive.ai"
+  },
+  {
+    "domain": "ingenious.ai",
+    "available": false,
+    "purchaseLink": "https://oneword.domains/d/ingenious.ai"
+  },
+  {
+    "domain": "inventive.ai",
+    "available": false,
+    "purchaseLink": "https://oneword.domains/d/inventive.ai"
+  },
+  {
+    "domain": "innovative.ai",
+    "available": false,
+    "purchaseLink": "https://oneword.domains/d/innovative.ai"
+  },
+  {
+    "domain": "imaginative.ai",
+    "available": false,
+    "purchaseLink": "https://oneword.domains/d/imaginative.ai"
+  },
+  {
+    "domain": "inspired.ai",
+    "available": false,
+    "purchaseLink": "https://oneword.domains/d/inspired.ai"
+  },
+  {
+    "domain": "visionary.ai",
+    "available": false,
+    "purchaseLink": "https://oneword.domains/d/visionary.ai"
+  },
+  {
+    "domain": "creative.ai",
+    "available": false,
+    "purchaseLink": "https://oneword.domains/d/creative.ai"
+  },
+  {
+    "domain": "original.ai",
+    "available": false,
+    "purchaseLink": "https://oneword.domains/d/original.ai"
+  },
+  {
+    "domain": "novel.ai",
+    "available": false,
+    "purchaseLink": "https://oneword.domains/d/novel.ai"
+  },
+  {
+    "domain": "avantgarde.ai",
+    "available": false,
+    "purchaseLink": "https://oneword.domains/d/avantgarde.ai"
+  },
+  {
+    "domain": "cuttingedge.ai",
+    "available": false,
+    "purchaseLink": "https://oneword.domains/d/cuttingedge.ai"
+  },
+  {
+    "domain": "advanced.ai",
+    "available": false,
+    "purchaseLink": "https://oneword.domains/d/advanced.ai"
+  },
+  {
+    "domain": "progress.ai",
+    "available": false,
+    "purchaseLink": "https://oneword.domains/d/progress.ai"
+  },
+  {
+    "domain": "futurefacing.ai",
+    "available": true,
+    "purchaseLink": "https://oneword.domains/d/futurefacing.ai"
+  },
+  {
+    "domain": "nextgen.ai",
+    "available": false,
+    "purchaseLink": "https://oneword.domains/d/nextgen.ai"
+  },
+  {
+    "domain": "hyperconnected.ai",
+    "available": false,
+    "purchaseLink": "https://oneword.domains/d/hyperconnected.ai"
+  },
+  {
+    "domain": "accelerated.ai",
+    "available": false,
+    "purchaseLink": "https://oneword.domains/d/accelerated.ai"
+  },
+  {
+    "domain": "exponential.ai",
+    "available": false,
+    "purchaseLink": "https://oneword.domains/d/exponential.ai"
+  },
+  {
+    "domain": "abundancedriven.ai",
+    "available": true,
+    "purchaseLink": "https://oneword.domains/d/abundancedriven.ai"
+  },
+  {
+    "domain": "empowered.ai",
+    "available": false,
+    "purchaseLink": "https://oneword.domains/d/empowered.ai"
+  },
+  {
+    "domain": "enhanced.ai",
+    "available": false,
+    "purchaseLink": "https://oneword.domains/d/enhanced.ai"
+  },
+  {
+    "domain": "enriched.ai",
+    "available": false,
+    "purchaseLink": "https://oneword.domains/d/enriched.ai"
+  },
+  {
+    "domain": "automated.ai",
+    "available": false,
+    "purchaseLink": "https://oneword.domains/d/automated.ai"
+  },
+  {
+    "domain": "autonomous.ai",
+    "available": false,
+    "purchaseLink": "https://oneword.domains/d/autonomous.ai"
+  },
+  {
+    "domain": "selfdriving.ai",
+    "available": false,
+    "purchaseLink": "https://oneword.domains/d/selfdriving.ai"
+  },
+  {
+    "domain": "smart.ai",
+    "available": false,
+    "purchaseLink": "https://oneword.domains/d/smart.ai"
+  },
+  {
+    "domain": "intelligent.ai",
+    "available": false,
+    "purchaseLink": "https://oneword.domains/d/intelligent.ai"
+  },
+  {
+    "domain": "cognitive.ai",
+    "available": false,
+    "purchaseLink": "https://oneword.domains/d/cognitive.ai"
+  },
+  {
+    "domain": "sentient.ai",
+    "available": false,
+    "purchaseLink": "https://oneword.domains/d/sentient.ai"
+  },
+  {
+    "domain": "sapient.ai",
+    "available": false,
+    "purchaseLink": "https://oneword.domains/d/sapient.ai"
+  },
+  {
+    "domain": "conscious.ai",
+    "available": false,
+    "purchaseLink": "https://oneword.domains/d/conscious.ai"
+  },
+  {
+    "domain": "agile.ai",
+    "available": false,
+    "purchaseLink": "https://oneword.domains/d/agile.ai"
+  },
+  {
+    "domain": "adaptive.ai",
+    "available": false,
+    "purchaseLink": "https://oneword.domains/d/adaptive.ai"
+  },
+  {
+    "domain": "responsive.ai",
+    "available": false,
+    "purchaseLink": "https://oneword.domains/d/responsive.ai"
+  },
+  {
+    "domain": "dynamic.ai",
+    "available": false,
+    "purchaseLink": "https://oneword.domains/d/dynamic.ai"
+  },
+  {
+    "domain": "evolving.ai",
+    "available": false,
+    "purchaseLink": "https://oneword.domains/d/evolving.ai"
+  },
+  {
+    "domain": "selflearning.ai",
+    "available": false,
+    "purchaseLink": "https://oneword.domains/d/selflearning.ai"
+  },
+  {
+    "domain": "deeplearning.ai",
+    "available": false,
+    "purchaseLink": "https://oneword.domains/d/deeplearning.ai"
+  },
+  {
+    "domain": "artificialintelligence.ai",
+    "available": false,
+    "purchaseLink": "https://oneword.domains/d/artificialintelligence.ai"
+  },
+  {
+    "domain": "machineintelligence.ai",
+    "available": false,
+    "purchaseLink": "https://oneword.domains/d/machineintelligence.ai"
+  },
+  {
+    "domain": "neuralnetworks.ai",
+    "available": false,
+    "purchaseLink": "https://oneword.domains/d/neuralnetworks.ai"
+  },
+  {
+    "domain": "naturallanguage.ai",
+    "available": false,
+    "purchaseLink": "https://oneword.domains/d/naturallanguage.ai"
+  },
+  {
+    "domain": "computervision.ai",
+    "available": false,
+    "purchaseLink": "https://oneword.domains/d/computervision.ai"
+  },
+  {
+    "domain": "augmentedreality.ai",
+    "available": false,
+    "purchaseLink": "https://oneword.domains/d/augmentedreality.ai"
+  },
+  {
+    "domain": "virtualreality.ai",
+    "available": false,
+    "purchaseLink": "https://oneword.domains/d/virtualreality.ai"
+  },
+  {
+    "domain": "mixedreality.ai",
+    "available": false,
+    "purchaseLink": "https://oneword.domains/d/mixedreality.ai"
+  },
+  {
+    "domain": "extendedreality.ai",
+    "available": false,
+    "purchaseLink": "https://oneword.domains/d/extendedreality.ai"
+  },
+  {
+    "domain": "enhancedreality.ai",
+    "available": true,
+    "purchaseLink": "https://oneword.domains/d/enhancedreality.ai"
+  },
+  {
+    "domain": "immersive.ai",
+    "available": false,
+    "purchaseLink": "https://oneword.domains/d/immersive.ai"
+  },
+  {
+    "domain": "haptics.ai",
+    "available": false,
+    "purchaseLink": "https://oneword.domains/d/haptics.ai"
+  },
+  {
+    "domain": "multisensory.ai",
+    "available": false,
+    "purchaseLink": "https://oneword.domains/d/multisensory.ai"
+  },
+  {
+    "domain": "biohacking.ai",
+    "available": false,
+    "purchaseLink": "https://oneword.domains/d/biohacking.ai"
+  },
+  {
+    "domain": "transhumanism.ai",
+    "available": false,
+    "purchaseLink": "https://oneword.domains/d/transhumanism.ai"
+  },
+  {
+    "domain": "humanaugmentation.ai",
+    "available": true,
+    "purchaseLink": "https://oneword.domains/d/humanaugmentation.ai"
+  },
+  {
+    "domain": "humanenhancement.ai",
+    "available": false,
+    "purchaseLink": "https://oneword.domains/d/humanenhancement.ai"
+  },
+  {
+    "domain": "brainmachine.ai",
+    "available": false,
+    "purchaseLink": "https://oneword.domains/d/brainmachine.ai"
+  },
+  {
+    "domain": "wearables.ai",
+    "available": false,
+    "purchaseLink": "https://oneword.domains/d/wearables.ai"
+  },
+  {
+    "domain": "implants.ai",
+    "available": false,
+    "purchaseLink": "https://oneword.domains/d/implants.ai"
+  },
+  {
+    "domain": "exoskeletons.ai",
+    "available": true,
+    "purchaseLink": "https://oneword.domains/d/exoskeletons.ai"
+  },
+  {
+    "domain": "telepresence.ai",
+    "available": false,
+    "purchaseLink": "https://oneword.domains/d/telepresence.ai"
+  },
+  {
+    "domain": "telesurgery.ai",
+    "available": true,
+    "purchaseLink": "https://oneword.domains/d/telesurgery.ai"
+  },
+  {
+    "domain": "remoteexpertise.ai",
+    "available": true,
+    "purchaseLink": "https://oneword.domains/d/remoteexpertise.ai"
+  },
+  {
+    "domain": "telemedicine.ai",
+    "available": false,
+    "purchaseLink": "https://oneword.domains/d/telemedicine.ai"
+  },
+  {
+    "domain": "digitalhealth.ai",
+    "available": false,
+    "purchaseLink": "https://oneword.domains/d/digitalhealth.ai"
+  },
+  {
+    "domain": "personalizedmedicine.ai",
+    "available": false,
+    "purchaseLink": "https://oneword.domains/d/personalizedmedicine.ai"
+  },
+  {
+    "domain": "quantifiedself.ai",
+    "available": false,
+    "purchaseLink": "https://oneword.domains/d/quantifiedself.ai"
+  },
+  {
+    "domain": "bioprinting.ai",
+    "available": true,
+    "purchaseLink": "https://oneword.domains/d/bioprinting.ai"
+  },
+  {
+    "domain": "robotic.ai",
+    "available": false,
+    "purchaseLink": "https://oneword.domains/d/robotic.ai"
+  },
+  {
+    "domain": "cobots.ai",
+    "available": false,
+    "purchaseLink": "https://oneword.domains/d/cobots.ai"
+  },
+  {
+    "domain": "drones.ai",
+    "available": false,
+    "purchaseLink": "https://oneword.domains/d/drones.ai"
+  },
+  {
+    "domain": "AV.ai",
+    "available": false,
+    "purchaseLink": "https://oneword.domains/d/AV.ai"
+  },
+  {
+    "domain": "EV.ai",
+    "available": false,
+    "purchaseLink": "https://oneword.domains/d/EV.ai"
+  },
+  {
+    "domain": "VR.ai",
+    "available": false,
+    "purchaseLink": "https://oneword.domains/d/VR.ai"
+  },
+  {
+    "domain": "AI.ai",
+    "available": false,
+    "purchaseLink": "https://oneword.domains/d/AI.ai"
+  },
+  {
+    "domain": "ML.ai",
+    "available": false,
+    "purchaseLink": "https://oneword.domains/d/ML.ai"
+  },
+  {
+    "domain": "bots.ai",
+    "available": false,
+    "purchaseLink": "https://oneword.domains/d/bots.ai"
+  },
+  {
+    "domain": "IoT.ai",
+    "available": false,
+    "purchaseLink": "https://oneword.domains/d/IoT.ai"
+  },
+  {
+    "domain": "IIoT.ai",
+    "available": false,
+    "purchaseLink": "https://oneword.domains/d/IIoT.ai"
+  },
+  {
+    "domain": "5G.ai",
+    "available": false,
+    "purchaseLink": "https://oneword.domains/d/5G.ai"
+  },
+  {
+    "domain": "WiFi6.ai",
+    "available": true,
+    "purchaseLink": "https://oneword.domains/d/WiFi6.ai"
+  },
+  {
+    "domain": "meshnetworks.ai",
+    "available": true,
+    "purchaseLink": "https://oneword.domains/d/meshnetworks.ai"
+  },
+  {
+    "domain": "edgecomputing.ai",
+    "available": false,
+    "purchaseLink": "https://oneword.domains/d/edgecomputing.ai"
+  },
+  {
+    "domain": "blockchain.ai",
+    "available": false,
+    "purchaseLink": "https://oneword.domains/d/blockchain.ai"
+  },
+  {
+    "domain": "decentralization.ai",
+    "available": false,
+    "purchaseLink": "https://oneword.domains/d/decentralization.ai"
+  },
+  {
+    "domain": "cryptography.ai",
+    "available": false,
+    "purchaseLink": "https://oneword.domains/d/cryptography.ai"
+  },
+  {
+    "domain": "bitcoin.ai",
+    "available": false,
+    "purchaseLink": "https://oneword.domains/d/bitcoin.ai"
+  },
+  {
+    "domain": "ethereum.ai",
+    "available": false,
+    "purchaseLink": "https://oneword.domains/d/ethereum.ai"
+  },
+  {
+    "domain": "defi.ai",
+    "available": false,
+    "purchaseLink": "https://oneword.domains/d/defi.ai"
+  },
+  {
+    "domain": "tokenization.ai",
+    "available": false,
+    "purchaseLink": "https://oneword.domains/d/tokenization.ai"
+  },
+  {
+    "domain": "smartcontracts.ai",
+    "available": false,
+    "purchaseLink": "https://oneword.domains/d/smartcontracts.ai"
+  },
+  {
+    "domain": "dapps.ai",
+    "available": false,
+    "purchaseLink": "https://oneword.domains/d/dapps.ai"
+  },
+  {
+    "domain": "NFTs.ai",
+    "available": false,
+    "purchaseLink": "https://oneword.domains/d/NFTs.ai"
+  },
+  {
+    "domain": "dao.ai",
+    "available": false,
+    "purchaseLink": "https://oneword.domains/d/dao.ai"
+  },
+  {
+    "domain": "metaverse.ai",
+    "available": false,
+    "purchaseLink": "https://oneword.domains/d/metaverse.ai"
+  },
+  {
+    "domain": "spatialcomputing.ai",
+    "available": false,
+    "purchaseLink": "https://oneword.domains/d/spatialcomputing.ai"
+  },
+  {
+    "domain": "XR.ai",
+    "available": false,
+    "purchaseLink": "https://oneword.domains/d/XR.ai"
+  },
+  {
+    "domain": "MR.ai",
+    "available": false,
+    "purchaseLink": "https://oneword.domains/d/MR.ai"
+  },
+  {
+    "domain": "UR.ai",
+    "available": false,
+    "purchaseLink": "https://oneword.domains/d/UR.ai"
+  },
+  {
+    "domain": "HUD.ai",
+    "available": false,
+    "purchaseLink": "https://oneword.domains/d/HUD.ai"
+  },
+  {
+    "domain": "AR.ai",
+    "available": false,
+    "purchaseLink": "https://oneword.domains/d/AR.ai"
+  },
+  {
+    "domain": "VR.ai",
+    "available": false,
+    "purchaseLink": "https://oneword.domains/d/VR.ai"
+  },
+  {
+    "domain": "QS.ai",
+    "available": false,
+    "purchaseLink": "https://oneword.domains/d/QS.ai"
+  },
+  {
+    "domain": "disruptive.ai",
+    "available": false,
+    "purchaseLink": "https://oneword.domains/d/disruptive.ai"
+  },
+  {
+    "domain": "exponential.ai",
+    "available": false,
+    "purchaseLink": "https://oneword.domains/d/exponential.ai"
+  },
+  {
+    "domain": "innovation.ai",
+    "available": false,
+    "purchaseLink": "https://oneword.domains/d/innovation.ai"
+  },
+  {
+    "domain": "invention.ai",
+    "available": false,
+    "purchaseLink": "https://oneword.domains/d/invention.ai"
+  },
+  {
+    "domain": "transformation.ai",
+    "available": false,
+    "purchaseLink": "https://oneword.domains/d/transformation.ai"
+  },
+  {
+    "domain": "futuretech.ai",
+    "available": false,
+    "purchaseLink": "https://oneword.domains/d/futuretech.ai"
+  },
+  {
+    "domain": "emergingtech.ai",
+    "available": false,
+    "purchaseLink": "https://oneword.domains/d/emergingtech.ai"
+  },
+  {
+    "domain": "breakthru.ai",
+    "available": false,
+    "purchaseLink": "https://oneword.domains/d/breakthru.ai"
+  },
+  {
+    "domain": "gamechanger.ai",
+    "available": false,
+    "purchaseLink": "https://oneword.domains/d/gamechanger.ai"
+  },
+  {
+    "domain": "cuttingedge.ai",
+    "available": false,
+    "purchaseLink": "https://oneword.domains/d/cuttingedge.ai"
+  },
+  {
+    "domain": "rocketscience.ai",
+    "available": false,
+    "purchaseLink": "https://oneword.domains/d/rocketscience.ai"
+  },
+  {
+    "domain": "spaceage.ai",
+    "available": false,
+    "purchaseLink": "https://oneword.domains/d/spaceage.ai"
+  },
+  {
+    "domain": "jetsons.ai",
+    "available": false,
+    "purchaseLink": "https://oneword.domains/d/jetsons.ai"
+  },
+  {
+    "domain": "tomorrow.ai",
+    "available": false,
+    "purchaseLink": "https://oneword.domains/d/tomorrow.ai"
+  },
+  {
+    "domain": "beyond.ai",
+    "available": false,
+    "purchaseLink": "https://oneword.domains/d/beyond.ai"
+  },
+  {
+    "domain": "forward.ai",
+    "available": false,
+    "purchaseLink": "https://oneword.domains/d/forward.ai"
+  },
+  {
+    "domain": "ahead.ai",
+    "available": false,
+    "purchaseLink": "https://oneword.domains/d/ahead.ai"
+  },
+  {
+    "domain": "nextgeneration.ai",
+    "available": false,
+    "purchaseLink": "https://oneword.domains/d/nextgeneration.ai"
+  },
+  {
+    "domain": "genius.ai",
+    "available": false,
+    "purchaseLink": "https://oneword.domains/d/genius.ai"
+  },
+  {
+    "domain": "einstein.ai",
+    "available": false,
+    "purchaseLink": "https://oneword.domains/d/einstein.ai"
+  },
+  {
+    "domain": "ideas.ai",
+    "available": false,
+    "purchaseLink": "https://oneword.domains/d/ideas.ai"
+  },
+  {
+    "domain": "brainstorm.ai",
+    "available": false,
+    "purchaseLink": "https://oneword.domains/d/brainstorm.ai"
+  },
+  {
+    "domain": "brainiac.ai",
+    "available": false,
+    "purchaseLink": "https://oneword.domains/d/brainiac.ai"
+  },
+  {
+    "domain": "bigthinker.ai",
+    "available": true,
+    "purchaseLink": "https://oneword.domains/d/bigthinker.ai"
+  },
+  {
+    "domain": "visionary.ai",
+    "available": false,
+    "purchaseLink": "https://oneword.domains/d/visionary.ai"
+  },
+  {
+    "domain": "prodigy.ai",
+    "available": false,
+    "purchaseLink": "https://oneword.domains/d/prodigy.ai"
+  },
+  {
+    "domain": "whizkid.ai",
+    "available": false,
+    "purchaseLink": "https://oneword.domains/d/whizkid.ai"
+  },
+  {
+    "domain": "maverick.ai",
+    "available": false,
+    "purchaseLink": "https://oneword.domains/d/maverick.ai"
+  },
+  {
+    "domain": "phenom.ai",
+    "available": false,
+    "purchaseLink": "https://oneword.domains/d/phenom.ai"
+  },
+  {
+    "domain": "flashofbrilliance.ai",
+    "available": true,
+    "purchaseLink": "https://oneword.domains/d/flashofbrilliance.ai"
+  },
+  {
+    "domain": "eureka.ai",
+    "available": false,
+    "purchaseLink": "https://oneword.domains/d/eureka.ai"
+  },
+  {
+    "domain": "lightbulb.ai",
+    "available": false,
+    "purchaseLink": "https://oneword.domains/d/lightbulb.ai"
+  },
+  {
+    "domain": "brightspark.ai",
+    "available": false,
+    "purchaseLink": "https://oneword.domains/d/brightspark.ai"
+  },
+  {
+    "domain": "firestarter.ai",
+    "available": false,
+    "purchaseLink": "https://oneword.domains/d/firestarter.ai"
+  },
+  {
+    "domain": "kindlemind.ai",
+    "available": true,
+    "purchaseLink": "https://oneword.domains/d/kindlemind.ai"
+  },
+  {
+    "domain": "igniteideas.ai",
+    "available": false,
+    "purchaseLink": "https://oneword.domains/d/igniteideas.ai"
+  },
+  {
+    "domain": "sparkwonders.ai",
+    "available": true,
+    "purchaseLink": "https://oneword.domains/d/sparkwonders.ai"
+  },
+  {
+    "domain": "blazetrails.ai",
+    "available": true,
+    "purchaseLink": "https://oneword.domains/d/blazetrails.ai"
+  },
+  {
+    "domain": "enlighten.ai",
+    "available": false,
+    "purchaseLink": "https://oneword.domains/d/enlighten.ai"
+  },
+  {
+    "domain": "illuminate.ai",
+    "available": false,
+    "purchaseLink": "https://oneword.domains/d/illuminate.ai"
+  },
+  {
+    "domain": "inspire.ai",
+    "available": false,
+    "purchaseLink": "https://oneword.domains/d/inspire.ai"
+  },
+  {
+    "domain": "awakening.ai",
+    "available": false,
+    "purchaseLink": "https://oneword.domains/d/awakening.ai"
+  },
+  {
+    "domain": "realization.ai",
+    "available": false,
+    "purchaseLink": "https://oneword.domains/d/realization.ai"
+  },
+  {
+    "domain": "envision.ai",
+    "available": false,
+    "purchaseLink": "https://oneword.domains/d/envision.ai"
+  },
+  {
+    "domain": "breakthrough.ai",
+    "available": false,
+    "purchaseLink": "https://oneword.domains/d/breakthrough.ai"
+  },
+  {
+    "domain": "epiphany.ai",
+    "available": false,
+    "purchaseLink": "https://oneword.domains/d/epiphany.ai"
+  },
+  {
+    "domain": "imaginarium.ai",
+    "available": false,
+    "purchaseLink": "https://oneword.domains/d/imaginarium.ai"
+  },
+  {
+    "domain": "futureworld.ai",
+    "available": false,
+    "purchaseLink": "https://oneword.domains/d/futureworld.ai"
+  },
+  {
+    "domain": "innovation.ai",
+    "available": false,
+    "purchaseLink": "https://oneword.domains/d/innovation.ai"
+  },
+  {
+    "domain": "moonshot.ai",
+    "available": false,
+    "purchaseLink": "https://oneword.domains/d/moonshot.ai"
+  },
+  {
+    "domain": "groundbreaker.ai",
+    "available": false,
+    "purchaseLink": "https://oneword.domains/d/groundbreaker.ai"
   }
 ]
 
 # Filter out the available domains 
-available_domains = [d for d in domains if d['available']] 
+available_domains = [d for d in domains if d['available']]
+print(available_domains)
+
 # Write the available domains to a CSV file 
 with open('available_domains.csv', 'a', newline='') as csvfile: 
     fieldnames = ['domain', 'available', 'purchaseLink'] 
-    writer = csv.DictWriter(csvfile)
+    writer = csv.DictWriter(csvfile, fieldnames=fieldnames)
     writer.writeheader() 
     for domain in available_domains: 
         writer.writerow(domain)

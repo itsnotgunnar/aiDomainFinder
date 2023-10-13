@@ -1,12 +1,24 @@
 import csv, json
-# import regular expressions for replacing the current domain with the .ai version
 import re
 from sympy import true, false
 import requests
 from bs4 import BeautifulSoup
+import os
+import godaddypy
+# import lib that allows me to dequque from a list
+from collections import deque
+
+api_key = godaddypy.api_key = os.environ.get('GODADDY_API_KEY')
+api_secret = godaddypy.api_secret = os.environ.get('GODADDY_API_SECRET')
+
+# api_key = os.environ.get('GODADDY_API_KEY')
+# api_secret = os.environ.get('GODADDY_API_SECRET')
 
 
-def convert_domains():
+available_domains = []
+checked_domains = []
+
+def convert_json_domains():
     with open('top_companies.json') as f:
         companies = json.load(f)
 
@@ -27,22 +39,66 @@ def convert_domains():
 def check_avaliability(domains):
     BASE_URL = 'https://oneword.domains/d/'
     for domain in domains:
-        url = BASE_URL + domain
+        url = f"https://www.godaddy.com/domainsearch/find?checkAvail=1&domainToCheck={domain}"
         response = requests.get(url)
-        soup = BeautifulSoup(response.content, 'html.parser')
-        available = soup.find('div', class_='ms0 mb-0')
-        if available:
-            print(domain + ' is available')
-        else:
-            print(domain + ' is not available')
+        soup = BeautifulSoup(response.text, 'html.parser')
+        result = soup.find('div', {'class': 'search-results px-0'})
 
+    if result:
+        print(domain + ' is available')
+        available_domains.append(domain)
+    else:
+        print(f"{domain} is not available")
+
+def txt_to_list():
+    """Convert a CSV file to a list of strings"""
+    with open('unchecked_domains.txt', 'r') as f:
+        domains = f.read()[:-1].split(',')
+        domains.pop()
+        return domains
+
+def check_domain_availability(domains):
+    """Check if a domain is available for purchase"""
+    for domain in domains:
+        # GoDaddy API endpoint for checking domain availability
+        endpoint = f"https://api.godaddy.com/v1/domains/available?domain={domain}"
+
+        headers = {
+            "Authorization": f"sso-key {api_key}:{api_secret}",
+            "Accept": "application/json"
+        }
+
+        try:
+            response = requests.get(endpoint, headers=headers)
+            data = response.json()
+        
+            if data["available"]:
+                available_domains.append(domain)
+                print(f"The domain {domain} is available on GoDaddy!")
+                checked_domains.append(domain)
+                domains = domains.remove(domain)
+            else:
+                print(f"The domain {domain} is not available on GoDaddy.")
+                checked_domains.append(domain)
+                domains = domains.remove(domain)
+
+
+        except Exception as e:
+            print(e)
+            write_to_txt(checked_domains,'checked_domains.txt', 'a')
+            write_to_txt(domains,'unchecked_domains.txt', 'w')
+            exit()
+
+
+
+    
 def find_available(domains):
     """Check if a domain is available for purchase"""
     # Filter out the available domains
     available_domains = [d for d in domains if d['available']]
 
     # Write the available domains to a CSV file
-    with open('available_domains.csv', 'w', newline='') as csvfile:
+    with open('sten', 'a', newline='') as csvfile:
         fieldnames = ['domain', 'available', 'purchaseLink']
         writer = csv.DictWriter(csvfile, fieldnames=fieldnames)
 
@@ -50,17 +106,22 @@ def find_available(domains):
         for domain in available_domains:
             writer.writerow(domain)
 
-def write_to_txt(domains):
+def write_to_txt(domains, filename, mode):
     """Write the domains to a txt file"""
-    print(domains)
-    with open('ai_domains.txt', 'w') as f:
+    with open(filename, mode=mode) as f:
         for domain in domains:
-            f.write(f"{domain} , ")
+          f.write(domain + ',')
+
+domains = convert_json_domains()
+write_to_txt(domains, 'available_domains.txt', 'w')
+exit()
 
 def main():
-    domains = convert_domains()
-    check_avaliability(domains)
-    write_to_txt(domains)
+    if os.path.exists('unchecked_domains.txt'):
+        domains = txt_to_list()
+    else:
+        domains = convert_json_domains()
+    check_domain_availability(domains)
     # find_available(domains)
 
 if __name__ == '__main__':
@@ -81,59 +142,4 @@ for url in urls:
 print(ai_domains)
 
 create a regex in python that will replace domain names with their '.ai' version. here are some samples:'
-https://www.chinaunicom.com.hk
-https://www.schindler.com
-https://www.cicc.com/
-https://www.adaniports.com/
-https://www.molinahealthcare.com
-https://www.pttep.com/
-http://www.zhifeishengwu.com/
-https://www.berkley.com/
-https://www.bb.com.br
-https://www.crrcgc.cc
-https://www.longfor.com/en/
-https://www.ntpc.co.in/
-https://www.fortisinc.com/
-https://www.pbebank.com/
-https://www.biomarin.com/
-https://eletrobras.com
-http://www.tpltrust.com/
-https://www.centerpointenergy.com
-https://zoom.us/
-https://carlsberggroup.com/
-https://www.wilmar-international.com/
-http://www.weston.ca/
-https://www.viacom.com/
-https://www.invitationhomes.com/
-https://www.rollins.com/
-https://www.essity.com/
-https://www.wabtec.com/
-https://corporate.m3.com/
-Unknown
-Unknown
-https://www.legalandgeneral.com/
-https://www.kakaocorp.com/?lang=en
-https://www.ventasreit.com/
-https://www.dukerealty.com/
-https://www.steris.com/
-https://www.wheatonpm.com/
-https://www.npc.com.tw
-https://www.jasolar.com.cn/
-https://www.incyte.com/
-http://www.mengniuir.com
-https://www.aeon.info/en/
-https://www.maac.com/
-http://www.baosteel.com
-https://www.otsuka.com/en/
-https://www.steeldynamics.com/
-https://www.bestbuy.com/
-https://www.clpgroup.com/en
-http://www.fpcusa.com/
-https://www.gulf.co.th/en/
-https://www.amcor.com/
-https://www.cathayholdings.com
-http://www.wens.com.cn/
-`.
-for example, https://www.clpgroup.com/en would be clpgroup.ai. put all of these domains in a list. 'U
-nknown' should not be added to the list
 '''
