@@ -29,8 +29,8 @@ This repository finds the domains of the companies with the highest market caps 
     Clone the repository
 
     bash
-
-git clone https://github.com/itsnotgunnar/aiDomainFinder.git
+    
+    git clone https://github.com/itsnotgunnar/aiDomainFinder.git
 
 ## Navigate to the project directory
 
