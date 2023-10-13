@@ -4,45 +4,45 @@ will be treated as a global top-level domain. You have the ability to accurately
 ains and access the value of each, categorizes the domains by such. Here is the list:'''
 """provide an analysis on the top 20 domain, then provide an altenative analysis on another top 20 domains; then provide the argument for each list. provide the final consensus with the arguments using your industry knowledge."""
 # Gold
-vlogging.ai
+vlogging.ai [PURCHASED]
 selfworth.ai
-selfesteem.ai
+selfesteem.ai [PURCHASED]
 self-care.ai
-usenergy.ai
+usenergy.ai [PURCHASED]
 usmarket.ai
 useconomy.ai
 usindustry.ai
 ustrading.ai
 ustrends.ai
-bmwgroup.ai
-sellads.ai
+bmwgroup.ai [PURCHASED]
+sellads.ai [PURCHASED]
 aidrugs.ai
-economical.ai
+economical.ai [PURCHASED]
 adaptogen.ai
 adaptogens.ai
-autogenerative.ai
-paleontology.ai
-bioprinting.ai
-exoskeletons.ai
+autogenerative.ai [PURCHASED]
+paleontology.ai [PURCHASED]
+bioprinting.ai [PURCHASED]
+exoskeletons.ai [PURCHASED]
 autodiagnosis.ai
-holographics.ai
+holographics.ai [PURCHASED]
 airproducts.ai
 freeapp.ai
-aihacks.ai
-findhouses.ai
-findapartments.ai
+aihacks.ai [PURCHASED]
+findhouses.ai [PURCHASED]
+findapartments.ai [PURCHASED]
 texaselectricity.ai
 mypersonalized.ai
-sellads.ai
+sellads.ai [PURCHASED]
 freetutorials.ai
-freebeats.ai
+freebeats.ai [PURCHASED]
 easyhack.ai
 easyhacks.ai
 easyhacking.ai
-carbonclean.ai
+carbonclean.ai [PURCHASED]
 bio-hack.ai
-bio-hacking.ai
-anti-aging.ai
+bio-hacking.ai [PURCHASED]
+anti-aging.ai [PURCHASED]
 aitutorials.ai
 bestlongevity.ai
 longevitydrug.ai
@@ -67,7 +67,7 @@ cheapdrones.ai
 ecotourism.ai
 getprescription.ai
 getdiagnosis.ai
-freeprescription.ai
+freeprescriptions.ai [PURCHASED]
 texasenergy.ai
 freedoctor.ai
 freetherapy.ai
@@ -100,15 +100,15 @@ freeapp.ai
 airproducts.ai
 performative.ai
 humanaugmentation.ai
-enhancedreality.ai
-appliedquantum.ai
+enhancedreality.ai [PURCHASED]
+appliedquantum.ai [PURCHASED]
 CyberEspionage.ai
 ParticlePhysics.ai
 TheoreticalPhysics.ai
 OrganicChemistry.ai
 strangles.ai
 straddles.ai
-clang.ai
+clang.ai [PURCHASED]
 ravish.ai
 exhilarate.ai
 impose.ai
@@ -150,7 +150,7 @@ demandforecasting.ai
 voiceassistants.ai
 autonomousdelivery.ai
 filmtech.ai
-gametech.ai
+gametech.ai [PURCHASED]
 realtytech.ai
 fitnesstech.ai
 swimtech.ai
@@ -158,10 +158,10 @@ runtech.ai
 wellnesstech.ai
 earthtech.ai
 metaltech.ai
-iotsecurity.ai
+iotsecurity.ai [PURCHASED]
 iotsensors.ai
 websockets.ai
-urbantech.ai
+urbantech.ai [PURCHASED]
 drivetech.ai
 datingtech.ai
 sempra.ai
