@@ -59,5 +59,5 @@ def get_company_data():
 
 if __name__ == "__main__":
     data = get_company_data()
-    with open('top_companies.json', 'w') as f:
+    with open('companies.json', 'w') as f:
         json.dump(data, f, indent=4)

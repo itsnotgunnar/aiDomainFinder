@@ -19,7 +19,7 @@ available_domains = []
 checked_domains = []
 
 def convert_json_domains():
-    with open('top_companies.json') as f:
+    with open('companies.json') as f:
         companies = json.load(f)
 
     domains = []
@@ -110,13 +110,12 @@ def write_to_txt(domains, filename, mode):
     """Write the domains to a txt file"""
     with open(filename, mode=mode) as f:
         for domain in domains:
-          f.write(domain + ',')
-
-domains = convert_json_domains()
-write_to_txt(domains, 'available_domains.txt', 'w')
-exit()
+            f.write(domain + ',')
+            f.write('\n')
 
 def main():
+    domains = convert_json_domains()
+    write_to_txt(domains, 'available', 'w')
     if os.path.exists('unchecked_domains.txt'):
         domains = txt_to_list()
     else:
