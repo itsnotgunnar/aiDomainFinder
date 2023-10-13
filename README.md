@@ -3,13 +3,13 @@ This repository finds the domains of the companies with the highest market caps 
 
 ## Table of Contents
 
-- Features
-- Requirements
-- Installation
-- Usage
-- Contributing
-- License
-- Contact
+1. [Features](#features)
+2. [Requirements](#requirements)
+3. [Installation](#installation)
+4. [Usage](#usage)
+5. [Contributing](#contributing)
+6. [License](#license)
+7. [Contact](#contact)
 
 ## Features
 
