@@ -52,7 +52,7 @@ Run web_scraper.py to scrape company information:
 python web_scraper.py
 ```
 
-Run check_availability.py to check domain availability:
+Run check_availability.py to check domain availability status:
 
 ```bash
 python check_availability.py
